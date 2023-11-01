@@ -1,0 +1,36 @@
+{
+  "name": "aws-iconic",
+  "version": "1.0.0",
+  "description": "AWS icons library based on AWS official icons assets. React and Vue support",
+  "keywords": [
+    "aws",
+    "icons",
+    "svg",
+    "typescript",
+    "tsx",
+    "jsx",
+    "react",
+    "vue"
+  ],
+  "license": "MIT",
+  "author": "unimu-cic",
+  "main": "index.js",
+  "scripts": {
+    "build": "yarn build-react && yarn build-vue",
+    "build-react": "node ./scripts/build.js react",
+    "build-vue": "node ./scripts/build.js vue"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/plugin-transform-react-jsx": "^7.12.12",
+    "@svgr/core": "^5.5.0",
+    "@vue/compiler-dom": "^3.3.4",
+    "axios": "^1.5.0",
+    "camelcase": "^6.0.0",
+    "cheerio": "^1.0.0-rc.12",
+    "mkdirp": "^3.0.1",
+    "prettier": "^3.0.3",
+    "rimraf": "^3.0.2",
+    "svgo": "^3.0.2"
+  }
+}
