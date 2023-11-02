@@ -28,5 +28,4 @@ function copyAndCleanStructure(sourceDir, destDir, topLevel = true) {
     }
   })
 }
-
 copyAndCleanStructure(sourceDirectory, destinationDirectory)
