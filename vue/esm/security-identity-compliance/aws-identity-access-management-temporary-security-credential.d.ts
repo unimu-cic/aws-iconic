@@ -1,0 +1,3 @@
+import type { FunctionalComponent, HTMLAttributes, VNodeProps } from 'vue';
+declare const SecurityIdentityComplianceAwsIdentityAccessManagementTemporarySecurityCredential: FunctionalComponent<HTMLAttributes & VNodeProps>;
+export default SecurityIdentityComplianceAwsIdentityAccessManagementTemporarySecurityCredential;

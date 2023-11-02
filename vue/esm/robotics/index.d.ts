@@ -1,0 +1,6 @@
+export { default as RoboticsArchAwsRobomaker } from './arch-aws-robomaker'
+export { default as RoboticsArchCategoryRobotics } from './arch-category-robotics'
+export { default as RoboticsResAwsRobomakerCloudExtensionsRos } from './res-aws-robomaker-cloud-extensions-ros'
+export { default as RoboticsResAwsRobomakerDevelopmentEnvironment } from './res-aws-robomaker-development-environment'
+export { default as RoboticsResAwsRobomakerFleetManagement } from './res-aws-robomaker-fleet-management'
+export { default as RoboticsResAwsRobomakerSimulation } from './res-aws-robomaker-simulation'

@@ -1,0 +1,8 @@
+export { default as CustomerEnablementArchAwsActivate } from './arch-aws-activate'
+export { default as CustomerEnablementArchAwsIq } from './arch-aws-iq'
+export { default as CustomerEnablementArchAwsManagedServices } from './arch-aws-managed-services'
+export { default as CustomerEnablementArchAwsProfessionalServices } from './arch-aws-professional-services'
+export { default as CustomerEnablementArchAwsSupport } from './arch-aws-support'
+export { default as CustomerEnablementArchAwsTrainingCertification } from './arch-aws-training-certification'
+export { default as CustomerEnablementArchAwsRepost } from './arch-aws-repost'
+export { default as CustomerEnablementArchCategoryCustomerEnablement } from './arch-category-customer-enablement'
