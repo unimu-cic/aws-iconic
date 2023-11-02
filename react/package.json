@@ -1,9 +1,39 @@
 {
-  "name": "aws-iconic/react",
-  "version": "1.0.0",
-  "main": "index.js",
+  "name": "@aws-iconic/react",
+  "version": "1.0.8",
+  "description": "",
   "keywords": [],
-  "author": "unimu-cic",
+  "homepage": "https://github.com/unimu-cic/aws-iconic#readme",
+  "bugs": {
+    "url": "https://github.com/unimu-cic/aws-iconic/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unimu-cic/aws-iconic.git"
+  },
   "license": "MIT",
-  "description": ""
+  "author": "unimu-cic",
+  "sideEffects": false,
+  "exports": {
+    ".": {
+      "import": "./esm/index.js",
+      "require": "./index.js"
+    },
+    "./grouped": {
+      "types": "./grouped.d.ts",
+      "import": "./esm/grouped.js",
+      "require": "./grouped.js"
+    },
+    "./package.json": {
+      "default": "./package.json"
+    }
+  },
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
 }
