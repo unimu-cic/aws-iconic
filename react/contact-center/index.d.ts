@@ -1,0 +1,1 @@
+export { default as ContactCenterArchCategoryContactCenter } from './arch-category-contact-center'
