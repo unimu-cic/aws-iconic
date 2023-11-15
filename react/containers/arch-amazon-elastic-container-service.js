@@ -38,4 +38,5 @@ function ContainersArchAmazonElasticContainerService({
   })));
 }
 const ForwardRef = React.forwardRef(ContainersArchAmazonElasticContainerService);
+ForwardRef.aliasName = "Amazon Elastic Container Service";
 module.exports = ForwardRef;

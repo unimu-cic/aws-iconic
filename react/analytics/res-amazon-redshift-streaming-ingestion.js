@@ -29,4 +29,5 @@ function AnalyticsResAmazonRedshiftStreamingIngestion({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAmazonRedshiftStreamingIngestion);
+ForwardRef.aliasName = "Amazon Redshift Streaming Ingestion";
 module.exports = ForwardRef;

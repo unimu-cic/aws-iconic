@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsLicenseManagerLicenseBlending({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsLicenseManagerLicenseBlending);
+ForwardRef.aliasName = "Aws License Manager License Blending";
 module.exports = ForwardRef;

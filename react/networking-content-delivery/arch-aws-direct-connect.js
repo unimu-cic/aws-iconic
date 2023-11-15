@@ -38,4 +38,5 @@ function NetworkingContentDeliveryArchAwsDirectConnect({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryArchAwsDirectConnect);
+ForwardRef.aliasName = "Aws Direct Connect";
 module.exports = ForwardRef;

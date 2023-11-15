@@ -38,4 +38,5 @@ function MachineLearningArchAwsDeepcomposer({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAwsDeepcomposer);
+ForwardRef.aliasName = "Aws Deepcomposer";
 module.exports = ForwardRef;

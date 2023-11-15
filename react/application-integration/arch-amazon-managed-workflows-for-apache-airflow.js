@@ -41,4 +41,5 @@ function ApplicationIntegrationArchAmazonManagedWorkflowsForApacheAirflow({
   }))));
 }
 const ForwardRef = React.forwardRef(ApplicationIntegrationArchAmazonManagedWorkflowsForApacheAirflow);
+ForwardRef.aliasName = "Amazon Managed Workflows For Apache Airflow";
 module.exports = ForwardRef;

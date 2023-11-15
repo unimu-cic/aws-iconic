@@ -29,4 +29,5 @@ function StorageResAmazonSimpleStorageServiceS3StorageLens({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAmazonSimpleStorageServiceS3StorageLens);
+ForwardRef.aliasName = "Amazon Simple Storage Service S3 Storage Lens";
 module.exports = ForwardRef;

@@ -38,4 +38,5 @@ function DatabaseArchAmazonElasticache({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseArchAmazonElasticache);
+ForwardRef.aliasName = "Amazon Elasticache";
 export default ForwardRef;

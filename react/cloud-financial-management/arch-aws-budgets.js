@@ -38,4 +38,5 @@ function CloudFinancialManagementArchAwsBudgets({
   })));
 }
 const ForwardRef = React.forwardRef(CloudFinancialManagementArchAwsBudgets);
+ForwardRef.aliasName = "Aws Budgets";
 module.exports = ForwardRef;

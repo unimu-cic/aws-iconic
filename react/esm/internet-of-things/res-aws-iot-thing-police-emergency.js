@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotThingPoliceEmergency({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotThingPoliceEmergency);
+ForwardRef.aliasName = "Aws Iot Thing_police Emergency";
 export default ForwardRef;

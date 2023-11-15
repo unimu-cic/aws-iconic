@@ -36,4 +36,5 @@ function GroupVirtualPrivateCloudVpc({
   })));
 }
 const ForwardRef = React.forwardRef(GroupVirtualPrivateCloudVpc);
+ForwardRef.aliasName = "Virtual Private Cloud Vpc";
 export default ForwardRef;

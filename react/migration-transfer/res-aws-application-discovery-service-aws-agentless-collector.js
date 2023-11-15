@@ -29,4 +29,5 @@ function MigrationTransferResAwsApplicationDiscoveryServiceAwsAgentlessCollector
   })));
 }
 const ForwardRef = React.forwardRef(MigrationTransferResAwsApplicationDiscoveryServiceAwsAgentlessCollector);
+ForwardRef.aliasName = "Aws Application Discovery Service Aws Agentless Collector";
 module.exports = ForwardRef;

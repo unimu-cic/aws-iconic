@@ -29,4 +29,5 @@ function DatabaseResAmazonRdsMultiAz({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseResAmazonRdsMultiAz);
+ForwardRef.aliasName = "Amazon Rds Multi Az";
 module.exports = ForwardRef;

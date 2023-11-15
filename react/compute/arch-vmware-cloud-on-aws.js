@@ -38,4 +38,5 @@ function ComputeArchVmwareCloudOnAws({
   })));
 }
 const ForwardRef = React.forwardRef(ComputeArchVmwareCloudOnAws);
+ForwardRef.aliasName = "Vmware Cloud On Aws";
 module.exports = ForwardRef;

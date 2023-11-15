@@ -38,4 +38,5 @@ function MachineLearningArchAmazonFraudDetector({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAmazonFraudDetector);
+ForwardRef.aliasName = "Amazon Fraud Detector";
 export default ForwardRef;

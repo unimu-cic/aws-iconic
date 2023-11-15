@@ -38,4 +38,5 @@ function StorageArchAwsBackup({
   })));
 }
 const ForwardRef = React.forwardRef(StorageArchAwsBackup);
+ForwardRef.aliasName = "Aws Backup";
 export default ForwardRef;

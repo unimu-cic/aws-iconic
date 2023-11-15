@@ -38,4 +38,5 @@ function SecurityIdentityComplianceArchAwsSecurityHub({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceArchAwsSecurityHub);
+ForwardRef.aliasName = "Aws Security Hub";
 module.exports = ForwardRef;

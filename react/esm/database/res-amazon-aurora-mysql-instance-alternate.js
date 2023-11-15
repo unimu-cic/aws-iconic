@@ -29,4 +29,5 @@ function DatabaseResAmazonAuroraMysqlInstanceAlternate({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseResAmazonAuroraMysqlInstanceAlternate);
+ForwardRef.aliasName = "Amazon Aurora Mysql Instance Alternate";
 export default ForwardRef;

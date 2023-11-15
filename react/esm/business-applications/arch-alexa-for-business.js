@@ -38,4 +38,5 @@ function BusinessApplicationsArchAlexaForBusiness({
   })));
 }
 const ForwardRef = React.forwardRef(BusinessApplicationsArchAlexaForBusiness);
+ForwardRef.aliasName = "Alexa For Business";
 export default ForwardRef;

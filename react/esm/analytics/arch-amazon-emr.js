@@ -38,4 +38,5 @@ function AnalyticsArchAmazonEmr({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsArchAmazonEmr);
+ForwardRef.aliasName = "Amazon Emr";
 export default ForwardRef;

@@ -36,4 +36,5 @@ function GroupCorporateDataCenter({
   })));
 }
 const ForwardRef = React.forwardRef(GroupCorporateDataCenter);
+ForwardRef.aliasName = "Corporate Data Center";
 module.exports = ForwardRef;

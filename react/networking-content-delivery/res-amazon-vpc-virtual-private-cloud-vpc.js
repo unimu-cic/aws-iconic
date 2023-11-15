@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAmazonVpcVirtualPrivateCloudVpc({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAmazonVpcVirtualPrivateCloudVpc);
+ForwardRef.aliasName = "Amazon Vpc Virtual Private Cloud Vpc";
 module.exports = ForwardRef;

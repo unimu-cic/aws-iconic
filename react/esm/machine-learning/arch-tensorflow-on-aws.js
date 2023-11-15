@@ -38,4 +38,5 @@ function MachineLearningArchTensorflowOnAws({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchTensorflowOnAws);
+ForwardRef.aliasName = "Tensorflow On Aws";
 export default ForwardRef;

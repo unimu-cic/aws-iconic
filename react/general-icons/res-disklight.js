@@ -29,4 +29,5 @@ function GeneralIconsResDisklight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResDisklight);
+ForwardRef.aliasName = "Disklight";
 module.exports = ForwardRef;

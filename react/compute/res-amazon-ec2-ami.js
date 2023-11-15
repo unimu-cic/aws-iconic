@@ -29,4 +29,5 @@ function ComputeResAmazonEc2Ami({
   })));
 }
 const ForwardRef = React.forwardRef(ComputeResAmazonEc2Ami);
+ForwardRef.aliasName = "Amazon Ec2 Ami";
 module.exports = ForwardRef;

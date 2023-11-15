@@ -38,4 +38,5 @@ function SecurityIdentityComplianceArchAmazonSecurityLake({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceArchAmazonSecurityLake);
+ForwardRef.aliasName = "Amazon Security Lake";
 export default ForwardRef;

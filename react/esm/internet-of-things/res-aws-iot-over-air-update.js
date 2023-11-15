@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotOverAirUpdate({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotOverAirUpdate);
+ForwardRef.aliasName = "Aws Iot Over Air Update";
 export default ForwardRef;

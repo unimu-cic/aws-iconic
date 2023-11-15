@@ -29,4 +29,5 @@ function StorageResAmazonSimpleStorageServiceS3GlacierDeepArchive({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAmazonSimpleStorageServiceS3GlacierDeepArchive);
+ForwardRef.aliasName = "Amazon Simple Storage Service S3 Glacier Deep Archive";
 export default ForwardRef;

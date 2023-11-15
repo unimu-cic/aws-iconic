@@ -38,4 +38,5 @@ function NetworkingContentDeliveryArchAmazonVirtualPrivateCloud({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryArchAmazonVirtualPrivateCloud);
+ForwardRef.aliasName = "Amazon Virtual Private Cloud";
 module.exports = ForwardRef;

@@ -41,4 +41,5 @@ function ContainersArchRedHatOpenshiftServiceOnAws({
   }))));
 }
 const ForwardRef = React.forwardRef(ContainersArchRedHatOpenshiftServiceOnAws);
+ForwardRef.aliasName = "Red Hat Openshift Service On Aws";
 export default ForwardRef;

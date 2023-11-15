@@ -29,4 +29,5 @@ function ManagementGovernanceResAmazonCloudwatchCrossAccountObservability({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAmazonCloudwatchCrossAccountObservability);
+ForwardRef.aliasName = "Amazon Cloudwatch Cross Account Observability";
 module.exports = ForwardRef;

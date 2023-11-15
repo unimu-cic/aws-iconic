@@ -29,4 +29,5 @@ function QuantumTechnologiesResAmazonBraketEmbeddedSimulator({
   })));
 }
 const ForwardRef = React.forwardRef(QuantumTechnologiesResAmazonBraketEmbeddedSimulator);
+ForwardRef.aliasName = "Amazon Braket Embedded Simulator";
 module.exports = ForwardRef;

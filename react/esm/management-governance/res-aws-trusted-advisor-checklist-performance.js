@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsTrustedAdvisorChecklistPerformance({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsTrustedAdvisorChecklistPerformance);
+ForwardRef.aliasName = "Aws Trusted Advisor Checklist Performance";
 export default ForwardRef;

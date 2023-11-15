@@ -41,4 +41,5 @@ function ComputeArchAwsComputeOptimizer({
   }))));
 }
 const ForwardRef = React.forwardRef(ComputeArchAwsComputeOptimizer);
+ForwardRef.aliasName = "Aws Compute Optimizer";
 export default ForwardRef;

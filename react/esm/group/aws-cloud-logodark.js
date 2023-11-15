@@ -36,4 +36,5 @@ function GroupAwsCloudLogodark({
   })));
 }
 const ForwardRef = React.forwardRef(GroupAwsCloudLogodark);
+ForwardRef.aliasName = "Aws Cloud Logodark";
 export default ForwardRef;

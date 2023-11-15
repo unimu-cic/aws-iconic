@@ -29,4 +29,5 @@ function StorageResAmazonSimpleStorageServiceGeneralAccessPoints({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAmazonSimpleStorageServiceGeneralAccessPoints);
+ForwardRef.aliasName = "Amazon Simple Storage Service General Access Points";
 export default ForwardRef;

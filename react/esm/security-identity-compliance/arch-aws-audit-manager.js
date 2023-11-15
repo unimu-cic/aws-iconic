@@ -41,4 +41,5 @@ function SecurityIdentityComplianceArchAwsAuditManager({
   }))));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceArchAwsAuditManager);
+ForwardRef.aliasName = "Aws Audit Manager";
 export default ForwardRef;

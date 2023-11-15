@@ -29,4 +29,5 @@ function QuantumTechnologiesResAmazonBraketChip({
   })));
 }
 const ForwardRef = React.forwardRef(QuantumTechnologiesResAmazonBraketChip);
+ForwardRef.aliasName = "Amazon Braket Chip";
 export default ForwardRef;

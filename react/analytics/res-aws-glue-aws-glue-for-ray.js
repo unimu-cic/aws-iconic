@@ -29,4 +29,5 @@ function AnalyticsResAwsGlueAwsGlueForRay({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAwsGlueAwsGlueForRay);
+ForwardRef.aliasName = "Aws Glue Aws Glue For Ray";
 module.exports = ForwardRef;

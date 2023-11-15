@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsSystemsManagerOpscenter({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsSystemsManagerOpscenter);
+ForwardRef.aliasName = "Aws Systems Manager Opscenter";
 module.exports = ForwardRef;

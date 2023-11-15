@@ -41,4 +41,5 @@ function StorageArchAwsSnowcone({
   }))));
 }
 const ForwardRef = React.forwardRef(StorageArchAwsSnowcone);
+ForwardRef.aliasName = "Aws Snowcone";
 module.exports = ForwardRef;

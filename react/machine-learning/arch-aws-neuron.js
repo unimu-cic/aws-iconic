@@ -38,4 +38,5 @@ function MachineLearningArchAwsNeuron({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAwsNeuron);
+ForwardRef.aliasName = "Aws Neuron";
 module.exports = ForwardRef;

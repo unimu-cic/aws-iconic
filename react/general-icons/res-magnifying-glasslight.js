@@ -29,4 +29,5 @@ function GeneralIconsResMagnifyingGlasslight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResMagnifyingGlasslight);
+ForwardRef.aliasName = "Magnifying Glasslight";
 module.exports = ForwardRef;

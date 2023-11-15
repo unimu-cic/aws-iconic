@@ -29,4 +29,5 @@ function GeneralIconsResAwsManagementConsolelight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResAwsManagementConsolelight);
+ForwardRef.aliasName = "Aws Management Consolelight";
 export default ForwardRef;

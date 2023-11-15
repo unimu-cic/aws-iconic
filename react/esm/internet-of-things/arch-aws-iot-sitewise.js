@@ -38,4 +38,5 @@ function InternetOfThingsArchAwsIotSitewise({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsArchAwsIotSitewise);
+ForwardRef.aliasName = "Aws Iot Sitewise";
 export default ForwardRef;

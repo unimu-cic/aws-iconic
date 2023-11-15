@@ -38,4 +38,5 @@ function ApplicationIntegrationArchAmazonMq({
   })));
 }
 const ForwardRef = React.forwardRef(ApplicationIntegrationArchAmazonMq);
+ForwardRef.aliasName = "Amazon Mq";
 export default ForwardRef;

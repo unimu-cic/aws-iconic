@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsSystemsManagerChangeManager({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsSystemsManagerChangeManager);
+ForwardRef.aliasName = "Aws Systems Manager Change Manager";
 module.exports = ForwardRef;

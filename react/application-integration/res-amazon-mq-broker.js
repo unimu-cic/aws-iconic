@@ -29,4 +29,5 @@ function ApplicationIntegrationResAmazonMqBroker({
   })));
 }
 const ForwardRef = React.forwardRef(ApplicationIntegrationResAmazonMqBroker);
+ForwardRef.aliasName = "Amazon Mq Broker";
 module.exports = ForwardRef;

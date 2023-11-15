@@ -38,4 +38,5 @@ function AnalyticsArchAmazonAthena({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsArchAmazonAthena);
+ForwardRef.aliasName = "Amazon Athena";
 export default ForwardRef;

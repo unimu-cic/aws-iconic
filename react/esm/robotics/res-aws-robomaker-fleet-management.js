@@ -29,4 +29,5 @@ function RoboticsResAwsRobomakerFleetManagement({
   })));
 }
 const ForwardRef = React.forwardRef(RoboticsResAwsRobomakerFleetManagement);
+ForwardRef.aliasName = "Aws Robomaker Fleet Management";
 export default ForwardRef;

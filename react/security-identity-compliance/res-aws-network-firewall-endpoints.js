@@ -29,4 +29,5 @@ function SecurityIdentityComplianceResAwsNetworkFirewallEndpoints({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceResAwsNetworkFirewallEndpoints);
+ForwardRef.aliasName = "Aws Network Firewall Endpoints";
 module.exports = ForwardRef;

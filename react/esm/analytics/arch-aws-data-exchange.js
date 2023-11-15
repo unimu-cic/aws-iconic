@@ -38,4 +38,5 @@ function AnalyticsArchAwsDataExchange({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsArchAwsDataExchange);
+ForwardRef.aliasName = "Aws Data Exchange";
 export default ForwardRef;

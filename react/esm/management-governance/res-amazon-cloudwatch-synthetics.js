@@ -29,4 +29,5 @@ function ManagementGovernanceResAmazonCloudwatchSynthetics({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAmazonCloudwatchSynthetics);
+ForwardRef.aliasName = "Amazon Cloudwatch Synthetics";
 export default ForwardRef;

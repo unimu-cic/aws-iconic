@@ -41,4 +41,5 @@ function ComputeArchAwsThinkboxStoke({
   }))));
 }
 const ForwardRef = React.forwardRef(ComputeArchAwsThinkboxStoke);
+ForwardRef.aliasName = "Aws Thinkbox Stoke";
 module.exports = ForwardRef;

@@ -29,4 +29,5 @@ function ContainersResAmazonElasticContainerRegistryRegistry({
   })));
 }
 const ForwardRef = React.forwardRef(ContainersResAmazonElasticContainerRegistryRegistry);
+ForwardRef.aliasName = "Amazon Elastic Container Registry Registry";
 export default ForwardRef;

@@ -41,4 +41,5 @@ function InternetOfThingsArchAwsIotTwinmaker({
   }))));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsArchAwsIotTwinmaker);
+ForwardRef.aliasName = "Aws Iot Twinmaker";
 export default ForwardRef;

@@ -47,4 +47,5 @@ function FrontEndWebMobileArchCategoryFrontEndWebMobile({
   }))));
 }
 const ForwardRef = React.forwardRef(FrontEndWebMobileArchCategoryFrontEndWebMobile);
+ForwardRef.aliasName = "Category Front End Web Mobile";
 export default ForwardRef;

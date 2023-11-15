@@ -38,4 +38,5 @@ function MediaServicesArchAwsElementalMediaconnect({
   })));
 }
 const ForwardRef = React.forwardRef(MediaServicesArchAwsElementalMediaconnect);
+ForwardRef.aliasName = "Aws Elemental Mediaconnect";
 module.exports = ForwardRef;

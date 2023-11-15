@@ -29,4 +29,5 @@ function AnalyticsResAmazonEmrHdfsCluster({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAmazonEmrHdfsCluster);
+ForwardRef.aliasName = "Amazon Emr Hdfs Cluster";
 module.exports = ForwardRef;

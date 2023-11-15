@@ -38,4 +38,5 @@ function ManagementGovernanceArchAwsCloudformation({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAwsCloudformation);
+ForwardRef.aliasName = "Aws Cloudformation";
 module.exports = ForwardRef;

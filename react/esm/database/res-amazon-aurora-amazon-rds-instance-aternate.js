@@ -29,4 +29,5 @@ function DatabaseResAmazonAuroraAmazonRdsInstanceAternate({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseResAmazonAuroraAmazonRdsInstanceAternate);
+ForwardRef.aliasName = "Amazon Aurora Amazon Rds Instance Aternate";
 export default ForwardRef;

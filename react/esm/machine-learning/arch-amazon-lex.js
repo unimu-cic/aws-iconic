@@ -38,4 +38,5 @@ function MachineLearningArchAmazonLex({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAmazonLex);
+ForwardRef.aliasName = "Amazon Lex";
 export default ForwardRef;

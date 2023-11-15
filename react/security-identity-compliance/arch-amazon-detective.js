@@ -38,4 +38,5 @@ function SecurityIdentityComplianceArchAmazonDetective({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceArchAmazonDetective);
+ForwardRef.aliasName = "Amazon Detective";
 module.exports = ForwardRef;

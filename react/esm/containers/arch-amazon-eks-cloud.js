@@ -41,4 +41,5 @@ function ContainersArchAmazonEksCloud({
   }))));
 }
 const ForwardRef = React.forwardRef(ContainersArchAmazonEksCloud);
+ForwardRef.aliasName = "Amazon Eks Cloud";
 export default ForwardRef;

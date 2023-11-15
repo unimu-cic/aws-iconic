@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotAlexaEnabledDevice({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotAlexaEnabledDevice);
+ForwardRef.aliasName = "Aws Iot Alexa_enabled Device";
 module.exports = ForwardRef;

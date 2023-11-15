@@ -38,4 +38,5 @@ function ManagementGovernanceArchAwsChatbot({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAwsChatbot);
+ForwardRef.aliasName = "Aws Chatbot";
 module.exports = ForwardRef;

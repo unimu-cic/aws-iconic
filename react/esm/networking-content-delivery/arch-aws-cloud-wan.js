@@ -38,4 +38,5 @@ function NetworkingContentDeliveryArchAwsCloudWan({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryArchAwsCloudWan);
+ForwardRef.aliasName = "Aws Cloud Wan";
 export default ForwardRef;

@@ -29,4 +29,5 @@ function AnalyticsResAmazonEmrCluster({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAmazonEmrCluster);
+ForwardRef.aliasName = "Amazon Emr Cluster";
 module.exports = ForwardRef;

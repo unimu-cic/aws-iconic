@@ -29,4 +29,5 @@ function MachineLearningResAmazonSagemakerGeospatialMl({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningResAmazonSagemakerGeospatialMl);
+ForwardRef.aliasName = "Amazon Sagemaker Geospatial Ml";
 module.exports = ForwardRef;

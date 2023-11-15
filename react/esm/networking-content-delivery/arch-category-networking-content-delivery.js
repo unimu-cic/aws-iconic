@@ -47,4 +47,5 @@ function NetworkingContentDeliveryArchCategoryNetworkingContentDelivery({
   }))));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryArchCategoryNetworkingContentDelivery);
+ForwardRef.aliasName = "Category Networking Content Delivery";
 export default ForwardRef;

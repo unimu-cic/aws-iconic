@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotMqttProtocol({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotMqttProtocol);
+ForwardRef.aliasName = "Aws Iot Mqtt_protocol";
 module.exports = ForwardRef;

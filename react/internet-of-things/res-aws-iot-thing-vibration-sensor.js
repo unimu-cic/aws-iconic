@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotThingVibrationSensor({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotThingVibrationSensor);
+ForwardRef.aliasName = "Aws Iot Thing_vibration Sensor";
 module.exports = ForwardRef;

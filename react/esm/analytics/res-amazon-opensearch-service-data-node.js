@@ -29,4 +29,5 @@ function AnalyticsResAmazonOpensearchServiceDataNode({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAmazonOpensearchServiceDataNode);
+ForwardRef.aliasName = "Amazon Openseservice Data Node";
 export default ForwardRef;

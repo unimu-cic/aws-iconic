@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotCoreDeviceAdvisor({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotCoreDeviceAdvisor);
+ForwardRef.aliasName = "Aws Iot Core Device Advisor";
 module.exports = ForwardRef;

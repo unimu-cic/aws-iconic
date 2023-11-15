@@ -29,4 +29,5 @@ function StorageResAmazonSimpleStorageServiceS3Select({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAmazonSimpleStorageServiceS3Select);
+ForwardRef.aliasName = "Amazon Simple Storage Service S3 Select";
 module.exports = ForwardRef;

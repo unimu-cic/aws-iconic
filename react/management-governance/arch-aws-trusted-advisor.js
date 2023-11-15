@@ -38,4 +38,5 @@ function ManagementGovernanceArchAwsTrustedAdvisor({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAwsTrustedAdvisor);
+ForwardRef.aliasName = "Aws Trusted Advisor";
 module.exports = ForwardRef;

@@ -38,4 +38,5 @@ function DeveloperToolsArchAwsCloud9({
   })));
 }
 const ForwardRef = React.forwardRef(DeveloperToolsArchAwsCloud9);
+ForwardRef.aliasName = "Aws Cloud9";
 module.exports = ForwardRef;

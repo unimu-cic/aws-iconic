@@ -41,4 +41,5 @@ function StorageArchAmazonFsx({
   }))));
 }
 const ForwardRef = React.forwardRef(StorageArchAmazonFsx);
+ForwardRef.aliasName = "Amazon Fsx";
 module.exports = ForwardRef;

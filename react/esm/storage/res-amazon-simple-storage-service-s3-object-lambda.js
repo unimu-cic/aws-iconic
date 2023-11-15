@@ -29,4 +29,5 @@ function StorageResAmazonSimpleStorageServiceS3ObjectLambda({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAmazonSimpleStorageServiceS3ObjectLambda);
+ForwardRef.aliasName = "Amazon Simple Storage Service S3 Object Lambda";
 export default ForwardRef;

@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAmazonRoute53HostedZone({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAmazonRoute53HostedZone);
+ForwardRef.aliasName = "Amazon Route 53 Hosted Zone";
 export default ForwardRef;

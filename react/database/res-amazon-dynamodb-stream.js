@@ -29,4 +29,5 @@ function DatabaseResAmazonDynamodbStream({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseResAmazonDynamodbStream);
+ForwardRef.aliasName = "Amazon Dynamodb Stream";
 module.exports = ForwardRef;

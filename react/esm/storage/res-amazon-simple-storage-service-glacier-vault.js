@@ -29,4 +29,5 @@ function StorageResAmazonSimpleStorageServiceGlacierVault({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAmazonSimpleStorageServiceGlacierVault);
+ForwardRef.aliasName = "Amazon Simple Storage Service Glacier Vault";
 export default ForwardRef;

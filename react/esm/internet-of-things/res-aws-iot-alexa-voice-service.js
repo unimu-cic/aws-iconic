@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotAlexaVoiceService({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotAlexaVoiceService);
+ForwardRef.aliasName = "Aws Iot Alexa_voice Service";
 export default ForwardRef;

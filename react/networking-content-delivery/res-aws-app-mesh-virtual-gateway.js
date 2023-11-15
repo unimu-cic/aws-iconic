@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAwsAppMeshVirtualGateway({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAwsAppMeshVirtualGateway);
+ForwardRef.aliasName = "Aws App Mesh Virtual Gateway";
 module.exports = ForwardRef;

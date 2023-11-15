@@ -38,4 +38,5 @@ function AnalyticsArchAwsGlue({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsArchAwsGlue);
+ForwardRef.aliasName = "Aws Glue";
 export default ForwardRef;

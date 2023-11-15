@@ -29,4 +29,5 @@ function StorageResAmazonFileCacheS3LinkedDatasets({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAmazonFileCacheS3LinkedDatasets);
+ForwardRef.aliasName = "Amazon File Cache S3 Linked Datasets";
 module.exports = ForwardRef;

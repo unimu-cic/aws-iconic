@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotGreengrassStreamManager({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotGreengrassStreamManager);
+ForwardRef.aliasName = "Aws Iot Greengrass Stream Manager";
 export default ForwardRef;

@@ -29,4 +29,5 @@ function GeneralIconsResDocumentlight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResDocumentlight);
+ForwardRef.aliasName = "Documentlight";
 module.exports = ForwardRef;

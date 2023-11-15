@@ -29,4 +29,5 @@ function SecurityIdentityComplianceResAwsIdentityAccessManagementIamRolesAnywher
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceResAwsIdentityAccessManagementIamRolesAnywhere);
+ForwardRef.aliasName = "Aws Identity Access Management Iam Roles Anywhere";
 export default ForwardRef;

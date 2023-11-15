@@ -29,4 +29,5 @@ function AnalyticsResAwsGlueDataQuality({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAwsGlueDataQuality);
+ForwardRef.aliasName = "Aws Glue Data Quality";
 export default ForwardRef;

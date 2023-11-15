@@ -39,4 +39,5 @@ function GeneralIconsArchAwsMarketplaceLight({
   }))));
 }
 const ForwardRef = React.forwardRef(GeneralIconsArchAwsMarketplaceLight);
+ForwardRef.aliasName = "Aws Marketplace Light";
 module.exports = ForwardRef;

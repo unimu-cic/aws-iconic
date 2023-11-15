@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotFireTvStick({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotFireTvStick);
+ForwardRef.aliasName = "Aws Iot Fire Tv_stick";
 export default ForwardRef;

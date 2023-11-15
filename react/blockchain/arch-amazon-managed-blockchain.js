@@ -38,4 +38,5 @@ function BlockchainArchAmazonManagedBlockchain({
   })));
 }
 const ForwardRef = React.forwardRef(BlockchainArchAmazonManagedBlockchain);
+ForwardRef.aliasName = "Amazon Managed Blockchain";
 module.exports = ForwardRef;

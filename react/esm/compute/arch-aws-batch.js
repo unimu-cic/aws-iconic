@@ -38,4 +38,5 @@ function ComputeArchAwsBatch({
   })));
 }
 const ForwardRef = React.forwardRef(ComputeArchAwsBatch);
+ForwardRef.aliasName = "Aws Batch";
 export default ForwardRef;

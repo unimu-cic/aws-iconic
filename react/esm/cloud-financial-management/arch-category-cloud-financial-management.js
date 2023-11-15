@@ -47,4 +47,5 @@ function CloudFinancialManagementArchCategoryCloudFinancialManagement({
   }))));
 }
 const ForwardRef = React.forwardRef(CloudFinancialManagementArchCategoryCloudFinancialManagement);
+ForwardRef.aliasName = "Category Cloud Financial Management";
 export default ForwardRef;

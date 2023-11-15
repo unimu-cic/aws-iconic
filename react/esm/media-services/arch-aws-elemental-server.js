@@ -38,4 +38,5 @@ function MediaServicesArchAwsElementalServer({
   })));
 }
 const ForwardRef = React.forwardRef(MediaServicesArchAwsElementalServer);
+ForwardRef.aliasName = "Aws Elemental Server";
 export default ForwardRef;

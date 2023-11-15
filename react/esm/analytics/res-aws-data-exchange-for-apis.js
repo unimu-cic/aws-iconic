@@ -29,4 +29,5 @@ function AnalyticsResAwsDataExchangeForApis({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAwsDataExchangeForApis);
+ForwardRef.aliasName = "Aws Data Exchange For Apis";
 export default ForwardRef;

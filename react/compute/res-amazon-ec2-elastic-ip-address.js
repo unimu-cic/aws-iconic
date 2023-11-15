@@ -29,4 +29,5 @@ function ComputeResAmazonEc2ElasticIpAddress({
   })));
 }
 const ForwardRef = React.forwardRef(ComputeResAmazonEc2ElasticIpAddress);
+ForwardRef.aliasName = "Amazon Ec2 Elastic Ip Address";
 module.exports = ForwardRef;

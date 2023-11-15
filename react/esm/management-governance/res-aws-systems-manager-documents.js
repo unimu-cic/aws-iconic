@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsSystemsManagerDocuments({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsSystemsManagerDocuments);
+ForwardRef.aliasName = "Aws Systems Manager Documents";
 export default ForwardRef;

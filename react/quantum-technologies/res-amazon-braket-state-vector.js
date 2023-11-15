@@ -29,4 +29,5 @@ function QuantumTechnologiesResAmazonBraketStateVector({
   })));
 }
 const ForwardRef = React.forwardRef(QuantumTechnologiesResAmazonBraketStateVector);
+ForwardRef.aliasName = "Amazon Braket State Vector";
 module.exports = ForwardRef;

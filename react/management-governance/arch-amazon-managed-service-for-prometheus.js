@@ -41,4 +41,5 @@ function ManagementGovernanceArchAmazonManagedServiceForPrometheus({
   }))));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAmazonManagedServiceForPrometheus);
+ForwardRef.aliasName = "Amazon Managed Service For Prometheus";
 module.exports = ForwardRef;

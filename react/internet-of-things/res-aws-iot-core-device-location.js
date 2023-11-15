@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotCoreDeviceLocation({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotCoreDeviceLocation);
+ForwardRef.aliasName = "Aws Iot Core Device Location";
 module.exports = ForwardRef;

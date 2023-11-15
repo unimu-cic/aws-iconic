@@ -29,4 +29,5 @@ function AnalyticsResAmazonOpensearchServiceUltrawarmNode({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAmazonOpensearchServiceUltrawarmNode);
+ForwardRef.aliasName = "Amazon Openseservice Ultrawarm Node";
 export default ForwardRef;

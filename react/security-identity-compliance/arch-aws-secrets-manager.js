@@ -38,4 +38,5 @@ function SecurityIdentityComplianceArchAwsSecretsManager({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceArchAwsSecretsManager);
+ForwardRef.aliasName = "Aws Secrets Manager";
 module.exports = ForwardRef;

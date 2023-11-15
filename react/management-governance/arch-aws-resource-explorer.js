@@ -38,4 +38,5 @@ function ManagementGovernanceArchAwsResourceExplorer({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAwsResourceExplorer);
+ForwardRef.aliasName = "Aws Resource Explorer";
 module.exports = ForwardRef;

@@ -38,4 +38,5 @@ function MachineLearningArchAmazonComprehend({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAmazonComprehend);
+ForwardRef.aliasName = "Amazon Comprehend";
 module.exports = ForwardRef;

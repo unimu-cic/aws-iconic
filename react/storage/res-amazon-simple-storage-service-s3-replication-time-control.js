@@ -29,4 +29,5 @@ function StorageResAmazonSimpleStorageServiceS3ReplicationTimeControl({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAmazonSimpleStorageServiceS3ReplicationTimeControl);
+ForwardRef.aliasName = "Amazon Simple Storage Service S3 Replication Time Control";
 module.exports = ForwardRef;

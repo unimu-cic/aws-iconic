@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAwsCloudWanCoreNetworkEdge({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAwsCloudWanCoreNetworkEdge);
+ForwardRef.aliasName = "Aws Cloud Wan Core Network Edge";
 module.exports = ForwardRef;

@@ -29,4 +29,5 @@ function DatabaseResAmazonAuroraPiopsInstance({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseResAmazonAuroraPiopsInstance);
+ForwardRef.aliasName = "Amazon Aurora Piops Instance";
 module.exports = ForwardRef;

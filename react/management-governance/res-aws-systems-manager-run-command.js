@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsSystemsManagerRunCommand({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsSystemsManagerRunCommand);
+ForwardRef.aliasName = "Aws Systems Manager Run Command";
 module.exports = ForwardRef;

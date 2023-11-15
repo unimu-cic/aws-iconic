@@ -29,4 +29,5 @@ function RoboticsResAwsRobomakerCloudExtensionsRos({
   })));
 }
 const ForwardRef = React.forwardRef(RoboticsResAwsRobomakerCloudExtensionsRos);
+ForwardRef.aliasName = "Aws Robomaker Cloud Extensions Ros";
 export default ForwardRef;

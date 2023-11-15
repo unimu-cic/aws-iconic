@@ -36,4 +36,5 @@ function GroupAwsCloudLogo({
   })));
 }
 const ForwardRef = React.forwardRef(GroupAwsCloudLogo);
+ForwardRef.aliasName = "Aws Cloud Logo";
 export default ForwardRef;

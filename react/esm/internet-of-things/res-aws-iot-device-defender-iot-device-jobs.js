@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotDeviceDefenderIotDeviceJobs({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotDeviceDefenderIotDeviceJobs);
+ForwardRef.aliasName = "Aws Iot Device Defender Iot Device Jobs";
 export default ForwardRef;

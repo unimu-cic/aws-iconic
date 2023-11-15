@@ -38,4 +38,5 @@ function ComputeArchAmazonEc2({
   })));
 }
 const ForwardRef = React.forwardRef(ComputeArchAmazonEc2);
+ForwardRef.aliasName = "Amazon Ec2";
 module.exports = ForwardRef;

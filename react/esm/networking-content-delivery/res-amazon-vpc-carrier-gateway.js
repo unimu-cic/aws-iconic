@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAmazonVpcCarrierGateway({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAmazonVpcCarrierGateway);
+ForwardRef.aliasName = "Amazon Vpc Carrier Gateway";
 export default ForwardRef;

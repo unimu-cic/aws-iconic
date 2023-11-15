@@ -29,4 +29,5 @@ function DatabaseResAmazonAuroraTrustedLanguageExtensionsForPostgresql({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseResAmazonAuroraTrustedLanguageExtensionsForPostgresql);
+ForwardRef.aliasName = "Amazon Aurora Trusted Language Extensions For Postgresql";
 export default ForwardRef;

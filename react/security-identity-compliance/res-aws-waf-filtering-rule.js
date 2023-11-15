@@ -29,4 +29,5 @@ function SecurityIdentityComplianceResAwsWafFilteringRule({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceResAwsWafFilteringRule);
+ForwardRef.aliasName = "Aws Waf Filtering Rule";
 module.exports = ForwardRef;

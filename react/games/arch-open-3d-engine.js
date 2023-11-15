@@ -41,4 +41,5 @@ function GamesArchOpen3DEngine({
   }))));
 }
 const ForwardRef = React.forwardRef(GamesArchOpen3DEngine);
+ForwardRef.aliasName = "Open 3d Engine";
 module.exports = ForwardRef;

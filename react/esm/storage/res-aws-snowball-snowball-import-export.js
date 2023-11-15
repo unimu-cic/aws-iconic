@@ -29,4 +29,5 @@ function StorageResAwsSnowballSnowballImportExport({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAwsSnowballSnowballImportExport);
+ForwardRef.aliasName = "Aws Snowball Snowball Import Export";
 export default ForwardRef;

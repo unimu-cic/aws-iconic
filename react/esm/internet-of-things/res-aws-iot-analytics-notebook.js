@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotAnalyticsNotebook({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotAnalyticsNotebook);
+ForwardRef.aliasName = "Aws Iot Analytics Notebook";
 export default ForwardRef;

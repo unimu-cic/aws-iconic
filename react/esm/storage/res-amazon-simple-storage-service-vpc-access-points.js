@@ -29,4 +29,5 @@ function StorageResAmazonSimpleStorageServiceVpcAccessPoints({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAmazonSimpleStorageServiceVpcAccessPoints);
+ForwardRef.aliasName = "Amazon Simple Storage Service Vpc Access Points";
 export default ForwardRef;

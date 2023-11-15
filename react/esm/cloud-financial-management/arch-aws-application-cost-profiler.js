@@ -41,4 +41,5 @@ function CloudFinancialManagementArchAwsApplicationCostProfiler({
   }))));
 }
 const ForwardRef = React.forwardRef(CloudFinancialManagementArchAwsApplicationCostProfiler);
+ForwardRef.aliasName = "Aws Application Cost Profiler";
 export default ForwardRef;

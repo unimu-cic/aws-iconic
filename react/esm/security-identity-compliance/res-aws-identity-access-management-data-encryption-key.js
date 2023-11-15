@@ -29,4 +29,5 @@ function SecurityIdentityComplianceResAwsIdentityAccessManagementDataEncryptionK
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceResAwsIdentityAccessManagementDataEncryptionKey);
+ForwardRef.aliasName = "Aws Identity Access Management Data Encryption Key";
 export default ForwardRef;

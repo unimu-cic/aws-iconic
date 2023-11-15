@@ -42,4 +42,5 @@ function ComputeArchElasticFabricAdapter({
   }))));
 }
 const ForwardRef = React.forwardRef(ComputeArchElasticFabricAdapter);
+ForwardRef.aliasName = "Elastic Fabric Adapter";
 module.exports = ForwardRef;

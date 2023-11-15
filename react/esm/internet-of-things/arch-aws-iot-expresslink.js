@@ -41,4 +41,5 @@ function InternetOfThingsArchAwsIotExpresslink({
   }))));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsArchAwsIotExpresslink);
+ForwardRef.aliasName = "Aws Iot Expresslink";
 export default ForwardRef;

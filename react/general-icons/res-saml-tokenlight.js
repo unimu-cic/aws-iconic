@@ -29,4 +29,5 @@ function GeneralIconsResSamlTokenlight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResSamlTokenlight);
+ForwardRef.aliasName = "Saml Tokenlight";
 module.exports = ForwardRef;

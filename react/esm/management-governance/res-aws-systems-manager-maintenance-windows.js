@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsSystemsManagerMaintenanceWindows({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsSystemsManagerMaintenanceWindows);
+ForwardRef.aliasName = "Aws Systems Manager Maintenance Windows";
 export default ForwardRef;

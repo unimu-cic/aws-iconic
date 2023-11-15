@@ -38,4 +38,5 @@ function InternetOfThingsArchAwsIotThingsGraph({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsArchAwsIotThingsGraph);
+ForwardRef.aliasName = "Aws Iot Things Graph";
 export default ForwardRef;

@@ -41,4 +41,5 @@ function InternetOfThingsArchAwsIotEdukit({
   }))));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsArchAwsIotEdukit);
+ForwardRef.aliasName = "Aws Iot Edukit";
 export default ForwardRef;

@@ -38,4 +38,5 @@ function FrontEndWebMobileArchAwsAmplify({
   })));
 }
 const ForwardRef = React.forwardRef(FrontEndWebMobileArchAwsAmplify);
+ForwardRef.aliasName = "Aws Amplify";
 export default ForwardRef;

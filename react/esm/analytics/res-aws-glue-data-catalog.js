@@ -29,4 +29,5 @@ function AnalyticsResAwsGlueDataCatalog({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAwsGlueDataCatalog);
+ForwardRef.aliasName = "Aws Glue Data Catalog";
 export default ForwardRef;

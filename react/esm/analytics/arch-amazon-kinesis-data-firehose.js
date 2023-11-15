@@ -41,4 +41,5 @@ function AnalyticsArchAmazonKinesisDataFirehose({
   }))));
 }
 const ForwardRef = React.forwardRef(AnalyticsArchAmazonKinesisDataFirehose);
+ForwardRef.aliasName = "Amazon Kinesis Data Firehose";
 export default ForwardRef;

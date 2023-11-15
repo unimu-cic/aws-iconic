@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotThingWindfarm({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotThingWindfarm);
+ForwardRef.aliasName = "Aws Iot Thing_windfarm";
 export default ForwardRef;

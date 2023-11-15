@@ -29,4 +29,5 @@ function AnalyticsResAmazonOpensearchServiceIndex({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAmazonOpensearchServiceIndex);
+ForwardRef.aliasName = "Amazon Openseservice Index";
 export default ForwardRef;

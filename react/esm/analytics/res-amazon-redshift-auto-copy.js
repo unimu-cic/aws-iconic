@@ -29,4 +29,5 @@ function AnalyticsResAmazonRedshiftAutoCopy({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAmazonRedshiftAutoCopy);
+ForwardRef.aliasName = "Amazon Redshift Auto Copy";
 export default ForwardRef;

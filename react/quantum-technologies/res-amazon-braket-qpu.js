@@ -29,4 +29,5 @@ function QuantumTechnologiesResAmazonBraketQpu({
   })));
 }
 const ForwardRef = React.forwardRef(QuantumTechnologiesResAmazonBraketQpu);
+ForwardRef.aliasName = "Amazon Braket Qpu";
 module.exports = ForwardRef;

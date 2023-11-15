@@ -29,4 +29,5 @@ function GeneralIconsResCameralight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResCameralight);
+ForwardRef.aliasName = "Cameralight";
 module.exports = ForwardRef;

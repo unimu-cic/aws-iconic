@@ -41,4 +41,5 @@ function ManagementGovernanceArchAwsProton({
   }))));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAwsProton);
+ForwardRef.aliasName = "Aws Proton";
 export default ForwardRef;

@@ -29,4 +29,5 @@ function DatabaseResAwsDatabaseMigrationServiceDatabaseMigrationWorkflowOrJob({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseResAwsDatabaseMigrationServiceDatabaseMigrationWorkflowOrJob);
+ForwardRef.aliasName = "Aws Database Migration Service Database Migration Workflow Or Job";
 module.exports = ForwardRef;

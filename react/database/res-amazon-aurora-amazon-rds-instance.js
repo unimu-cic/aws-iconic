@@ -29,4 +29,5 @@ function DatabaseResAmazonAuroraAmazonRdsInstance({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseResAmazonAuroraAmazonRdsInstance);
+ForwardRef.aliasName = "Amazon Aurora Amazon Rds Instance";
 module.exports = ForwardRef;

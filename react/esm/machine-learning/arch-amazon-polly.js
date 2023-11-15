@@ -38,4 +38,5 @@ function MachineLearningArchAmazonPolly({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAmazonPolly);
+ForwardRef.aliasName = "Amazon Polly";
 export default ForwardRef;

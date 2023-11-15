@@ -47,4 +47,5 @@ function SecurityIdentityComplianceArchCategorySecurityIdentityCompliance({
   }))));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceArchCategorySecurityIdentityCompliance);
+ForwardRef.aliasName = "Category Security Identity Compliance";
 module.exports = ForwardRef;

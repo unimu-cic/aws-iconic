@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsSystemsManagerIncidentManager({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsSystemsManagerIncidentManager);
+ForwardRef.aliasName = "Aws Systems Manager Incident Manager";
 module.exports = ForwardRef;

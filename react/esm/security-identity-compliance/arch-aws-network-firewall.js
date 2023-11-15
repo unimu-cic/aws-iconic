@@ -41,4 +41,5 @@ function SecurityIdentityComplianceArchAwsNetworkFirewall({
   }))));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceArchAwsNetworkFirewall);
+ForwardRef.aliasName = "Aws Network Firewall";
 export default ForwardRef;

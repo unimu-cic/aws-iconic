@@ -38,4 +38,5 @@ function MediaServicesArchAwsElementalConductor({
   })));
 }
 const ForwardRef = React.forwardRef(MediaServicesArchAwsElementalConductor);
+ForwardRef.aliasName = "Aws Elemental Conductor";
 export default ForwardRef;

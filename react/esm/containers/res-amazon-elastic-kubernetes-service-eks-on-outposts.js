@@ -29,4 +29,5 @@ function ContainersResAmazonElasticKubernetesServiceEksOnOutposts({
   })));
 }
 const ForwardRef = React.forwardRef(ContainersResAmazonElasticKubernetesServiceEksOnOutposts);
+ForwardRef.aliasName = "Amazon Elastic Kubernetes Service Eks On Outposts";
 export default ForwardRef;

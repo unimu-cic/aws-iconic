@@ -38,4 +38,5 @@ function DatabaseArchAmazonKeyspaces({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseArchAmazonKeyspaces);
+ForwardRef.aliasName = "Amazon Keyspaces";
 module.exports = ForwardRef;

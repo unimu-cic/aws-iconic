@@ -38,4 +38,5 @@ function BusinessApplicationsArchAmazonConnect({
   })));
 }
 const ForwardRef = React.forwardRef(BusinessApplicationsArchAmazonConnect);
+ForwardRef.aliasName = "Amazon Connect";
 module.exports = ForwardRef;

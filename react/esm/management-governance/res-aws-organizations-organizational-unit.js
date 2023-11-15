@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsOrganizationsOrganizationalUnit({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsOrganizationsOrganizationalUnit);
+ForwardRef.aliasName = "Aws Organizations Organizational Unit";
 export default ForwardRef;

@@ -29,4 +29,5 @@ function ManagementGovernanceResAmazonCloudwatchLogs({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAmazonCloudwatchLogs);
+ForwardRef.aliasName = "Amazon Cloudwatch Logs";
 module.exports = ForwardRef;

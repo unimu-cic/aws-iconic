@@ -29,4 +29,5 @@ function AnalyticsResAmazonRedshiftMl({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAmazonRedshiftMl);
+ForwardRef.aliasName = "Amazon Redshift Ml";
 module.exports = ForwardRef;

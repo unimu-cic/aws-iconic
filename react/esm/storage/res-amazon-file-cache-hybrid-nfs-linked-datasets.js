@@ -29,4 +29,5 @@ function StorageResAmazonFileCacheHybridNfsLinkedDatasets({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAmazonFileCacheHybridNfsLinkedDatasets);
+ForwardRef.aliasName = "Amazon File Cache Hybrid Nfs Linked Datasets";
 export default ForwardRef;

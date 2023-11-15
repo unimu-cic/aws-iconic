@@ -41,4 +41,5 @@ function StorageArchAmazonSimpleStorageService({
   }))));
 }
 const ForwardRef = React.forwardRef(StorageArchAmazonSimpleStorageService);
+ForwardRef.aliasName = "Amazon Simple Storage Service";
 export default ForwardRef;

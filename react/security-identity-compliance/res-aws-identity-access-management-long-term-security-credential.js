@@ -29,4 +29,5 @@ function SecurityIdentityComplianceResAwsIdentityAccessManagementLongTermSecurit
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceResAwsIdentityAccessManagementLongTermSecurityCredential);
+ForwardRef.aliasName = "Aws Identity Access Management Long Term Security Credential";
 module.exports = ForwardRef;

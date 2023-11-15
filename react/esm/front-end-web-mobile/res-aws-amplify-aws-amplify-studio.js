@@ -29,4 +29,5 @@ function FrontEndWebMobileResAwsAmplifyAwsAmplifyStudio({
   })));
 }
 const ForwardRef = React.forwardRef(FrontEndWebMobileResAwsAmplifyAwsAmplifyStudio);
+ForwardRef.aliasName = "Aws Amplify Aws Amplify Studio";
 export default ForwardRef;

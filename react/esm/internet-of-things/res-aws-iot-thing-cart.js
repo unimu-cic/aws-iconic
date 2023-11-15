@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotThingCart({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotThingCart);
+ForwardRef.aliasName = "Aws Iot Thing_cart";
 export default ForwardRef;

@@ -38,4 +38,5 @@ function NetworkingContentDeliveryArchAwsVerifiedAccess({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryArchAwsVerifiedAccess);
+ForwardRef.aliasName = "Aws Verified Access";
 module.exports = ForwardRef;

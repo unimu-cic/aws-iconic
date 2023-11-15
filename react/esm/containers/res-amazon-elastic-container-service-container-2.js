@@ -29,4 +29,5 @@ function ContainersResAmazonElasticContainerServiceContainer2({
   })));
 }
 const ForwardRef = React.forwardRef(ContainersResAmazonElasticContainerServiceContainer2);
+ForwardRef.aliasName = "Amazon Elastic Container Service Container 2";
 export default ForwardRef;

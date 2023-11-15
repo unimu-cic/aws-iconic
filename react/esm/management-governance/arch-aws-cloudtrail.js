@@ -38,4 +38,5 @@ function ManagementGovernanceArchAwsCloudtrail({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAwsCloudtrail);
+ForwardRef.aliasName = "Aws Cloudtrail";
 export default ForwardRef;

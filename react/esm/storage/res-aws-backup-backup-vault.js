@@ -29,4 +29,5 @@ function StorageResAwsBackupBackupVault({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAwsBackupBackupVault);
+ForwardRef.aliasName = "Aws Backup Backup Vault";
 export default ForwardRef;

@@ -38,4 +38,5 @@ function NetworkingContentDeliveryArchAwsGlobalAccelerator({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryArchAwsGlobalAccelerator);
+ForwardRef.aliasName = "Aws Global Accelerator";
 export default ForwardRef;

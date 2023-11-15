@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotThingLightbulb({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotThingLightbulb);
+ForwardRef.aliasName = "Aws Iot Thing_lightbulb";
 export default ForwardRef;

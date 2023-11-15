@@ -38,4 +38,5 @@ function AnalyticsArchAmazonQuicksight({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsArchAmazonQuicksight);
+ForwardRef.aliasName = "Amazon Quicksight";
 export default ForwardRef;

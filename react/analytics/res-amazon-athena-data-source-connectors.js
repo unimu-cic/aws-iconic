@@ -29,4 +29,5 @@ function AnalyticsResAmazonAthenaDataSourceConnectors({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAmazonAthenaDataSourceConnectors);
+ForwardRef.aliasName = "Amazon Athena Data Source Connectors";
 module.exports = ForwardRef;

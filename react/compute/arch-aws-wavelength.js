@@ -38,4 +38,5 @@ function ComputeArchAwsWavelength({
   })));
 }
 const ForwardRef = React.forwardRef(ComputeArchAwsWavelength);
+ForwardRef.aliasName = "Aws Wavelength";
 module.exports = ForwardRef;

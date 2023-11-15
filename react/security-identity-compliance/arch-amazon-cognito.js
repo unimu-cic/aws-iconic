@@ -38,4 +38,5 @@ function SecurityIdentityComplianceArchAmazonCognito({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceArchAmazonCognito);
+ForwardRef.aliasName = "Amazon Cognito";
 module.exports = ForwardRef;

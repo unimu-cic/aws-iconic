@@ -29,4 +29,5 @@ function AnalyticsResAmazonRedshiftDenseStorageNode({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAmazonRedshiftDenseStorageNode);
+ForwardRef.aliasName = "Amazon Redshift Dense Storage Node";
 module.exports = ForwardRef;

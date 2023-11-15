@@ -38,4 +38,5 @@ function ComputeArchAmazonGenomicsCli({
   })));
 }
 const ForwardRef = React.forwardRef(ComputeArchAmazonGenomicsCli);
+ForwardRef.aliasName = "Amazon Genomics Cli";
 module.exports = ForwardRef;

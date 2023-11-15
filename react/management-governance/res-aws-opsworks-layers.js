@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsOpsworksLayers({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsOpsworksLayers);
+ForwardRef.aliasName = "Aws Opsworks Layers";
 module.exports = ForwardRef;

@@ -38,4 +38,5 @@ function DatabaseArchAwsDatabaseMigrationService({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseArchAwsDatabaseMigrationService);
+ForwardRef.aliasName = "Aws Database Migration Service";
 export default ForwardRef;

@@ -29,4 +29,5 @@ function DatabaseResAmazonDynamodbStandardInfrequentAccessTableClass({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseResAmazonDynamodbStandardInfrequentAccessTableClass);
+ForwardRef.aliasName = "Amazon Dynamodb Standard Infrequent Access Table Class";
 module.exports = ForwardRef;

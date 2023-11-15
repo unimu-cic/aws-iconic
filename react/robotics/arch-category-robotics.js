@@ -47,4 +47,5 @@ function RoboticsArchCategoryRobotics({
   }))));
 }
 const ForwardRef = React.forwardRef(RoboticsArchCategoryRobotics);
+ForwardRef.aliasName = "Category Robotics";
 module.exports = ForwardRef;

@@ -29,4 +29,5 @@ function ComputeResAwsElasticBeanstalkDeployment({
   })));
 }
 const ForwardRef = React.forwardRef(ComputeResAwsElasticBeanstalkDeployment);
+ForwardRef.aliasName = "Aws Elastic Beanstalk Deployment";
 module.exports = ForwardRef;

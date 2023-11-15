@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAmazonRoute53Route53ApplicationRecoveryCont
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAmazonRoute53Route53ApplicationRecoveryController);
+ForwardRef.aliasName = "Amazon Route 53 Route 53 Application Recovery Controller";
 export default ForwardRef;

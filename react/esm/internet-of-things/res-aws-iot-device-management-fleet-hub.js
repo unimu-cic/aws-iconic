@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotDeviceManagementFleetHub({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotDeviceManagementFleetHub);
+ForwardRef.aliasName = "Aws Iot Device Management Fleet Hub";
 export default ForwardRef;

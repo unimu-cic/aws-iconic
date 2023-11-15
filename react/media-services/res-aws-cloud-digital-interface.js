@@ -29,4 +29,5 @@ function MediaServicesResAwsCloudDigitalInterface({
   })));
 }
 const ForwardRef = React.forwardRef(MediaServicesResAwsCloudDigitalInterface);
+ForwardRef.aliasName = "Aws Cloud Digital Interface";
 module.exports = ForwardRef;

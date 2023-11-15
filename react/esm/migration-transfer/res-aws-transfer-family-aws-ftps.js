@@ -29,4 +29,5 @@ function MigrationTransferResAwsTransferFamilyAwsFtps({
   })));
 }
 const ForwardRef = React.forwardRef(MigrationTransferResAwsTransferFamilyAwsFtps);
+ForwardRef.aliasName = "Aws Transfer Family Aws Ftps";
 export default ForwardRef;

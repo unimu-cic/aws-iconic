@@ -47,4 +47,5 @@ function DeveloperToolsArchCategoryDeveloperTools({
   }))));
 }
 const ForwardRef = React.forwardRef(DeveloperToolsArchCategoryDeveloperTools);
+ForwardRef.aliasName = "Category Developer Tools";
 export default ForwardRef;

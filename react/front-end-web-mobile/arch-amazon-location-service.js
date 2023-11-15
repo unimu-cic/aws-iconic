@@ -41,4 +41,5 @@ function FrontEndWebMobileArchAmazonLocationService({
   }))));
 }
 const ForwardRef = React.forwardRef(FrontEndWebMobileArchAmazonLocationService);
+ForwardRef.aliasName = "Amazon Location Service";
 module.exports = ForwardRef;

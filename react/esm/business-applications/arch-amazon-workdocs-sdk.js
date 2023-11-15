@@ -41,4 +41,5 @@ function BusinessApplicationsArchAmazonWorkdocsSdk({
   }))));
 }
 const ForwardRef = React.forwardRef(BusinessApplicationsArchAmazonWorkdocsSdk);
+ForwardRef.aliasName = "Amazon Workdocs Sdk";
 export default ForwardRef;

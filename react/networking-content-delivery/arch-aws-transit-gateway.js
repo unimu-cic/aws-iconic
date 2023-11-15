@@ -38,4 +38,5 @@ function NetworkingContentDeliveryArchAwsTransitGateway({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryArchAwsTransitGateway);
+ForwardRef.aliasName = "Aws Transit Gateway";
 module.exports = ForwardRef;

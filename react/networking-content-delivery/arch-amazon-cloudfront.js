@@ -38,4 +38,5 @@ function NetworkingContentDeliveryArchAmazonCloudfront({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryArchAmazonCloudfront);
+ForwardRef.aliasName = "Amazon Cloudfront";
 module.exports = ForwardRef;

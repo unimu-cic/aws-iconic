@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsSystemsManagerChangeCalendar({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsSystemsManagerChangeCalendar);
+ForwardRef.aliasName = "Aws Systems Manager Change Calendar";
 export default ForwardRef;

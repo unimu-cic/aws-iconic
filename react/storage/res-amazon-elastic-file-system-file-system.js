@@ -29,4 +29,5 @@ function StorageResAmazonElasticFileSystemFileSystem({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAmazonElasticFileSystemFileSystem);
+ForwardRef.aliasName = "Amazon Elastic File System File System";
 module.exports = ForwardRef;

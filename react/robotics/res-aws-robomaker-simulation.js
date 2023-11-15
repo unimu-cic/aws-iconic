@@ -29,4 +29,5 @@ function RoboticsResAwsRobomakerSimulation({
   })));
 }
 const ForwardRef = React.forwardRef(RoboticsResAwsRobomakerSimulation);
+ForwardRef.aliasName = "Aws Robomaker Simulation";
 module.exports = ForwardRef;

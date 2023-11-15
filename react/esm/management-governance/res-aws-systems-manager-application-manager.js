@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsSystemsManagerApplicationManager({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsSystemsManagerApplicationManager);
+ForwardRef.aliasName = "Aws Systems Manager Application Manager";
 export default ForwardRef;

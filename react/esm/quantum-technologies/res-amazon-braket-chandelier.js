@@ -29,4 +29,5 @@ function QuantumTechnologiesResAmazonBraketChandelier({
   })));
 }
 const ForwardRef = React.forwardRef(QuantumTechnologiesResAmazonBraketChandelier);
+ForwardRef.aliasName = "Amazon Braket Chandelier";
 export default ForwardRef;

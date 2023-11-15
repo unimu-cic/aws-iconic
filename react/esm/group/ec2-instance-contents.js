@@ -36,4 +36,5 @@ function GroupEc2InstanceContents({
   })));
 }
 const ForwardRef = React.forwardRef(GroupEc2InstanceContents);
+ForwardRef.aliasName = "Ec2 Instance Contents";
 export default ForwardRef;

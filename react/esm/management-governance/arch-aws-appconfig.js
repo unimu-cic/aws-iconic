@@ -38,4 +38,5 @@ function ManagementGovernanceArchAwsAppconfig({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAwsAppconfig);
+ForwardRef.aliasName = "Aws Appconfig";
 export default ForwardRef;

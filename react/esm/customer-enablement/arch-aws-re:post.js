@@ -1,5 +1,5 @@
 import * as React from "react";
-function ArchAwsRepost({
+function CustomerEnablementArchAwsRepost({
   title,
   titleId,
   ...props
@@ -40,5 +40,6 @@ function ArchAwsRepost({
     id: "Fill-3"
   }))));
 }
-const ForwardRef = React.forwardRef(ArchAwsRepost);
+const ForwardRef = React.forwardRef(CustomerEnablementArchAwsRepost);
+ForwardRef.aliasName = "Aws Repost";
 export default ForwardRef;

@@ -38,4 +38,5 @@ function ComputeArchAwsSimspaceWeaver({
   })));
 }
 const ForwardRef = React.forwardRef(ComputeArchAwsSimspaceWeaver);
+ForwardRef.aliasName = "Aws Simspace Weaver";
 export default ForwardRef;

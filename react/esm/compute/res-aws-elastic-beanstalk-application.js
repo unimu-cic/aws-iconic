@@ -29,4 +29,5 @@ function ComputeResAwsElasticBeanstalkApplication({
   })));
 }
 const ForwardRef = React.forwardRef(ComputeResAwsElasticBeanstalkApplication);
+ForwardRef.aliasName = "Aws Elastic Beanstalk Application";
 export default ForwardRef;

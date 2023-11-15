@@ -29,4 +29,5 @@ function EndUserComputingResAmazonWorkspacesFamilyAmazonWorkspacesWeb({
   })));
 }
 const ForwardRef = React.forwardRef(EndUserComputingResAmazonWorkspacesFamilyAmazonWorkspacesWeb);
+ForwardRef.aliasName = "Amazon Workspaces Family Amazon Workspaces Web";
 module.exports = ForwardRef;

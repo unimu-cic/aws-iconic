@@ -38,4 +38,5 @@ function SecurityIdentityComplianceArchAwsCloudhsm({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceArchAwsCloudhsm);
+ForwardRef.aliasName = "Aws Cloudhsm";
 module.exports = ForwardRef;

@@ -29,4 +29,5 @@ function GeneralIconsResAlertlight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResAlertlight);
+ForwardRef.aliasName = "Alertlight";
 module.exports = ForwardRef;

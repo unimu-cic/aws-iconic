@@ -38,4 +38,5 @@ function AnalyticsArchAmazonCloudsearch({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsArchAmazonCloudsearch);
+ForwardRef.aliasName = "Amazon Cloudsearch";
 module.exports = ForwardRef;

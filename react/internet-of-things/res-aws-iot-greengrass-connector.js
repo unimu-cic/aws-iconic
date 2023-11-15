@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotGreengrassConnector({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotGreengrassConnector);
+ForwardRef.aliasName = "Aws Iot Greengrass Connector";
 module.exports = ForwardRef;

@@ -29,4 +29,5 @@ function SecurityIdentityComplianceResAwsWafRule({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceResAwsWafRule);
+ForwardRef.aliasName = "Aws Waf Rule";
 export default ForwardRef;

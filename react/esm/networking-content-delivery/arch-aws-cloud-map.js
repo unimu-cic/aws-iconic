@@ -38,4 +38,5 @@ function NetworkingContentDeliveryArchAwsCloudMap({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryArchAwsCloudMap);
+ForwardRef.aliasName = "Aws Cloud Map";
 export default ForwardRef;

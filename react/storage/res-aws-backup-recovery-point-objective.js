@@ -29,4 +29,5 @@ function StorageResAwsBackupRecoveryPointObjective({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAwsBackupRecoveryPointObjective);
+ForwardRef.aliasName = "Aws Backup Recovery Point Objective";
 module.exports = ForwardRef;

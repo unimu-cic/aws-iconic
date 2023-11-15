@@ -29,4 +29,5 @@ function GeneralIconsResDataStreamlight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResDataStreamlight);
+ForwardRef.aliasName = "Data Streamlight";
 module.exports = ForwardRef;

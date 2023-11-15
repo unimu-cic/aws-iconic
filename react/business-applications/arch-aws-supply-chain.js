@@ -38,4 +38,5 @@ function BusinessApplicationsArchAwsSupplyChain({
   })));
 }
 const ForwardRef = React.forwardRef(BusinessApplicationsArchAwsSupplyChain);
+ForwardRef.aliasName = "Aws Supply Chain";
 module.exports = ForwardRef;

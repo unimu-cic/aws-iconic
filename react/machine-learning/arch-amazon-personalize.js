@@ -38,4 +38,5 @@ function MachineLearningArchAmazonPersonalize({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAmazonPersonalize);
+ForwardRef.aliasName = "Amazon Personalize";
 module.exports = ForwardRef;

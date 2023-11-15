@@ -38,4 +38,5 @@ function InternetOfThingsArchAwsIotDeviceManagement({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsArchAwsIotDeviceManagement);
+ForwardRef.aliasName = "Aws Iot Device Management";
 export default ForwardRef;

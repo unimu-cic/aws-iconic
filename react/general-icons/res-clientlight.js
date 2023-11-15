@@ -29,4 +29,5 @@ function GeneralIconsResClientlight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResClientlight);
+ForwardRef.aliasName = "Clientlight";
 module.exports = ForwardRef;

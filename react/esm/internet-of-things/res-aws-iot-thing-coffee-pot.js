@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotThingCoffeePot({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotThingCoffeePot);
+ForwardRef.aliasName = "Aws Iot Thing_coffee Pot";
 export default ForwardRef;

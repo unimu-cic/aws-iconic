@@ -29,4 +29,5 @@ function AnalyticsResAmazonOpensearchServiceObservability({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAmazonOpensearchServiceObservability);
+ForwardRef.aliasName = "Amazon Openseservice Observability";
 export default ForwardRef;

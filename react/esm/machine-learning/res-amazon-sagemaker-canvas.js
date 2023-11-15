@@ -29,4 +29,5 @@ function MachineLearningResAmazonSagemakerCanvas({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningResAmazonSagemakerCanvas);
+ForwardRef.aliasName = "Amazon Sagemaker Canvas";
 export default ForwardRef;

@@ -29,4 +29,5 @@ function GeneralIconsResMobileClientlight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResMobileClientlight);
+ForwardRef.aliasName = "Mobile Clientlight";
 export default ForwardRef;

@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAmazonVpcRouter({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAmazonVpcRouter);
+ForwardRef.aliasName = "Amazon Vpc Router";
 export default ForwardRef;

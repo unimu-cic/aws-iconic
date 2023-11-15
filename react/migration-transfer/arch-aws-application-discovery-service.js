@@ -38,4 +38,5 @@ function MigrationTransferArchAwsApplicationDiscoveryService({
   })));
 }
 const ForwardRef = React.forwardRef(MigrationTransferArchAwsApplicationDiscoveryService);
+ForwardRef.aliasName = "Aws Application Discovery Service";
 module.exports = ForwardRef;

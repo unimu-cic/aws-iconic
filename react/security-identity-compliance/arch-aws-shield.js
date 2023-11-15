@@ -38,4 +38,5 @@ function SecurityIdentityComplianceArchAwsShield({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceArchAwsShield);
+ForwardRef.aliasName = "Aws Shield";
 module.exports = ForwardRef;

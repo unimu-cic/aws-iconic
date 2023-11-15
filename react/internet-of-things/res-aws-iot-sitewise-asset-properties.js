@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotSitewiseAssetProperties({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotSitewiseAssetProperties);
+ForwardRef.aliasName = "Aws Iot Sitewise Asset Properties";
 module.exports = ForwardRef;

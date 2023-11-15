@@ -38,4 +38,5 @@ function MediaServicesArchAwsElementalMediastore({
   })));
 }
 const ForwardRef = React.forwardRef(MediaServicesArchAwsElementalMediastore);
+ForwardRef.aliasName = "Aws Elemental Mediastore";
 export default ForwardRef;

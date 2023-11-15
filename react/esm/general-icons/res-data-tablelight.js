@@ -29,4 +29,5 @@ function GeneralIconsResDataTablelight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResDataTablelight);
+ForwardRef.aliasName = "Data Tablelight";
 export default ForwardRef;

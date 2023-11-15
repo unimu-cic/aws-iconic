@@ -29,4 +29,5 @@ function ComputeResAmazonEc2SpotInstance({
   })));
 }
 const ForwardRef = React.forwardRef(ComputeResAmazonEc2SpotInstance);
+ForwardRef.aliasName = "Amazon Ec2 Spot Instance";
 module.exports = ForwardRef;

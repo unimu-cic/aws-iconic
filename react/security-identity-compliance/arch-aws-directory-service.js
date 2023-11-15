@@ -38,4 +38,5 @@ function SecurityIdentityComplianceArchAwsDirectoryService({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceArchAwsDirectoryService);
+ForwardRef.aliasName = "Aws Directory Service";
 module.exports = ForwardRef;

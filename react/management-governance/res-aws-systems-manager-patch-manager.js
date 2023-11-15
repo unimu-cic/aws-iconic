@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsSystemsManagerPatchManager({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsSystemsManagerPatchManager);
+ForwardRef.aliasName = "Aws Systems Manager Patch Manager";
 module.exports = ForwardRef;

@@ -36,4 +36,5 @@ function GroupAutoScalingGroup({
   })));
 }
 const ForwardRef = React.forwardRef(GroupAutoScalingGroup);
+ForwardRef.aliasName = "Auto Scaling Group";
 export default ForwardRef;

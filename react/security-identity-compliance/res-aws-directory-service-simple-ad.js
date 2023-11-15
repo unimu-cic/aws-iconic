@@ -29,4 +29,5 @@ function SecurityIdentityComplianceResAwsDirectoryServiceSimpleAd({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceResAwsDirectoryServiceSimpleAd);
+ForwardRef.aliasName = "Aws Directory Service Simple Ad";
 module.exports = ForwardRef;

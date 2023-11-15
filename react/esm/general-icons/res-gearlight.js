@@ -29,4 +29,5 @@ function GeneralIconsResGearlight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResGearlight);
+ForwardRef.aliasName = "Gearlight";
 export default ForwardRef;

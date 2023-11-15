@@ -29,4 +29,5 @@ function AnalyticsResAwsGlueCrawler({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAwsGlueCrawler);
+ForwardRef.aliasName = "Aws Glue Crawler";
 export default ForwardRef;

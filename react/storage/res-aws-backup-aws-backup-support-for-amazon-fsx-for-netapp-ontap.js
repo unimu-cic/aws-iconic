@@ -29,4 +29,5 @@ function StorageResAwsBackupAwsBackupSupportForAmazonFsxForNetappOntap({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAwsBackupAwsBackupSupportForAmazonFsxForNetappOntap);
+ForwardRef.aliasName = "Aws Backup Aws Backup Support For Amazon Fsx For Netapp Ontap";
 module.exports = ForwardRef;

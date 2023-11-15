@@ -29,4 +29,5 @@ function DatabaseResAmazonDocumentdbElasticClusters({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseResAmazonDocumentdbElasticClusters);
+ForwardRef.aliasName = "Amazon Documentdb Elastic Clusters";
 export default ForwardRef;

@@ -29,4 +29,5 @@ function FrontEndWebMobileResAmazonLocationServiceGeofence({
   })));
 }
 const ForwardRef = React.forwardRef(FrontEndWebMobileResAmazonLocationServiceGeofence);
+ForwardRef.aliasName = "Amazon Location Service Geofence";
 module.exports = ForwardRef;

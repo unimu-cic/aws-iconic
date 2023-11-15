@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAmazonVpcFlowLogs({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAmazonVpcFlowLogs);
+ForwardRef.aliasName = "Amazon Vpc Flow Logs";
 export default ForwardRef;

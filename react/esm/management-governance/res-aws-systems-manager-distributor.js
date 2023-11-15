@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsSystemsManagerDistributor({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsSystemsManagerDistributor);
+ForwardRef.aliasName = "Aws Systems Manager Distributor";
 export default ForwardRef;

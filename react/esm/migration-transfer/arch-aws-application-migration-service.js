@@ -38,4 +38,5 @@ function MigrationTransferArchAwsApplicationMigrationService({
   })));
 }
 const ForwardRef = React.forwardRef(MigrationTransferArchAwsApplicationMigrationService);
+ForwardRef.aliasName = "Aws Application Migration Service";
 export default ForwardRef;

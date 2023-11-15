@@ -38,4 +38,5 @@ function DeveloperToolsArchAwsCodepipeline({
   })));
 }
 const ForwardRef = React.forwardRef(DeveloperToolsArchAwsCodepipeline);
+ForwardRef.aliasName = "Aws Codepipeline";
 module.exports = ForwardRef;

@@ -29,4 +29,5 @@ function GeneralIconsResServerslight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResServerslight);
+ForwardRef.aliasName = "Serverslight";
 export default ForwardRef;

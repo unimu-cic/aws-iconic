@@ -41,4 +41,5 @@ function NetworkingContentDeliveryArchAwsSiteToSiteVpn({
   }))));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryArchAwsSiteToSiteVpn);
+ForwardRef.aliasName = "Aws Site To Site Vpn";
 module.exports = ForwardRef;

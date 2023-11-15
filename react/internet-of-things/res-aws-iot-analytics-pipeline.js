@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotAnalyticsPipeline({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotAnalyticsPipeline);
+ForwardRef.aliasName = "Aws Iot Analytics Pipeline";
 module.exports = ForwardRef;

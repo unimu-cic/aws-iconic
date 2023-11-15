@@ -38,4 +38,5 @@ function StorageArchAmazonFsxForOpenzfs({
   })));
 }
 const ForwardRef = React.forwardRef(StorageArchAmazonFsxForOpenzfs);
+ForwardRef.aliasName = "Amazon Fsx For Openzfs";
 export default ForwardRef;

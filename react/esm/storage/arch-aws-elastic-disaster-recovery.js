@@ -38,4 +38,5 @@ function StorageArchAwsElasticDisasterRecovery({
   })));
 }
 const ForwardRef = React.forwardRef(StorageArchAwsElasticDisasterRecovery);
+ForwardRef.aliasName = "Aws Elastic Disaster Recovery";
 export default ForwardRef;

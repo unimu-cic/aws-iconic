@@ -41,4 +41,5 @@ function GamesArchAwsGamekit({
   }))));
 }
 const ForwardRef = React.forwardRef(GamesArchAwsGamekit);
+ForwardRef.aliasName = "Aws Gamekit";
 module.exports = ForwardRef;

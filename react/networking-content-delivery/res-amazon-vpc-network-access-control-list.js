@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAmazonVpcNetworkAccessControlList({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAmazonVpcNetworkAccessControlList);
+ForwardRef.aliasName = "Amazon Vpc Network Access Control List";
 module.exports = ForwardRef;

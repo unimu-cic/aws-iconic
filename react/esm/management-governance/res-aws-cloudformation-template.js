@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsCloudformationTemplate({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsCloudformationTemplate);
+ForwardRef.aliasName = "Aws Cloudformation Template";
 export default ForwardRef;

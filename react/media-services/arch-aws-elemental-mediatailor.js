@@ -38,4 +38,5 @@ function MediaServicesArchAwsElementalMediatailor({
   })));
 }
 const ForwardRef = React.forwardRef(MediaServicesArchAwsElementalMediatailor);
+ForwardRef.aliasName = "Aws Elemental Mediatailor";
 module.exports = ForwardRef;

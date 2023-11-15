@@ -41,4 +41,5 @@ function MigrationTransferArchAwsMigrationEvaluator({
   }))));
 }
 const ForwardRef = React.forwardRef(MigrationTransferArchAwsMigrationEvaluator);
+ForwardRef.aliasName = "Aws Migration Evaluator";
 export default ForwardRef;

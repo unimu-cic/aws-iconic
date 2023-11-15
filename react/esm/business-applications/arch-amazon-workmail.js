@@ -38,4 +38,5 @@ function BusinessApplicationsArchAmazonWorkmail({
   })));
 }
 const ForwardRef = React.forwardRef(BusinessApplicationsArchAmazonWorkmail);
+ForwardRef.aliasName = "Amazon Workmail";
 export default ForwardRef;

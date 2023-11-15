@@ -29,4 +29,5 @@ function GeneralIconsResLogslight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResLogslight);
+ForwardRef.aliasName = "Logslight";
 export default ForwardRef;

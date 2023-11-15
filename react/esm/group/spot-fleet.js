@@ -36,4 +36,5 @@ function GroupSpotFleet({
   })));
 }
 const ForwardRef = React.forwardRef(GroupSpotFleet);
+ForwardRef.aliasName = "Spot Fleet";
 export default ForwardRef;

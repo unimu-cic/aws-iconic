@@ -29,4 +29,5 @@ function QuantumTechnologiesResAmazonBraketNoiseSimulator({
   })));
 }
 const ForwardRef = React.forwardRef(QuantumTechnologiesResAmazonBraketNoiseSimulator);
+ForwardRef.aliasName = "Amazon Braket Noise Simulator";
 export default ForwardRef;

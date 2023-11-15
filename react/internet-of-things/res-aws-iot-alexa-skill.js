@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotAlexaSkill({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotAlexaSkill);
+ForwardRef.aliasName = "Aws Iot Alexa_skill";
 module.exports = ForwardRef;

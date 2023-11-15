@@ -47,4 +47,5 @@ function BusinessApplicationsArchCategoryBusinessApplications({
   }))));
 }
 const ForwardRef = React.forwardRef(BusinessApplicationsArchCategoryBusinessApplications);
+ForwardRef.aliasName = "Category Business Applications";
 module.exports = ForwardRef;

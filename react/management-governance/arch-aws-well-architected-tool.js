@@ -38,4 +38,5 @@ function ManagementGovernanceArchAwsWellArchitectedTool({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAwsWellArchitectedTool);
+ForwardRef.aliasName = "Aws Well Architected Tool";
 module.exports = ForwardRef;

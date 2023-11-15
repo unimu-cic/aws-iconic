@@ -29,4 +29,5 @@ function StorageResAwsBackupAuditManager({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAwsBackupAuditManager);
+ForwardRef.aliasName = "Aws Backup Audit Manager";
 module.exports = ForwardRef;

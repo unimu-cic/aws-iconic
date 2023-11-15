@@ -29,4 +29,5 @@ function SecurityIdentityComplianceResAwsIdentityAccessManagementAwsSts({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceResAwsIdentityAccessManagementAwsSts);
+ForwardRef.aliasName = "Aws Identity Access Management Aws Sts";
 export default ForwardRef;

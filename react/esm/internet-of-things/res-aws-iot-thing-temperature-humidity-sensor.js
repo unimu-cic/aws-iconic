@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotThingTemperatureHumiditySensor({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotThingTemperatureHumiditySensor);
+ForwardRef.aliasName = "Aws Iot Thing_temperature Humidity Sensor";
 export default ForwardRef;

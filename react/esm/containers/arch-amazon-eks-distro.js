@@ -41,4 +41,5 @@ function ContainersArchAmazonEksDistro({
   }))));
 }
 const ForwardRef = React.forwardRef(ContainersArchAmazonEksDistro);
+ForwardRef.aliasName = "Amazon Eks Distro";
 export default ForwardRef;

@@ -29,4 +29,5 @@ function AnalyticsResAmazonOpensearchServiceOpensearchDashboards({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAmazonOpensearchServiceOpensearchDashboards);
+ForwardRef.aliasName = "Amazon Openseservice Opensedashboards";
 export default ForwardRef;

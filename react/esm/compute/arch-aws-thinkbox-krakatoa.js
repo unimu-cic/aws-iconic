@@ -41,4 +41,5 @@ function ComputeArchAwsThinkboxKrakatoa({
   }))));
 }
 const ForwardRef = React.forwardRef(ComputeArchAwsThinkboxKrakatoa);
+ForwardRef.aliasName = "Aws Thinkbox Krakatoa";
 export default ForwardRef;

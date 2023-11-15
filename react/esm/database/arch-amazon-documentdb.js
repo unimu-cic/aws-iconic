@@ -38,4 +38,5 @@ function DatabaseArchAmazonDocumentdb({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseArchAmazonDocumentdb);
+ForwardRef.aliasName = "Amazon Documentdb";
 export default ForwardRef;

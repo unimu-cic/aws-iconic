@@ -38,4 +38,5 @@ function AnalyticsArchAmazonManagedStreamingForApacheKafka({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsArchAmazonManagedStreamingForApacheKafka);
+ForwardRef.aliasName = "Amazon Managed Streaming For Apache Kafka";
 module.exports = ForwardRef;

@@ -38,4 +38,5 @@ function SecurityIdentityComplianceArchAwsCertificateManager({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceArchAwsCertificateManager);
+ForwardRef.aliasName = "Aws Certificate Manager";
 export default ForwardRef;

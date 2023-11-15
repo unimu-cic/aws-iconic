@@ -38,4 +38,5 @@ function MediaServicesArchAwsElementalDelta({
   })));
 }
 const ForwardRef = React.forwardRef(MediaServicesArchAwsElementalDelta);
+ForwardRef.aliasName = "Aws Elemental Delta";
 module.exports = ForwardRef;

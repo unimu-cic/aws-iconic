@@ -41,4 +41,5 @@ function CustomerEnablementArchAwsActivate({
   }))));
 }
 const ForwardRef = React.forwardRef(CustomerEnablementArchAwsActivate);
+ForwardRef.aliasName = "Aws Activate";
 module.exports = ForwardRef;

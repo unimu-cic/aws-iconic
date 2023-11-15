@@ -29,4 +29,5 @@ function StorageResAmazonElasticFileSystemElasticThroughput({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAmazonElasticFileSystemElasticThroughput);
+ForwardRef.aliasName = "Amazon Elastic File System Elastic Throughput";
 module.exports = ForwardRef;

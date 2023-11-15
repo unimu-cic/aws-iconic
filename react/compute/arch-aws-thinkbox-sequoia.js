@@ -41,4 +41,5 @@ function ComputeArchAwsThinkboxSequoia({
   }))));
 }
 const ForwardRef = React.forwardRef(ComputeArchAwsThinkboxSequoia);
+ForwardRef.aliasName = "Aws Thinkbox Sequoia";
 module.exports = ForwardRef;

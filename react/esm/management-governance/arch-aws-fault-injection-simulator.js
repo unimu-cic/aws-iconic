@@ -41,4 +41,5 @@ function ManagementGovernanceArchAwsFaultInjectionSimulator({
   }))));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAwsFaultInjectionSimulator);
+ForwardRef.aliasName = "Aws Fault Injection Simulator";
 export default ForwardRef;

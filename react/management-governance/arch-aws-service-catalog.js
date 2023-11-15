@@ -38,4 +38,5 @@ function ManagementGovernanceArchAwsServiceCatalog({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAwsServiceCatalog);
+ForwardRef.aliasName = "Aws Service Catalog";
 module.exports = ForwardRef;

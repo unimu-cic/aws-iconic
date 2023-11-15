@@ -29,4 +29,5 @@ function GeneralIconsResGlobelight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResGlobelight);
+ForwardRef.aliasName = "Globelight";
 export default ForwardRef;

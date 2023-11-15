@@ -41,4 +41,5 @@ function ComputeArchAwsParallelCluster({
   }))));
 }
 const ForwardRef = React.forwardRef(ComputeArchAwsParallelCluster);
+ForwardRef.aliasName = "Aws Parallel Cluster";
 module.exports = ForwardRef;

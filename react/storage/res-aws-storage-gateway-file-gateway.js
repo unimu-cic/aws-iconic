@@ -29,4 +29,5 @@ function StorageResAwsStorageGatewayFileGateway({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAwsStorageGatewayFileGateway);
+ForwardRef.aliasName = "Aws Storage Gateway File Gateway";
 module.exports = ForwardRef;

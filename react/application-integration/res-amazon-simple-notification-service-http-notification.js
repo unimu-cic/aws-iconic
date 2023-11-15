@@ -29,4 +29,5 @@ function ApplicationIntegrationResAmazonSimpleNotificationServiceHttpNotificatio
   })));
 }
 const ForwardRef = React.forwardRef(ApplicationIntegrationResAmazonSimpleNotificationServiceHttpNotification);
+ForwardRef.aliasName = "Amazon Simple Notification Service Http Notification";
 module.exports = ForwardRef;

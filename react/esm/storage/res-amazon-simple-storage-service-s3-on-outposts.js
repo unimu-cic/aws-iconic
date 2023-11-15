@@ -29,4 +29,5 @@ function StorageResAmazonSimpleStorageServiceS3OnOutposts({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAmazonSimpleStorageServiceS3OnOutposts);
+ForwardRef.aliasName = "Amazon Simple Storage Service S3 On Outposts";
 export default ForwardRef;

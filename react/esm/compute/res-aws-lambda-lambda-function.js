@@ -29,4 +29,5 @@ function ComputeResAwsLambdaLambdaFunction({
   })));
 }
 const ForwardRef = React.forwardRef(ComputeResAwsLambdaLambdaFunction);
+ForwardRef.aliasName = "Aws Lambda Lambda Function";
 export default ForwardRef;

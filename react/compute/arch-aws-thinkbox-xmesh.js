@@ -41,4 +41,5 @@ function ComputeArchAwsThinkboxXmesh({
   }))));
 }
 const ForwardRef = React.forwardRef(ComputeArchAwsThinkboxXmesh);
+ForwardRef.aliasName = "Aws Thinkbox Xmesh";
 module.exports = ForwardRef;

@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsSystemsManagerInventory({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsSystemsManagerInventory);
+ForwardRef.aliasName = "Aws Systems Manager Inventory";
 export default ForwardRef;

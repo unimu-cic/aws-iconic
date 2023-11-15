@@ -47,4 +47,5 @@ function DatabaseArchCategoryDatabase({
   }))));
 }
 const ForwardRef = React.forwardRef(DatabaseArchCategoryDatabase);
+ForwardRef.aliasName = "Category Database";
 module.exports = ForwardRef;

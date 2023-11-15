@@ -38,4 +38,5 @@ function NetworkingContentDeliveryArchAwsPrivate5G({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryArchAwsPrivate5G);
+ForwardRef.aliasName = "Aws Private 5g";
 export default ForwardRef;

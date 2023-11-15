@@ -47,4 +47,5 @@ function CustomerEnablementArchCategoryCustomerEnablement({
   }))));
 }
 const ForwardRef = React.forwardRef(CustomerEnablementArchCategoryCustomerEnablement);
+ForwardRef.aliasName = "Category Customer Enablement";
 module.exports = ForwardRef;

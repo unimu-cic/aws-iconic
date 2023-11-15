@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotShadow({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotShadow);
+ForwardRef.aliasName = "Aws Iot Shadow";
 export default ForwardRef;

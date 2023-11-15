@@ -29,4 +29,5 @@ function MigrationTransferResAwsTransferFamilyAwsAs2({
   })));
 }
 const ForwardRef = React.forwardRef(MigrationTransferResAwsTransferFamilyAwsAs2);
+ForwardRef.aliasName = "Aws Transfer Family Aws As2";
 module.exports = ForwardRef;

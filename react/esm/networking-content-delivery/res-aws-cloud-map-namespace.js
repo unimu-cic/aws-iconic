@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAwsCloudMapNamespace({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAwsCloudMapNamespace);
+ForwardRef.aliasName = "Aws Cloud Map Namespace";
 export default ForwardRef;

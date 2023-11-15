@@ -29,4 +29,5 @@ function StorageResAwsBackupLegalHold({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAwsBackupLegalHold);
+ForwardRef.aliasName = "Aws Backup Legal Hold";
 export default ForwardRef;

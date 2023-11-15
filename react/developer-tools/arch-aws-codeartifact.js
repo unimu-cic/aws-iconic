@@ -41,4 +41,5 @@ function DeveloperToolsArchAwsCodeartifact({
   }))));
 }
 const ForwardRef = React.forwardRef(DeveloperToolsArchAwsCodeartifact);
+ForwardRef.aliasName = "Aws Codeartifact";
 module.exports = ForwardRef;

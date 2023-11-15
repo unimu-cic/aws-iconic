@@ -29,4 +29,5 @@ function GeneralIconsResForumslight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResForumslight);
+ForwardRef.aliasName = "Forumslight";
 export default ForwardRef;

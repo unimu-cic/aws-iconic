@@ -38,4 +38,5 @@ function StorageArchAmazonElasticBlockStore({
   })));
 }
 const ForwardRef = React.forwardRef(StorageArchAmazonElasticBlockStore);
+ForwardRef.aliasName = "Amazon Elastic Block Store";
 module.exports = ForwardRef;

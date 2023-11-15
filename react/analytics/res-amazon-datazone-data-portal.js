@@ -29,4 +29,5 @@ function AnalyticsResAmazonDatazoneDataPortal({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAmazonDatazoneDataPortal);
+ForwardRef.aliasName = "Amazon Datazone Data Portal";
 module.exports = ForwardRef;

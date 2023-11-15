@@ -29,4 +29,5 @@ function SecurityIdentityComplianceResAmazonInspectorAgent({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceResAmazonInspectorAgent);
+ForwardRef.aliasName = "Amazon Inspector Agent";
 export default ForwardRef;

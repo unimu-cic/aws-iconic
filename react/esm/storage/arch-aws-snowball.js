@@ -38,4 +38,5 @@ function StorageArchAwsSnowball({
   })));
 }
 const ForwardRef = React.forwardRef(StorageArchAwsSnowball);
+ForwardRef.aliasName = "Aws Snowball";
 export default ForwardRef;

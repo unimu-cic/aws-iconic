@@ -41,4 +41,5 @@ function BusinessApplicationsArchAmazonHoneycode({
   }))));
 }
 const ForwardRef = React.forwardRef(BusinessApplicationsArchAmazonHoneycode);
+ForwardRef.aliasName = "Amazon Honeycode";
 export default ForwardRef;

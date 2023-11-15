@@ -38,4 +38,5 @@ function NetworkingContentDeliveryArchAwsPrivatelink({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryArchAwsPrivatelink);
+ForwardRef.aliasName = "Aws Privatelink";
 module.exports = ForwardRef;

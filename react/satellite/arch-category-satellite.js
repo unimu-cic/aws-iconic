@@ -47,4 +47,5 @@ function SatelliteArchCategorySatellite({
   }))));
 }
 const ForwardRef = React.forwardRef(SatelliteArchCategorySatellite);
+ForwardRef.aliasName = "Category Satellite";
 module.exports = ForwardRef;

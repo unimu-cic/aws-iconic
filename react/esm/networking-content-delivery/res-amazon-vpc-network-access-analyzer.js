@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAmazonVpcNetworkAccessAnalyzer({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAmazonVpcNetworkAccessAnalyzer);
+ForwardRef.aliasName = "Amazon Vpc Network Access Analyzer";
 export default ForwardRef;

@@ -29,4 +29,5 @@ function MigrationTransferResAwsDatasyncAgent({
   })));
 }
 const ForwardRef = React.forwardRef(MigrationTransferResAwsDatasyncAgent);
+ForwardRef.aliasName = "Aws Datasync Agent";
 export default ForwardRef;

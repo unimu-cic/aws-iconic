@@ -38,4 +38,5 @@ function ManagementGovernanceArchAmazonCloudwatch({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAmazonCloudwatch);
+ForwardRef.aliasName = "Amazon Cloudwatch";
 export default ForwardRef;

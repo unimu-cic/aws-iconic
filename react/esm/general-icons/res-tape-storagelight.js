@@ -29,4 +29,5 @@ function GeneralIconsResTapeStoragelight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResTapeStoragelight);
+ForwardRef.aliasName = "Tape Storagelight";
 export default ForwardRef;

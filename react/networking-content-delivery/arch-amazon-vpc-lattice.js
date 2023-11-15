@@ -38,4 +38,5 @@ function NetworkingContentDeliveryArchAmazonVpcLattice({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryArchAmazonVpcLattice);
+ForwardRef.aliasName = "Amazon Vpc Lattice";
 module.exports = ForwardRef;

@@ -38,4 +38,5 @@ function SecurityIdentityComplianceArchAmazonVerifiedPermissions({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceArchAmazonVerifiedPermissions);
+ForwardRef.aliasName = "Amazon Verified Permissions";
 module.exports = ForwardRef;

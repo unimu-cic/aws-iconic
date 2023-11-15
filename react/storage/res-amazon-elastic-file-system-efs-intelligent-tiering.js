@@ -29,4 +29,5 @@ function StorageResAmazonElasticFileSystemEfsIntelligentTiering({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAmazonElasticFileSystemEfsIntelligentTiering);
+ForwardRef.aliasName = "Amazon Elastic File System Efs Intelligent Tiering";
 module.exports = ForwardRef;

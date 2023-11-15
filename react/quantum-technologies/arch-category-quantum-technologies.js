@@ -47,4 +47,5 @@ function QuantumTechnologiesArchCategoryQuantumTechnologies({
   }))));
 }
 const ForwardRef = React.forwardRef(QuantumTechnologiesArchCategoryQuantumTechnologies);
+ForwardRef.aliasName = "Category Quantum Technologies";
 module.exports = ForwardRef;

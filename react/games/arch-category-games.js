@@ -47,4 +47,5 @@ function GamesArchCategoryGames({
   }))));
 }
 const ForwardRef = React.forwardRef(GamesArchCategoryGames);
+ForwardRef.aliasName = "Category Games";
 module.exports = ForwardRef;

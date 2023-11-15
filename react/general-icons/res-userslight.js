@@ -29,4 +29,5 @@ function GeneralIconsResUserslight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResUserslight);
+ForwardRef.aliasName = "Userslight";
 module.exports = ForwardRef;

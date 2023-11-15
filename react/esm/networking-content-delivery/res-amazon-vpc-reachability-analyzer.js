@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAmazonVpcReachabilityAnalyzer({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAmazonVpcReachabilityAnalyzer);
+ForwardRef.aliasName = "Amazon Vpc Reachability Analyzer";
 export default ForwardRef;

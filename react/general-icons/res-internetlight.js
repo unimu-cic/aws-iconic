@@ -29,4 +29,5 @@ function GeneralIconsResInternetlight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResInternetlight);
+ForwardRef.aliasName = "Internetlight";
 module.exports = ForwardRef;

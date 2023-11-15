@@ -29,4 +29,5 @@ function StorageResAwsStorageGatewayCachedVolume({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAwsStorageGatewayCachedVolume);
+ForwardRef.aliasName = "Aws Storage Gateway Cached Volume";
 export default ForwardRef;

@@ -38,4 +38,5 @@ function AnalyticsArchAmazonKinesis({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsArchAmazonKinesis);
+ForwardRef.aliasName = "Amazon Kinesis";
 module.exports = ForwardRef;

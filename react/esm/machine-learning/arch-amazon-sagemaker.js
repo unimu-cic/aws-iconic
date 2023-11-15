@@ -38,4 +38,5 @@ function MachineLearningArchAmazonSagemaker({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAmazonSagemaker);
+ForwardRef.aliasName = "Amazon Sagemaker";
 export default ForwardRef;

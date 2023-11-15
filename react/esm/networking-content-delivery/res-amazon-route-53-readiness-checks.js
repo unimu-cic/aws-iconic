@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAmazonRoute53ReadinessChecks({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAmazonRoute53ReadinessChecks);
+ForwardRef.aliasName = "Amazon Route 53 Readiness Checks";
 export default ForwardRef;

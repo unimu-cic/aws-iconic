@@ -41,4 +41,5 @@ function DeveloperToolsArchAwsCloudshell({
   }))));
 }
 const ForwardRef = React.forwardRef(DeveloperToolsArchAwsCloudshell);
+ForwardRef.aliasName = "Aws Cloudshell";
 module.exports = ForwardRef;

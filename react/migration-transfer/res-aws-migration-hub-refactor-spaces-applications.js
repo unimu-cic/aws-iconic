@@ -29,4 +29,5 @@ function MigrationTransferResAwsMigrationHubRefactorSpacesApplications({
   })));
 }
 const ForwardRef = React.forwardRef(MigrationTransferResAwsMigrationHubRefactorSpacesApplications);
+ForwardRef.aliasName = "Aws Migration Hub Refactor Spaces Applications";
 module.exports = ForwardRef;

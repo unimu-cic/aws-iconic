@@ -36,4 +36,5 @@ function GroupAwsIotGreengrassDeployment({
   })));
 }
 const ForwardRef = React.forwardRef(GroupAwsIotGreengrassDeployment);
+ForwardRef.aliasName = "Aws Iot Greengrass Deployment";
 module.exports = ForwardRef;

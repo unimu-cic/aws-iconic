@@ -41,4 +41,5 @@ function MachineLearningArchAmazonDevopsGuru({
   }))));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAmazonDevopsGuru);
+ForwardRef.aliasName = "Amazon Devops Guru";
 export default ForwardRef;

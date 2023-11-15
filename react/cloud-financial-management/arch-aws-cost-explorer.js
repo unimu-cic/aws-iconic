@@ -38,4 +38,5 @@ function CloudFinancialManagementArchAwsCostExplorer({
   })));
 }
 const ForwardRef = React.forwardRef(CloudFinancialManagementArchAwsCostExplorer);
+ForwardRef.aliasName = "Aws Cost Explorer";
 module.exports = ForwardRef;

@@ -41,4 +41,5 @@ function StorageArchAmazonFsxForWfs({
   }))));
 }
 const ForwardRef = React.forwardRef(StorageArchAmazonFsxForWfs);
+ForwardRef.aliasName = "Amazon Fsx For Wfs";
 export default ForwardRef;

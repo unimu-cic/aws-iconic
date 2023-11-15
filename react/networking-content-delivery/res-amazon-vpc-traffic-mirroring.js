@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAmazonVpcTrafficMirroring({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAmazonVpcTrafficMirroring);
+ForwardRef.aliasName = "Amazon Vpc Traffic Mirroring";
 module.exports = ForwardRef;

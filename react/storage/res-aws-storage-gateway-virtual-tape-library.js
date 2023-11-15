@@ -29,4 +29,5 @@ function StorageResAwsStorageGatewayVirtualTapeLibrary({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAwsStorageGatewayVirtualTapeLibrary);
+ForwardRef.aliasName = "Aws Storage Gateway Virtual Tape Library";
 module.exports = ForwardRef;

@@ -38,4 +38,5 @@ function StorageArchAmazonSimpleStorageServiceGlacier({
   })));
 }
 const ForwardRef = React.forwardRef(StorageArchAmazonSimpleStorageServiceGlacier);
+ForwardRef.aliasName = "Amazon Simple Storage Service Glacier";
 module.exports = ForwardRef;

@@ -38,4 +38,5 @@ function MediaServicesArchAwsElementalMediaconvert({
   })));
 }
 const ForwardRef = React.forwardRef(MediaServicesArchAwsElementalMediaconvert);
+ForwardRef.aliasName = "Aws Elemental Mediaconvert";
 module.exports = ForwardRef;

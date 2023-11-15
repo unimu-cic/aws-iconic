@@ -38,4 +38,5 @@ function EndUserComputingArchAmazonAppstream({
   })));
 }
 const ForwardRef = React.forwardRef(EndUserComputingArchAmazonAppstream);
+ForwardRef.aliasName = "Amazon Appstream";
 export default ForwardRef;

@@ -38,4 +38,5 @@ function ComputeArchAwsOutpostsRack({
   })));
 }
 const ForwardRef = React.forwardRef(ComputeArchAwsOutpostsRack);
+ForwardRef.aliasName = "Aws Outposts Rack";
 export default ForwardRef;

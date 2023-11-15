@@ -41,4 +41,5 @@ function ManagementGovernanceArchAmazonManagedGrafana({
   }))));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAmazonManagedGrafana);
+ForwardRef.aliasName = "Amazon Managed Grafana";
 module.exports = ForwardRef;

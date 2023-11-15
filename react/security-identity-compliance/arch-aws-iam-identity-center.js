@@ -38,4 +38,5 @@ function SecurityIdentityComplianceArchAwsIamIdentityCenter({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceArchAwsIamIdentityCenter);
+ForwardRef.aliasName = "Aws Iam Identity Center";
 module.exports = ForwardRef;

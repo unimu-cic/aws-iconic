@@ -29,4 +29,5 @@ function GeneralIconsResGitRepositorylight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResGitRepositorylight);
+ForwardRef.aliasName = "Git Repositorylight";
 export default ForwardRef;

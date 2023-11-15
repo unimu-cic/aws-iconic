@@ -38,4 +38,5 @@ function ManagementGovernanceArchAwsOrganizations({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAwsOrganizations);
+ForwardRef.aliasName = "Aws Organizations";
 module.exports = ForwardRef;

@@ -29,4 +29,5 @@ function ComputeResAmazonEc2AutoScaling({
   })));
 }
 const ForwardRef = React.forwardRef(ComputeResAmazonEc2AutoScaling);
+ForwardRef.aliasName = "Amazon Ec2 Auto Scaling";
 export default ForwardRef;

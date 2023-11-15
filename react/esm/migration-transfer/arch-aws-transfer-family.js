@@ -38,4 +38,5 @@ function MigrationTransferArchAwsTransferFamily({
   })));
 }
 const ForwardRef = React.forwardRef(MigrationTransferArchAwsTransferFamily);
+ForwardRef.aliasName = "Aws Transfer Family";
 export default ForwardRef;

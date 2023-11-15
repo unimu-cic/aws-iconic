@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsTrustedAdvisorChecklistFaultTolerant({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsTrustedAdvisorChecklistFaultTolerant);
+ForwardRef.aliasName = "Aws Trusted Advisor Checklist Fault Tolerant";
 module.exports = ForwardRef;

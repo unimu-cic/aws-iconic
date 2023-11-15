@@ -38,4 +38,5 @@ function AnalyticsArchAmazonDatazone({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsArchAmazonDatazone);
+ForwardRef.aliasName = "Amazon Datazone";
 export default ForwardRef;

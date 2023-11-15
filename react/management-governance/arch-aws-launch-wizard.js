@@ -38,4 +38,5 @@ function ManagementGovernanceArchAwsLaunchWizard({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAwsLaunchWizard);
+ForwardRef.aliasName = "Aws Launch Wizard";
 module.exports = ForwardRef;

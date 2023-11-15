@@ -47,4 +47,5 @@ function AnalyticsArchCategoryAnalytics({
   }))));
 }
 const ForwardRef = React.forwardRef(AnalyticsArchCategoryAnalytics);
+ForwardRef.aliasName = "Category Analytics";
 module.exports = ForwardRef;

@@ -41,4 +41,5 @@ function ApplicationIntegrationArchAwsConsoleMobileApplication({
   }))));
 }
 const ForwardRef = React.forwardRef(ApplicationIntegrationArchAwsConsoleMobileApplication);
+ForwardRef.aliasName = "Aws Console Mobile Application";
 export default ForwardRef;

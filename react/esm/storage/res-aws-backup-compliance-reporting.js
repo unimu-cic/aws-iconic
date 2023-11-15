@@ -29,4 +29,5 @@ function StorageResAwsBackupComplianceReporting({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAwsBackupComplianceReporting);
+ForwardRef.aliasName = "Aws Backup Compliance Reporting";
 export default ForwardRef;

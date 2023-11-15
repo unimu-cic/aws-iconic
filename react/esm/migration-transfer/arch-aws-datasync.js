@@ -38,4 +38,5 @@ function MigrationTransferArchAwsDatasync({
   })));
 }
 const ForwardRef = React.forwardRef(MigrationTransferArchAwsDatasync);
+ForwardRef.aliasName = "Aws Datasync";
 export default ForwardRef;

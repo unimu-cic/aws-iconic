@@ -41,4 +41,5 @@ function MachineLearningArchAwsPanorama({
   }))));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAwsPanorama);
+ForwardRef.aliasName = "Aws Panorama";
 export default ForwardRef;

@@ -29,4 +29,5 @@ function GeneralIconsResFirewalllight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResFirewalllight);
+ForwardRef.aliasName = "Firewalllight";
 module.exports = ForwardRef;

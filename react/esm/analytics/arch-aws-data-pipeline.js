@@ -38,4 +38,5 @@ function AnalyticsArchAwsDataPipeline({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsArchAwsDataPipeline);
+ForwardRef.aliasName = "Aws Data Pipeline";
 export default ForwardRef;

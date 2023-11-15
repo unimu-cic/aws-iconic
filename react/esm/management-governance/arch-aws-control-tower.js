@@ -38,4 +38,5 @@ function ManagementGovernanceArchAwsControlTower({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAwsControlTower);
+ForwardRef.aliasName = "Aws Control Tower";
 export default ForwardRef;

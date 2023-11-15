@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAwsAppMeshVirtualService({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAwsAppMeshVirtualService);
+ForwardRef.aliasName = "Aws App Mesh Virtual Service";
 module.exports = ForwardRef;

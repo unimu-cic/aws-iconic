@@ -38,4 +38,5 @@ function MediaServicesArchAmazonElasticTranscoder({
   })));
 }
 const ForwardRef = React.forwardRef(MediaServicesArchAmazonElasticTranscoder);
+ForwardRef.aliasName = "Amazon Elastic Transcoder";
 export default ForwardRef;

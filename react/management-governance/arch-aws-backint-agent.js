@@ -41,4 +41,5 @@ function ManagementGovernanceArchAwsBackintAgent({
   }))));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAwsBackintAgent);
+ForwardRef.aliasName = "Aws Backint Agent";
 module.exports = ForwardRef;

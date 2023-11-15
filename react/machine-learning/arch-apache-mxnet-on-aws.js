@@ -38,4 +38,5 @@ function MachineLearningArchApacheMxnetOnAws({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchApacheMxnetOnAws);
+ForwardRef.aliasName = "Apache Mxnet On Aws";
 module.exports = ForwardRef;

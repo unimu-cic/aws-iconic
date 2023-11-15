@@ -38,4 +38,5 @@ function InternetOfThingsArchAwsIotDeviceDefender({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsArchAwsIotDeviceDefender);
+ForwardRef.aliasName = "Aws Iot Device Defender";
 module.exports = ForwardRef;

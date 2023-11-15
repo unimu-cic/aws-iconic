@@ -29,4 +29,5 @@ function ApplicationIntegrationResAmazonApiGatewayEndpoint({
   })));
 }
 const ForwardRef = React.forwardRef(ApplicationIntegrationResAmazonApiGatewayEndpoint);
+ForwardRef.aliasName = "Amazon Api Gateway Endpoint";
 module.exports = ForwardRef;

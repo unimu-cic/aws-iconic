@@ -29,4 +29,5 @@ function ContainersResAmazonElasticContainerServiceCopiiotCli({
   })));
 }
 const ForwardRef = React.forwardRef(ContainersResAmazonElasticContainerServiceCopiiotCli);
+ForwardRef.aliasName = "Amazon Elastic Container Service Copiiot Cli";
 module.exports = ForwardRef;

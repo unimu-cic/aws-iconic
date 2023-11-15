@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotHttpProtocol({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotHttpProtocol);
+ForwardRef.aliasName = "Aws Iot Http_protocol";
 export default ForwardRef;

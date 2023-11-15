@@ -38,4 +38,5 @@ function DeveloperToolsArchAwsCloudDevelopmentKit({
   })));
 }
 const ForwardRef = React.forwardRef(DeveloperToolsArchAwsCloudDevelopmentKit);
+ForwardRef.aliasName = "Aws Cloud Development Kit";
 export default ForwardRef;

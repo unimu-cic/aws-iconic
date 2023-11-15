@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotThingPlc({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotThingPlc);
+ForwardRef.aliasName = "Aws Iot Thing_plc";
 export default ForwardRef;

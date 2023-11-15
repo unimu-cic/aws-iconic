@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAwsDirectConnectGateway({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAwsDirectConnectGateway);
+ForwardRef.aliasName = "Aws Direct Connect Gateway";
 module.exports = ForwardRef;

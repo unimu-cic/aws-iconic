@@ -41,4 +41,5 @@ function CloudFinancialManagementArchSavingsPlans({
   }))));
 }
 const ForwardRef = React.forwardRef(CloudFinancialManagementArchSavingsPlans);
+ForwardRef.aliasName = "Savings Plans";
 export default ForwardRef;

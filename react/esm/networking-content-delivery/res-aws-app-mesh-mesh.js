@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAwsAppMeshMesh({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAwsAppMeshMesh);
+ForwardRef.aliasName = "Aws App Mesh Mesh";
 export default ForwardRef;

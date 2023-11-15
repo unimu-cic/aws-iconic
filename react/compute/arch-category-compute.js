@@ -47,4 +47,5 @@ function ComputeArchCategoryCompute({
   }))));
 }
 const ForwardRef = React.forwardRef(ComputeArchCategoryCompute);
+ForwardRef.aliasName = "Category Compute";
 module.exports = ForwardRef;

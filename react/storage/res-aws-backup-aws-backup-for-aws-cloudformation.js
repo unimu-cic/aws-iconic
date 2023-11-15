@@ -29,4 +29,5 @@ function StorageResAwsBackupAwsBackupForAwsCloudformation({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAwsBackupAwsBackupForAwsCloudformation);
+ForwardRef.aliasName = "Aws Backup Aws Backup For Aws Cloudformation";
 module.exports = ForwardRef;

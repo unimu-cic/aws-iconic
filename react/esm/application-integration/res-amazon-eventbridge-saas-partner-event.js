@@ -29,4 +29,5 @@ function ApplicationIntegrationResAmazonEventbridgeSaasPartnerEvent({
   })));
 }
 const ForwardRef = React.forwardRef(ApplicationIntegrationResAmazonEventbridgeSaasPartnerEvent);
+ForwardRef.aliasName = "Amazon Eventbridge Saas Partner Event";
 export default ForwardRef;

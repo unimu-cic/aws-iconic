@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAmazonRoute53RouteTable({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAmazonRoute53RouteTable);
+ForwardRef.aliasName = "Amazon Route 53 Route Table";
 export default ForwardRef;

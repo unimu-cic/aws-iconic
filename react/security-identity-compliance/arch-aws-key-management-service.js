@@ -38,4 +38,5 @@ function SecurityIdentityComplianceArchAwsKeyManagementService({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceArchAwsKeyManagementService);
+ForwardRef.aliasName = "Aws Key Management Service";
 module.exports = ForwardRef;

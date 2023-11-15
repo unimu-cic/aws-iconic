@@ -29,4 +29,5 @@ function SecurityIdentityComplianceResAwsIdentityAccessManagementMfaToken({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceResAwsIdentityAccessManagementMfaToken);
+ForwardRef.aliasName = "Aws Identity Access Management Mfa Token";
 module.exports = ForwardRef;

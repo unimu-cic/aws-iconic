@@ -29,4 +29,5 @@ function AnalyticsResAmazonRedshiftDataSharingGovernance({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAmazonRedshiftDataSharingGovernance);
+ForwardRef.aliasName = "Amazon Redshift Data Sharing Governance";
 export default ForwardRef;

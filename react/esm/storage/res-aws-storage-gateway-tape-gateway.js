@@ -29,4 +29,5 @@ function StorageResAwsStorageGatewayTapeGateway({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAwsStorageGatewayTapeGateway);
+ForwardRef.aliasName = "Aws Storage Gateway Tape Gateway";
 export default ForwardRef;

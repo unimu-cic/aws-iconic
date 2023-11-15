@@ -36,4 +36,5 @@ function GroupPublicSubnet({
   })));
 }
 const ForwardRef = React.forwardRef(GroupPublicSubnet);
+ForwardRef.aliasName = "Public Subnet";
 module.exports = ForwardRef;

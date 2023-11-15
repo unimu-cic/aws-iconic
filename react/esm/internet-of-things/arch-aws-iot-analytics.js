@@ -38,4 +38,5 @@ function InternetOfThingsArchAwsIotAnalytics({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsArchAwsIotAnalytics);
+ForwardRef.aliasName = "Aws Iot Analytics";
 export default ForwardRef;

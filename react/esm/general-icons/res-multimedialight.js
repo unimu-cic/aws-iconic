@@ -29,4 +29,5 @@ function GeneralIconsResMultimedialight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResMultimedialight);
+ForwardRef.aliasName = "Multimedialight";
 export default ForwardRef;

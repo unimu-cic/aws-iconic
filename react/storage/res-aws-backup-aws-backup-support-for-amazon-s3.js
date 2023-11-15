@@ -29,4 +29,5 @@ function StorageResAwsBackupAwsBackupSupportForAmazonS3({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAwsBackupAwsBackupSupportForAmazonS3);
+ForwardRef.aliasName = "Aws Backup Aws Backup Support For Amazon S3";
 module.exports = ForwardRef;

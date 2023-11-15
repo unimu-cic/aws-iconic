@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotReportedState({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotReportedState);
+ForwardRef.aliasName = "Aws Iot Reported State";
 module.exports = ForwardRef;

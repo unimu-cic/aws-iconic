@@ -38,4 +38,5 @@ function ComputeArchAmazonEc2ImageBuilder({
   })));
 }
 const ForwardRef = React.forwardRef(ComputeArchAmazonEc2ImageBuilder);
+ForwardRef.aliasName = "Amazon Ec2 Image Builder";
 export default ForwardRef;

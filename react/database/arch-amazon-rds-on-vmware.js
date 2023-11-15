@@ -38,4 +38,5 @@ function DatabaseArchAmazonRdsOnVmware({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseArchAmazonRdsOnVmware);
+ForwardRef.aliasName = "Amazon Rds On Vmware";
 module.exports = ForwardRef;

@@ -29,4 +29,5 @@ function SecurityIdentityComplianceResAwsIdentityAccessManagementTemporarySecuri
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceResAwsIdentityAccessManagementTemporarySecurityCredential);
+ForwardRef.aliasName = "Aws Identity Access Management Temporary Security Credential";
 module.exports = ForwardRef;

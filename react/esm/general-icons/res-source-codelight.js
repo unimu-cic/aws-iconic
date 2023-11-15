@@ -29,4 +29,5 @@ function GeneralIconsResSourceCodelight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResSourceCodelight);
+ForwardRef.aliasName = "Source Codelight";
 export default ForwardRef;

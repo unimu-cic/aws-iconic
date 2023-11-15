@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotThingFreertosDevice({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotThingFreertosDevice);
+ForwardRef.aliasName = "Aws Iot Thing_freertos Device";
 export default ForwardRef;

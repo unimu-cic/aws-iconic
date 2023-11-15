@@ -41,4 +41,5 @@ function ComputeArchAwsThinkboxDeadline({
   }))));
 }
 const ForwardRef = React.forwardRef(ComputeArchAwsThinkboxDeadline);
+ForwardRef.aliasName = "Aws Thinkbox Deadline";
 export default ForwardRef;

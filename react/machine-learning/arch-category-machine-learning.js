@@ -47,4 +47,5 @@ function MachineLearningArchCategoryMachineLearning({
   }))));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchCategoryMachineLearning);
+ForwardRef.aliasName = "Category Machine Learning";
 module.exports = ForwardRef;

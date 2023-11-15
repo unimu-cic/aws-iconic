@@ -1,4 +1,4 @@
-export { default as MediaServicesArchAwsElementalAppliancesSoftware } from './arch-aws-elemental-appliances--software'
+export { default as MediaServicesArchAwsElementalAppliancesSoftware } from './arch-aws-elemental-appliances-&-software'
 export { default as MediaServicesArchAwsElementalConductor } from './arch-aws-elemental-conductor'
 export { default as MediaServicesArchAwsElementalDelta } from './arch-aws-elemental-delta'
 export { default as MediaServicesArchAwsElementalLink } from './arch-aws-elemental-link'

@@ -38,4 +38,5 @@ function MachineLearningArchAmazonAugmentedAiA2I({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAmazonAugmentedAiA2I);
+ForwardRef.aliasName = "Amazon Augmented Ai A2i";
 module.exports = ForwardRef;

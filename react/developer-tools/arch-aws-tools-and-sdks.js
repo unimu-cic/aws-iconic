@@ -38,4 +38,5 @@ function DeveloperToolsArchAwsToolsAndSdks({
   })));
 }
 const ForwardRef = React.forwardRef(DeveloperToolsArchAwsToolsAndSdks);
+ForwardRef.aliasName = "Aws Tools And Sdks";
 module.exports = ForwardRef;

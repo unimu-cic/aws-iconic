@@ -38,4 +38,5 @@ function InternetOfThingsArchFreertos({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsArchFreertos);
+ForwardRef.aliasName = "Freertos";
 module.exports = ForwardRef;

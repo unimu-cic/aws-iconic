@@ -41,4 +41,5 @@ function DatabaseArchAmazonMemorydbForRedis({
   }))));
 }
 const ForwardRef = React.forwardRef(DatabaseArchAmazonMemorydbForRedis);
+ForwardRef.aliasName = "Amazon Memorydb For Redis";
 module.exports = ForwardRef;

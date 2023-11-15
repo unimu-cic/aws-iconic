@@ -41,4 +41,5 @@ function ComputeArchAwsAppRunner({
   }))));
 }
 const ForwardRef = React.forwardRef(ComputeArchAwsAppRunner);
+ForwardRef.aliasName = "Aws App Runner";
 export default ForwardRef;

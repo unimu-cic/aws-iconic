@@ -41,4 +41,5 @@ function ContainersArchAmazonEcsAnywhere({
   }))));
 }
 const ForwardRef = React.forwardRef(ContainersArchAmazonEcsAnywhere);
+ForwardRef.aliasName = "Amazon Ecs Anywhere";
 module.exports = ForwardRef;

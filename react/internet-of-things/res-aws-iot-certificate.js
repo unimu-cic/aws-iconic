@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotCertificate({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotCertificate);
+ForwardRef.aliasName = "Aws Iot Certificate";
 module.exports = ForwardRef;

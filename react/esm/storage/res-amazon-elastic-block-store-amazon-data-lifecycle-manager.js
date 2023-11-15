@@ -29,4 +29,5 @@ function StorageResAmazonElasticBlockStoreAmazonDataLifecycleManager({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAmazonElasticBlockStoreAmazonDataLifecycleManager);
+ForwardRef.aliasName = "Amazon Elastic Block Store Amazon Data Lifecycle Manager";
 export default ForwardRef;

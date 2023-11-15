@@ -29,4 +29,5 @@ function MachineLearningResAmazonTextractAnalyzeLending({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningResAmazonTextractAnalyzeLending);
+ForwardRef.aliasName = "Amazon Textract Analyze Lending";
 export default ForwardRef;

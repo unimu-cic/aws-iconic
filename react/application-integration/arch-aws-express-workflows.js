@@ -38,4 +38,5 @@ function ApplicationIntegrationArchAwsExpressWorkflows({
   })));
 }
 const ForwardRef = React.forwardRef(ApplicationIntegrationArchAwsExpressWorkflows);
+ForwardRef.aliasName = "Aws Express Workflows";
 module.exports = ForwardRef;

@@ -29,4 +29,5 @@ function SecurityIdentityComplianceResAwsIdentityAccessManagementIamAccessAnalyz
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceResAwsIdentityAccessManagementIamAccessAnalyzer);
+ForwardRef.aliasName = "Aws Identity Access Management Iam Access Analyzer";
 export default ForwardRef;

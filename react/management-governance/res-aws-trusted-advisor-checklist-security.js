@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsTrustedAdvisorChecklistSecurity({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsTrustedAdvisorChecklistSecurity);
+ForwardRef.aliasName = "Aws Trusted Advisor Checklist Security";
 module.exports = ForwardRef;

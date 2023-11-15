@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotFireTv({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotFireTv);
+ForwardRef.aliasName = "Aws Iot Fire_tv";
 module.exports = ForwardRef;

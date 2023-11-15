@@ -29,4 +29,5 @@ function DatabaseResAmazonElasticacheElasticacheForRedis({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseResAmazonElasticacheElasticacheForRedis);
+ForwardRef.aliasName = "Amazon Elasticache Elasticache For Redis";
 module.exports = ForwardRef;

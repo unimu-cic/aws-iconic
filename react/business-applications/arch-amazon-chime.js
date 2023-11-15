@@ -38,4 +38,5 @@ function BusinessApplicationsArchAmazonChime({
   })));
 }
 const ForwardRef = React.forwardRef(BusinessApplicationsArchAmazonChime);
+ForwardRef.aliasName = "Amazon Chime";
 module.exports = ForwardRef;

@@ -29,4 +29,5 @@ function GeneralIconsResRecoverlight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResRecoverlight);
+ForwardRef.aliasName = "Recoverlight";
 module.exports = ForwardRef;

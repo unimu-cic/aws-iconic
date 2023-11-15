@@ -38,4 +38,5 @@ function MigrationTransferArchAwsMigrationHub({
   })));
 }
 const ForwardRef = React.forwardRef(MigrationTransferArchAwsMigrationHub);
+ForwardRef.aliasName = "Aws Migration Hub";
 export default ForwardRef;

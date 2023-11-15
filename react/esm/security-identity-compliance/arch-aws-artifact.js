@@ -38,4 +38,5 @@ function SecurityIdentityComplianceArchAwsArtifact({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceArchAwsArtifact);
+ForwardRef.aliasName = "Aws Artifact";
 export default ForwardRef;

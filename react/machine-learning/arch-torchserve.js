@@ -41,4 +41,5 @@ function MachineLearningArchTorchserve({
   }))));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchTorchserve);
+ForwardRef.aliasName = "Torchserve";
 module.exports = ForwardRef;

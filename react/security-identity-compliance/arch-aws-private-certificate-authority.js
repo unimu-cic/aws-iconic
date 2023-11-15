@@ -38,4 +38,5 @@ function SecurityIdentityComplianceArchAwsPrivateCertificateAuthority({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceArchAwsPrivateCertificateAuthority);
+ForwardRef.aliasName = "Aws Private Certificate Authority";
 module.exports = ForwardRef;

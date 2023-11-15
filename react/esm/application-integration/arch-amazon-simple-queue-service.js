@@ -38,4 +38,5 @@ function ApplicationIntegrationArchAmazonSimpleQueueService({
   })));
 }
 const ForwardRef = React.forwardRef(ApplicationIntegrationArchAmazonSimpleQueueService);
+ForwardRef.aliasName = "Amazon Simple Queue Service";
 export default ForwardRef;

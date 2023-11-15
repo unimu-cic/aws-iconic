@@ -38,4 +38,5 @@ function DeveloperToolsArchAwsCommandLineInterface({
   })));
 }
 const ForwardRef = React.forwardRef(DeveloperToolsArchAwsCommandLineInterface);
+ForwardRef.aliasName = "Aws Command Line Interface";
 export default ForwardRef;

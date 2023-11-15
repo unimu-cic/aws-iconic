@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotDeviceTester({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotDeviceTester);
+ForwardRef.aliasName = "Aws Iot Device Tester";
 module.exports = ForwardRef;

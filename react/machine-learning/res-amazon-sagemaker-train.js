@@ -29,4 +29,5 @@ function MachineLearningResAmazonSagemakerTrain({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningResAmazonSagemakerTrain);
+ForwardRef.aliasName = "Amazon Sagemaker Train";
 module.exports = ForwardRef;

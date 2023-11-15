@@ -29,4 +29,5 @@ function SecurityIdentityComplianceResAwsIdentityAccessManagementAddOn({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceResAwsIdentityAccessManagementAddOn);
+ForwardRef.aliasName = "Aws Identity Access Management Add On";
 module.exports = ForwardRef;

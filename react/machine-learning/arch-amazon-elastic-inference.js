@@ -38,4 +38,5 @@ function MachineLearningArchAmazonElasticInference({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAmazonElasticInference);
+ForwardRef.aliasName = "Amazon Elastic Inference";
 module.exports = ForwardRef;

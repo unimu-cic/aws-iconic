@@ -38,4 +38,5 @@ function ApplicationIntegrationArchAwsStepFunctions({
   })));
 }
 const ForwardRef = React.forwardRef(ApplicationIntegrationArchAwsStepFunctions);
+ForwardRef.aliasName = "Aws Step Functions";
 export default ForwardRef;

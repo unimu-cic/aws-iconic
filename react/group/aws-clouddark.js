@@ -36,4 +36,5 @@ function GroupAwsClouddark({
   })));
 }
 const ForwardRef = React.forwardRef(GroupAwsClouddark);
+ForwardRef.aliasName = "Aws Clouddark";
 module.exports = ForwardRef;

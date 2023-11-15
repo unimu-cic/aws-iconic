@@ -38,4 +38,5 @@ function DeveloperToolsArchAwsCodestar({
   })));
 }
 const ForwardRef = React.forwardRef(DeveloperToolsArchAwsCodestar);
+ForwardRef.aliasName = "Aws Codestar";
 export default ForwardRef;

@@ -29,4 +29,5 @@ function AnalyticsResAmazonDatazoneBusinessDataCatalog({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAmazonDatazoneBusinessDataCatalog);
+ForwardRef.aliasName = "Amazon Datazone Business Data Catalog";
 export default ForwardRef;

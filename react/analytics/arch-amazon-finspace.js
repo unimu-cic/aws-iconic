@@ -41,4 +41,5 @@ function AnalyticsArchAmazonFinspace({
   }))));
 }
 const ForwardRef = React.forwardRef(AnalyticsArchAmazonFinspace);
+ForwardRef.aliasName = "Amazon Finspace";
 module.exports = ForwardRef;

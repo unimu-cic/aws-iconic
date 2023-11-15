@@ -29,4 +29,5 @@ function ApplicationIntegrationResAmazonSimpleNotificationServiceEmailNotificati
   })));
 }
 const ForwardRef = React.forwardRef(ApplicationIntegrationResAmazonSimpleNotificationServiceEmailNotification);
+ForwardRef.aliasName = "Amazon Simple Notification Service Email Notification";
 export default ForwardRef;

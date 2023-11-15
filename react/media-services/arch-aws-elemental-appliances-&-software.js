@@ -1,5 +1,5 @@
 const React = require("react");
-function ArchAwsElementalAppliancesSoftware({
+function MediaServicesArchAwsElementalAppliancesSoftware({
   title,
   titleId,
   ...props
@@ -37,5 +37,6 @@ function ArchAwsElementalAppliancesSoftware({
     fill: "#FFFFFF"
   })));
 }
-const ForwardRef = React.forwardRef(ArchAwsElementalAppliancesSoftware);
+const ForwardRef = React.forwardRef(MediaServicesArchAwsElementalAppliancesSoftware);
+ForwardRef.aliasName = "Aws Elemental Appliances  Software";
 module.exports = ForwardRef;

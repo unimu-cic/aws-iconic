@@ -41,4 +41,5 @@ function MachineLearningArchAmazonLookoutForEquipment({
   }))));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAmazonLookoutForEquipment);
+ForwardRef.aliasName = "Amazon Lookout For Equipment";
 module.exports = ForwardRef;

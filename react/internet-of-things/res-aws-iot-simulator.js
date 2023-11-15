@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotSimulator({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotSimulator);
+ForwardRef.aliasName = "Aws Iot Simulator";
 module.exports = ForwardRef;

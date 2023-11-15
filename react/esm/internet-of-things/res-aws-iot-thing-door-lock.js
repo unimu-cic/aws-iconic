@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotThingDoorLock({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotThingDoorLock);
+ForwardRef.aliasName = "Aws Iot Thing_door Lock";
 export default ForwardRef;

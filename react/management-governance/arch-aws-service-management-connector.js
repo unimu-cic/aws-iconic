@@ -38,4 +38,5 @@ function ManagementGovernanceArchAwsServiceManagementConnector({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAwsServiceManagementConnector);
+ForwardRef.aliasName = "Aws Service Management Connector";
 module.exports = ForwardRef;

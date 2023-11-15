@@ -41,4 +41,5 @@ function MachineLearningArchAmazonMonitron({
   }))));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAmazonMonitron);
+ForwardRef.aliasName = "Amazon Monitron";
 export default ForwardRef;

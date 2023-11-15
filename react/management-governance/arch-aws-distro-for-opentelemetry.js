@@ -41,4 +41,5 @@ function ManagementGovernanceArchAwsDistroForOpentelemetry({
   }))));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAwsDistroForOpentelemetry);
+ForwardRef.aliasName = "Aws Distro For Opentelemetry";
 module.exports = ForwardRef;

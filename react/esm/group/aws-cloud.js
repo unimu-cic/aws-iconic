@@ -36,4 +36,5 @@ function GroupAwsCloud({
   })));
 }
 const ForwardRef = React.forwardRef(GroupAwsCloud);
+ForwardRef.aliasName = "Aws Cloud";
 export default ForwardRef;

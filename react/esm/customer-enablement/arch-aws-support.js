@@ -38,4 +38,5 @@ function CustomerEnablementArchAwsSupport({
   })));
 }
 const ForwardRef = React.forwardRef(CustomerEnablementArchAwsSupport);
+ForwardRef.aliasName = "Aws Support";
 export default ForwardRef;

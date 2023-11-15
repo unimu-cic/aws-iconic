@@ -47,4 +47,5 @@ function ManagementGovernanceArchCategoryManagementGovernance({
   }))));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchCategoryManagementGovernance);
+ForwardRef.aliasName = "Category Management Governance";
 module.exports = ForwardRef;

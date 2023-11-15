@@ -29,4 +29,5 @@ function AnalyticsResAmazonOpensearchServiceClusterAdministratorNode({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAmazonOpensearchServiceClusterAdministratorNode);
+ForwardRef.aliasName = "Amazon Openseservice Cluster Administrator Node";
 module.exports = ForwardRef;

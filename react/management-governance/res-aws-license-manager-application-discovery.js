@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsLicenseManagerApplicationDiscovery({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsLicenseManagerApplicationDiscovery);
+ForwardRef.aliasName = "Aws License Manager Application Discovery";
 module.exports = ForwardRef;

@@ -38,4 +38,5 @@ function InternetOfThingsArchAwsIotCore({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsArchAwsIotCore);
+ForwardRef.aliasName = "Aws Iot Core";
 module.exports = ForwardRef;

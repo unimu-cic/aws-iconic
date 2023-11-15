@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAmazonRoute53ResolverQueryLogging({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAmazonRoute53ResolverQueryLogging);
+ForwardRef.aliasName = "Amazon Route 53 Resolver Query Logging";
 export default ForwardRef;

@@ -29,4 +29,5 @@ function StorageResAwsBackupRecoveryTimeObjective({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAwsBackupRecoveryTimeObjective);
+ForwardRef.aliasName = "Aws Backup Recovery Time Objective";
 export default ForwardRef;

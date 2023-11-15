@@ -41,4 +41,5 @@ function StorageArchAmazonEfs({
   }))));
 }
 const ForwardRef = React.forwardRef(StorageArchAmazonEfs);
+ForwardRef.aliasName = "Amazon Efs";
 export default ForwardRef;

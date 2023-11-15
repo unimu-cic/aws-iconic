@@ -41,4 +41,5 @@ function ContainersArchAmazonEksAnywhere({
   }))));
 }
 const ForwardRef = React.forwardRef(ContainersArchAmazonEksAnywhere);
+ForwardRef.aliasName = "Amazon Eks Anywhere";
 export default ForwardRef;

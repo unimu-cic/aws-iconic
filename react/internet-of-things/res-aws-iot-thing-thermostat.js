@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotThingThermostat({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotThingThermostat);
+ForwardRef.aliasName = "Aws Iot Thing_thermostat";
 module.exports = ForwardRef;

@@ -29,4 +29,5 @@ function DatabaseResAmazonDynamodbStandardAccessTableClass({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseResAmazonDynamodbStandardAccessTableClass);
+ForwardRef.aliasName = "Amazon Dynamodb Standard Access Table Class";
 module.exports = ForwardRef;

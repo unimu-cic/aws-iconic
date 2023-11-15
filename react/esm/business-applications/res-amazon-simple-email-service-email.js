@@ -29,4 +29,5 @@ function BusinessApplicationsResAmazonSimpleEmailServiceEmail({
   })));
 }
 const ForwardRef = React.forwardRef(BusinessApplicationsResAmazonSimpleEmailServiceEmail);
+ForwardRef.aliasName = "Amazon Simple Email Service Email";
 export default ForwardRef;

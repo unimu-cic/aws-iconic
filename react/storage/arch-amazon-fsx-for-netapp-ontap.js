@@ -41,4 +41,5 @@ function StorageArchAmazonFsxForNetappOntap({
   }))));
 }
 const ForwardRef = React.forwardRef(StorageArchAmazonFsxForNetappOntap);
+ForwardRef.aliasName = "Amazon Fsx For Netapp Ontap";
 module.exports = ForwardRef;

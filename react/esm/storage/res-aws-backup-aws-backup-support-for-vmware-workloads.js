@@ -29,4 +29,5 @@ function StorageResAwsBackupAwsBackupSupportForVmwareWorkloads({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAwsBackupAwsBackupSupportForVmwareWorkloads);
+ForwardRef.aliasName = "Aws Backup Aws Backup Support For Vmware Workloads";
 export default ForwardRef;

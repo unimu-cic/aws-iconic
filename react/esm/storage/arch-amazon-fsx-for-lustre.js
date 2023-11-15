@@ -38,4 +38,5 @@ function StorageArchAmazonFsxForLustre({
   })));
 }
 const ForwardRef = React.forwardRef(StorageArchAmazonFsxForLustre);
+ForwardRef.aliasName = "Amazon Fsx For Lustre";
 export default ForwardRef;

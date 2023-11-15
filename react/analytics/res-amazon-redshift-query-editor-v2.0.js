@@ -29,4 +29,5 @@ function AnalyticsResAmazonRedshiftQueryEditorV20({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAmazonRedshiftQueryEditorV20);
+ForwardRef.aliasName = "Amazon Redshift Query Editor V20";
 module.exports = ForwardRef;

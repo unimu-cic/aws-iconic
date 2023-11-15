@@ -41,4 +41,5 @@ function SecurityIdentityComplianceArchAmazonCloudDirectory({
   }))));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceArchAmazonCloudDirectory);
+ForwardRef.aliasName = "Amazon Cloud Directory";
 module.exports = ForwardRef;

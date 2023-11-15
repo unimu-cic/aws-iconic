@@ -41,4 +41,5 @@ function ManagementGovernanceArchAwsApplicationAutoScaling({
   }))));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAwsApplicationAutoScaling);
+ForwardRef.aliasName = "Aws Application Auto Scaling";
 export default ForwardRef;

@@ -29,4 +29,5 @@ function RoboticsResAwsRobomakerDevelopmentEnvironment({
   })));
 }
 const ForwardRef = React.forwardRef(RoboticsResAwsRobomakerDevelopmentEnvironment);
+ForwardRef.aliasName = "Aws Robomaker Development Environment";
 module.exports = ForwardRef;

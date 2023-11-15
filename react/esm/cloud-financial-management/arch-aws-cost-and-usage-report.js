@@ -38,4 +38,5 @@ function CloudFinancialManagementArchAwsCostAndUsageReport({
   })));
 }
 const ForwardRef = React.forwardRef(CloudFinancialManagementArchAwsCostAndUsageReport);
+ForwardRef.aliasName = "Aws Cost And Usage Report";
 export default ForwardRef;

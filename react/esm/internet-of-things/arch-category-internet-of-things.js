@@ -47,4 +47,5 @@ function InternetOfThingsArchCategoryInternetOfThings({
   }))));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsArchCategoryInternetOfThings);
+ForwardRef.aliasName = "Category Internet Of Things";
 export default ForwardRef;

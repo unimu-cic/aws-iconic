@@ -38,4 +38,5 @@ function MachineLearningArchAwsDeepLearningContainers({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAwsDeepLearningContainers);
+ForwardRef.aliasName = "Aws Deep Learning Containers";
 module.exports = ForwardRef;

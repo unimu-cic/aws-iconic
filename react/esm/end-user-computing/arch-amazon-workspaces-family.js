@@ -38,4 +38,5 @@ function EndUserComputingArchAmazonWorkspacesFamily({
   })));
 }
 const ForwardRef = React.forwardRef(EndUserComputingArchAmazonWorkspacesFamily);
+ForwardRef.aliasName = "Amazon Workspaces Family";
 export default ForwardRef;

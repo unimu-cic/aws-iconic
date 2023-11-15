@@ -41,4 +41,5 @@ function ApplicationIntegrationArchAwsAppsync({
   }))));
 }
 const ForwardRef = React.forwardRef(ApplicationIntegrationArchAwsAppsync);
+ForwardRef.aliasName = "Aws Appsync";
 module.exports = ForwardRef;

@@ -29,4 +29,5 @@ function ApplicationIntegrationResAmazonEventbridgeRule({
   })));
 }
 const ForwardRef = React.forwardRef(ApplicationIntegrationResAmazonEventbridgeRule);
+ForwardRef.aliasName = "Amazon Eventbridge Rule";
 export default ForwardRef;

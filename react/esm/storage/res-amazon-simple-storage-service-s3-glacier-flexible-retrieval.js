@@ -29,4 +29,5 @@ function StorageResAmazonSimpleStorageServiceS3GlacierFlexibleRetrieval({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAmazonSimpleStorageServiceS3GlacierFlexibleRetrieval);
+ForwardRef.aliasName = "Amazon Simple Storage Service S3 Glacier Flexible Retrieval";
 export default ForwardRef;

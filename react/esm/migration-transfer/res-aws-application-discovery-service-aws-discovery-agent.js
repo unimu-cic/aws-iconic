@@ -29,4 +29,5 @@ function MigrationTransferResAwsApplicationDiscoveryServiceAwsDiscoveryAgent({
   })));
 }
 const ForwardRef = React.forwardRef(MigrationTransferResAwsApplicationDiscoveryServiceAwsDiscoveryAgent);
+ForwardRef.aliasName = "Aws Application Discovery Service Aws Discovery Agent";
 export default ForwardRef;

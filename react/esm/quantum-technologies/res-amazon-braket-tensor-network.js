@@ -29,4 +29,5 @@ function QuantumTechnologiesResAmazonBraketTensorNetwork({
   })));
 }
 const ForwardRef = React.forwardRef(QuantumTechnologiesResAmazonBraketTensorNetwork);
+ForwardRef.aliasName = "Amazon Braket Tensor Network";
 export default ForwardRef;

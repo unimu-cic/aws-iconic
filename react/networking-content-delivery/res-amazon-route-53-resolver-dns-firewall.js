@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAmazonRoute53ResolverDnsFirewall({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAmazonRoute53ResolverDnsFirewall);
+ForwardRef.aliasName = "Amazon Route 53 Resolver Dns Firewall";
 module.exports = ForwardRef;

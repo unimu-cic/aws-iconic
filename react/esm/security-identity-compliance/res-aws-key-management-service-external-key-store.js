@@ -29,4 +29,5 @@ function SecurityIdentityComplianceResAwsKeyManagementServiceExternalKeyStore({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceResAwsKeyManagementServiceExternalKeyStore);
+ForwardRef.aliasName = "Aws Key Management Service External Key Store";
 export default ForwardRef;

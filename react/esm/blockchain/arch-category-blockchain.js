@@ -47,4 +47,5 @@ function BlockchainArchCategoryBlockchain({
   }))));
 }
 const ForwardRef = React.forwardRef(BlockchainArchCategoryBlockchain);
+ForwardRef.aliasName = "Category Blockchain";
 export default ForwardRef;

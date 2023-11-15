@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsSystemsManagerSessionManager({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsSystemsManagerSessionManager);
+ForwardRef.aliasName = "Aws Systems Manager Session Manager";
 export default ForwardRef;

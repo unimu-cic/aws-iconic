@@ -38,4 +38,5 @@ function SecurityIdentityComplianceArchAwsFirewallManager({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceArchAwsFirewallManager);
+ForwardRef.aliasName = "Aws Firewall Manager";
 export default ForwardRef;

@@ -47,4 +47,5 @@ function EndUserComputingArchCategoryEndUserComputing({
   }))));
 }
 const ForwardRef = React.forwardRef(EndUserComputingArchCategoryEndUserComputing);
+ForwardRef.aliasName = "Category End User Computing";
 export default ForwardRef;

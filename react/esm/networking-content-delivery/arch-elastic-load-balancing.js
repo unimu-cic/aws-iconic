@@ -38,4 +38,5 @@ function NetworkingContentDeliveryArchElasticLoadBalancing({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryArchElasticLoadBalancing);
+ForwardRef.aliasName = "Elastic Load Balancing";
 export default ForwardRef;

@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAmazonCloudfrontDownloadDistribution({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAmazonCloudfrontDownloadDistribution);
+ForwardRef.aliasName = "Amazon Cloudfront Download Distribution";
 export default ForwardRef;

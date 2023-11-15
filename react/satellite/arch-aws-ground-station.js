@@ -38,4 +38,5 @@ function SatelliteArchAwsGroundStation({
   })));
 }
 const ForwardRef = React.forwardRef(SatelliteArchAwsGroundStation);
+ForwardRef.aliasName = "Aws Ground Station";
 module.exports = ForwardRef;

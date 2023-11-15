@@ -29,4 +29,5 @@ function SecurityIdentityComplianceResAwsWafLabels({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceResAwsWafLabels);
+ForwardRef.aliasName = "Aws Waf Labels";
 export default ForwardRef;

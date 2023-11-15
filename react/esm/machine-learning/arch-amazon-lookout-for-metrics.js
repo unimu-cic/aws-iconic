@@ -41,4 +41,5 @@ function MachineLearningArchAmazonLookoutForMetrics({
   }))));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAmazonLookoutForMetrics);
+ForwardRef.aliasName = "Amazon Lookout For Metrics";
 export default ForwardRef;

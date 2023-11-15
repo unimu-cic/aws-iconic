@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsSystemsManagerCompliance({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsSystemsManagerCompliance);
+ForwardRef.aliasName = "Aws Systems Manager Compliance";
 module.exports = ForwardRef;

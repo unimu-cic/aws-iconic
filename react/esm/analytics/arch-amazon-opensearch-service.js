@@ -38,4 +38,5 @@ function AnalyticsArchAmazonOpensearchService({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsArchAmazonOpensearchService);
+ForwardRef.aliasName = "Amazon Openseservice";
 export default ForwardRef;

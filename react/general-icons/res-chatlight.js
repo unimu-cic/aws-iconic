@@ -29,4 +29,5 @@ function GeneralIconsResChatlight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResChatlight);
+ForwardRef.aliasName = "Chatlight";
 module.exports = ForwardRef;

@@ -29,4 +29,5 @@ function DatabaseResAmazonElasticacheElasticacheForMemcached({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseResAmazonElasticacheElasticacheForMemcached);
+ForwardRef.aliasName = "Amazon Elasticache Elasticache For Memcached";
 export default ForwardRef;

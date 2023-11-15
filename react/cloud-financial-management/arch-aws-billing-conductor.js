@@ -41,4 +41,5 @@ function CloudFinancialManagementArchAwsBillingConductor({
   }))));
 }
 const ForwardRef = React.forwardRef(CloudFinancialManagementArchAwsBillingConductor);
+ForwardRef.aliasName = "Aws Billing Conductor";
 module.exports = ForwardRef;

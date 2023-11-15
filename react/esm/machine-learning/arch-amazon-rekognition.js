@@ -38,4 +38,5 @@ function MachineLearningArchAmazonRekognition({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAmazonRekognition);
+ForwardRef.aliasName = "Amazon Rekognition";
 export default ForwardRef;

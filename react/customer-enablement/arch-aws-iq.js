@@ -41,4 +41,5 @@ function CustomerEnablementArchAwsIq({
   }))));
 }
 const ForwardRef = React.forwardRef(CustomerEnablementArchAwsIq);
+ForwardRef.aliasName = "Aws Iq";
 module.exports = ForwardRef;

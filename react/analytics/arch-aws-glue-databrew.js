@@ -41,4 +41,5 @@ function AnalyticsArchAwsGlueDatabrew({
   }))));
 }
 const ForwardRef = React.forwardRef(AnalyticsArchAwsGlueDatabrew);
+ForwardRef.aliasName = "Aws Glue Databrew";
 module.exports = ForwardRef;

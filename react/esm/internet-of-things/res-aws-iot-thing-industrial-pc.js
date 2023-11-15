@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotThingIndustrialPc({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotThingIndustrialPc);
+ForwardRef.aliasName = "Aws Iot Thing_industrial Pc";
 export default ForwardRef;

@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsOpsworksPermissions({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsOpsworksPermissions);
+ForwardRef.aliasName = "Aws Opsworks Permissions";
 module.exports = ForwardRef;

@@ -47,4 +47,5 @@ function MigrationTransferArchCategoryMigrationTransfer({
   }))));
 }
 const ForwardRef = React.forwardRef(MigrationTransferArchCategoryMigrationTransfer);
+ForwardRef.aliasName = "Category Migration Transfer";
 module.exports = ForwardRef;

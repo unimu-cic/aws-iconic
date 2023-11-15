@@ -38,4 +38,5 @@ function DeveloperToolsArchAwsXRay({
   })));
 }
 const ForwardRef = React.forwardRef(DeveloperToolsArchAwsXRay);
+ForwardRef.aliasName = "Aws X Ray";
 module.exports = ForwardRef;

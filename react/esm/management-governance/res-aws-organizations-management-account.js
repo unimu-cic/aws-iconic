@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsOrganizationsManagementAccount({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsOrganizationsManagementAccount);
+ForwardRef.aliasName = "Aws Organizations Management Account";
 export default ForwardRef;

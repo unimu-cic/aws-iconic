@@ -29,4 +29,5 @@ function AnalyticsResAmazonMskAmazonMskConnect({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAmazonMskAmazonMskConnect);
+ForwardRef.aliasName = "Amazon Msk Amazon Msk Connect";
 export default ForwardRef;

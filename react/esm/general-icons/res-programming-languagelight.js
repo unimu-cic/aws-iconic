@@ -29,4 +29,5 @@ function GeneralIconsResProgrammingLanguagelight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResProgrammingLanguagelight);
+ForwardRef.aliasName = "Programming Languagelight";
 export default ForwardRef;

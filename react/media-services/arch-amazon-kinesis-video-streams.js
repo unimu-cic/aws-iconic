@@ -38,4 +38,5 @@ function MediaServicesArchAmazonKinesisVideoStreams({
   })));
 }
 const ForwardRef = React.forwardRef(MediaServicesArchAmazonKinesisVideoStreams);
+ForwardRef.aliasName = "Amazon Kinesis Video Streams";
 module.exports = ForwardRef;

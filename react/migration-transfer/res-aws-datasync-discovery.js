@@ -29,4 +29,5 @@ function MigrationTransferResAwsDatasyncDiscovery({
   })));
 }
 const ForwardRef = React.forwardRef(MigrationTransferResAwsDatasyncDiscovery);
+ForwardRef.aliasName = "Aws Datasync Discovery";
 module.exports = ForwardRef;

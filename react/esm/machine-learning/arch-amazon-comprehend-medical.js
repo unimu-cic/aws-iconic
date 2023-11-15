@@ -41,4 +41,5 @@ function MachineLearningArchAmazonComprehendMedical({
   }))));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAmazonComprehendMedical);
+ForwardRef.aliasName = "Amazon Comprehend Medical";
 export default ForwardRef;

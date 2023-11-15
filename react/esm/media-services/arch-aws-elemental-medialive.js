@@ -38,4 +38,5 @@ function MediaServicesArchAwsElementalMedialive({
   })));
 }
 const ForwardRef = React.forwardRef(MediaServicesArchAwsElementalMedialive);
+ForwardRef.aliasName = "Aws Elemental Medialive";
 export default ForwardRef;

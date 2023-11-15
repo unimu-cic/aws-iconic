@@ -29,4 +29,5 @@ function GeneralIconsResSdklight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResSdklight);
+ForwardRef.aliasName = "Sdklight";
 export default ForwardRef;

@@ -38,4 +38,5 @@ function ComputeArchAmazonLightsailForResearch({
   })));
 }
 const ForwardRef = React.forwardRef(ComputeArchAmazonLightsailForResearch);
+ForwardRef.aliasName = "Amazon Lightsail For Research";
 export default ForwardRef;

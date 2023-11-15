@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAmazonCloudfrontEdgeLocation({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAmazonCloudfrontEdgeLocation);
+ForwardRef.aliasName = "Amazon Cloudfront Edge Location";
 export default ForwardRef;

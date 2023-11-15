@@ -38,4 +38,5 @@ function QuantumTechnologiesArchAmazonBraket({
   })));
 }
 const ForwardRef = React.forwardRef(QuantumTechnologiesArchAmazonBraket);
+ForwardRef.aliasName = "Amazon Braket";
 export default ForwardRef;

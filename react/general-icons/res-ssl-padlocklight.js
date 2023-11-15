@@ -29,4 +29,5 @@ function GeneralIconsResSslPadlocklight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResSslPadlocklight);
+ForwardRef.aliasName = "Ssl Padlocklight";
 module.exports = ForwardRef;

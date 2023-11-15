@@ -29,4 +29,5 @@ function DatabaseResAmazonAuroraMariadbInstanceAlternate({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseResAmazonAuroraMariadbInstanceAlternate);
+ForwardRef.aliasName = "Amazon Aurora Mariadb Instance Alternate";
 export default ForwardRef;

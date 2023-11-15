@@ -29,4 +29,5 @@ function StorageResAmazonSimpleStorageServiceS3BatchOperations({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAmazonSimpleStorageServiceS3BatchOperations);
+ForwardRef.aliasName = "Amazon Simple Storage Service S3 Batch Operations";
 export default ForwardRef;

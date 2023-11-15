@@ -29,4 +29,5 @@ function ComputeResAmazonEc2AwsMicroserviceExtractorForNet({
   })));
 }
 const ForwardRef = React.forwardRef(ComputeResAmazonEc2AwsMicroserviceExtractorForNet);
+ForwardRef.aliasName = "Amazon Ec2 Aws Microservice Extractor For Net";
 export default ForwardRef;

@@ -29,4 +29,5 @@ function GeneralIconsResShieldlight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResShieldlight);
+ForwardRef.aliasName = "Shieldlight";
 module.exports = ForwardRef;

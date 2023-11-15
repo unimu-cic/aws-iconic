@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotDesiredState({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotDesiredState);
+ForwardRef.aliasName = "Aws Iot Desired State";
 export default ForwardRef;

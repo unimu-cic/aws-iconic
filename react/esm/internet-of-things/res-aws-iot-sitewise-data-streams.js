@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotSitewiseDataStreams({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotSitewiseDataStreams);
+ForwardRef.aliasName = "Aws Iot Sitewise Data Streams";
 export default ForwardRef;

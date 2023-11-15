@@ -41,4 +41,5 @@ function ComputeArchNiceEnginframe({
   }))));
 }
 const ForwardRef = React.forwardRef(ComputeArchNiceEnginframe);
+ForwardRef.aliasName = "Nice Enginframe";
 module.exports = ForwardRef;

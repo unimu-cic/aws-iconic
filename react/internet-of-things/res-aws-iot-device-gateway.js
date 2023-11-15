@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotDeviceGateway({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotDeviceGateway);
+ForwardRef.aliasName = "Aws Iot Device Gateway";
 module.exports = ForwardRef;

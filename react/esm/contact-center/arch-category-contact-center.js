@@ -47,4 +47,5 @@ function ContactCenterArchCategoryContactCenter({
   }))));
 }
 const ForwardRef = React.forwardRef(ContactCenterArchCategoryContactCenter);
+ForwardRef.aliasName = "Category Contact Center";
 export default ForwardRef;

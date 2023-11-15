@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotThingBicycle({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotThingBicycle);
+ForwardRef.aliasName = "Aws Iot Thing_bicycle";
 export default ForwardRef;

@@ -41,4 +41,5 @@ function MediaServicesArchAmazonNimbleStudio({
   }))));
 }
 const ForwardRef = React.forwardRef(MediaServicesArchAmazonNimbleStudio);
+ForwardRef.aliasName = "Amazon Nimble Studio";
 export default ForwardRef;

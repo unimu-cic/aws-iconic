@@ -38,4 +38,5 @@ function BusinessApplicationsArchAwsWickr({
   })));
 }
 const ForwardRef = React.forwardRef(BusinessApplicationsArchAwsWickr);
+ForwardRef.aliasName = "Aws Wickr";
 export default ForwardRef;

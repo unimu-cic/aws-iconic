@@ -29,4 +29,5 @@ function GeneralIconsResInternetAlt2Light({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResInternetAlt2Light);
+ForwardRef.aliasName = "Internet Alt2light";
 export default ForwardRef;

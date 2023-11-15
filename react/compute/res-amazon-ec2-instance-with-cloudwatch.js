@@ -29,4 +29,5 @@ function ComputeResAmazonEc2InstanceWithCloudwatch({
   })));
 }
 const ForwardRef = React.forwardRef(ComputeResAmazonEc2InstanceWithCloudwatch);
+ForwardRef.aliasName = "Amazon Ec2 Instance With Cloudwatch";
 module.exports = ForwardRef;

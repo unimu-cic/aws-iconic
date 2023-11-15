@@ -36,4 +36,5 @@ function GroupAwsAccount({
   })));
 }
 const ForwardRef = React.forwardRef(GroupAwsAccount);
+ForwardRef.aliasName = "Aws Account";
 module.exports = ForwardRef;

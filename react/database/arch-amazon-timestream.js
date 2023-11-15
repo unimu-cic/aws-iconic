@@ -38,4 +38,5 @@ function DatabaseArchAmazonTimestream({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseArchAmazonTimestream);
+ForwardRef.aliasName = "Amazon Timestream";
 module.exports = ForwardRef;

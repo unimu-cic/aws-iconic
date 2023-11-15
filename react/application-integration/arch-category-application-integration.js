@@ -47,4 +47,5 @@ function ApplicationIntegrationArchCategoryApplicationIntegration({
   }))));
 }
 const ForwardRef = React.forwardRef(ApplicationIntegrationArchCategoryApplicationIntegration);
+ForwardRef.aliasName = "Category Application Integration";
 module.exports = ForwardRef;

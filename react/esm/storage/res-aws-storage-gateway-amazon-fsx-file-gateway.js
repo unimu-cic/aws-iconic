@@ -29,4 +29,5 @@ function StorageResAwsStorageGatewayAmazonFsxFileGateway({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAwsStorageGatewayAmazonFsxFileGateway);
+ForwardRef.aliasName = "Aws Storage Gateway Amazon Fsx File Gateway";
 export default ForwardRef;

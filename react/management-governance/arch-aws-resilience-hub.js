@@ -38,4 +38,5 @@ function ManagementGovernanceArchAwsResilienceHub({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAwsResilienceHub);
+ForwardRef.aliasName = "Aws Resilience Hub";
 module.exports = ForwardRef;

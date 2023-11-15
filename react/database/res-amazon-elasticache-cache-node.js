@@ -29,4 +29,5 @@ function DatabaseResAmazonElasticacheCacheNode({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseResAmazonElasticacheCacheNode);
+ForwardRef.aliasName = "Amazon Elasticache Cache Node";
 module.exports = ForwardRef;

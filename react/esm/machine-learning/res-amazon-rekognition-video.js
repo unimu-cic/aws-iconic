@@ -29,4 +29,5 @@ function MachineLearningResAmazonRekognitionVideo({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningResAmazonRekognitionVideo);
+ForwardRef.aliasName = "Amazon Rekognition Video";
 export default ForwardRef;

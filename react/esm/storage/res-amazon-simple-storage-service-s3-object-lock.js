@@ -29,4 +29,5 @@ function StorageResAmazonSimpleStorageServiceS3ObjectLock({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAmazonSimpleStorageServiceS3ObjectLock);
+ForwardRef.aliasName = "Amazon Simple Storage Service S3 Object Lock";
 export default ForwardRef;

@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotThingRelay({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotThingRelay);
+ForwardRef.aliasName = "Aws Iot Thing_relay";
 module.exports = ForwardRef;

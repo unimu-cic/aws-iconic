@@ -38,4 +38,5 @@ function DeveloperToolsArchAwsCodebuild({
   })));
 }
 const ForwardRef = React.forwardRef(DeveloperToolsArchAwsCodebuild);
+ForwardRef.aliasName = "Aws Codebuild";
 export default ForwardRef;

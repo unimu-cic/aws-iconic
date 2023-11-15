@@ -47,4 +47,5 @@ function StorageArchCategoryStorage({
   }))));
 }
 const ForwardRef = React.forwardRef(StorageArchCategoryStorage);
+ForwardRef.aliasName = "Category Storage";
 module.exports = ForwardRef;

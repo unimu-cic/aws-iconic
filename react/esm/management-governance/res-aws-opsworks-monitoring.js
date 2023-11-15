@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsOpsworksMonitoring({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsOpsworksMonitoring);
+ForwardRef.aliasName = "Aws Opsworks Monitoring";
 export default ForwardRef;

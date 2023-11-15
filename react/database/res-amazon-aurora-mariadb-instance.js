@@ -29,4 +29,5 @@ function DatabaseResAmazonAuroraMariadbInstance({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseResAmazonAuroraMariadbInstance);
+ForwardRef.aliasName = "Amazon Aurora Mariadb Instance";
 module.exports = ForwardRef;

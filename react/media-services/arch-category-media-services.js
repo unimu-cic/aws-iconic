@@ -47,4 +47,5 @@ function MediaServicesArchCategoryMediaServices({
   }))));
 }
 const ForwardRef = React.forwardRef(MediaServicesArchCategoryMediaServices);
+ForwardRef.aliasName = "Category Media Services";
 module.exports = ForwardRef;

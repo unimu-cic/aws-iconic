@@ -29,4 +29,5 @@ function StorageResAmazonElasticBlockStoreVolumeGp3({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAmazonElasticBlockStoreVolumeGp3);
+ForwardRef.aliasName = "Amazon Elastic Block Store Volume Gp3";
 module.exports = ForwardRef;

@@ -38,4 +38,5 @@ function MachineLearningArchAmazonForecast({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAmazonForecast);
+ForwardRef.aliasName = "Amazon Forecast";
 export default ForwardRef;

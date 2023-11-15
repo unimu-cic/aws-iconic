@@ -41,4 +41,5 @@ function SecurityIdentityComplianceArchAwsSigner({
   }))));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceArchAwsSigner);
+ForwardRef.aliasName = "Aws Signer";
 module.exports = ForwardRef;

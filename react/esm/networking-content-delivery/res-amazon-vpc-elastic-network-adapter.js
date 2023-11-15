@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAmazonVpcElasticNetworkAdapter({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAmazonVpcElasticNetworkAdapter);
+ForwardRef.aliasName = "Amazon Vpc Elastic Network Adapter";
 export default ForwardRef;

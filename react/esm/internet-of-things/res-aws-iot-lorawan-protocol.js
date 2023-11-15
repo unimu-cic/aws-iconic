@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotLorawanProtocol({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotLorawanProtocol);
+ForwardRef.aliasName = "Aws Iot Lorawan Protocol";
 export default ForwardRef;

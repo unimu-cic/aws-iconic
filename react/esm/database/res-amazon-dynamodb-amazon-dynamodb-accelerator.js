@@ -29,4 +29,5 @@ function DatabaseResAmazonDynamodbAmazonDynamodbAccelerator({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseResAmazonDynamodbAmazonDynamodbAccelerator);
+ForwardRef.aliasName = "Amazon Dynamodb Amazon Dynamodb Accelerator";
 export default ForwardRef;

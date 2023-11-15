@@ -41,4 +41,5 @@ function BusinessApplicationsArchAmazonChimeSdk({
   }))));
 }
 const ForwardRef = React.forwardRef(BusinessApplicationsArchAmazonChimeSdk);
+ForwardRef.aliasName = "Amazon Chime Sdk";
 export default ForwardRef;

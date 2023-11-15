@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAmazonVpcVpnConnection({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAmazonVpcVpnConnection);
+ForwardRef.aliasName = "Amazon Vpc Vpn Connection";
 export default ForwardRef;

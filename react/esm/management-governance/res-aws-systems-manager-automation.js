@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsSystemsManagerAutomation({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsSystemsManagerAutomation);
+ForwardRef.aliasName = "Aws Systems Manager Automation";
 export default ForwardRef;

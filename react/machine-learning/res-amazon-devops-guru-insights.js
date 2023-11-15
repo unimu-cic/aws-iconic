@@ -29,4 +29,5 @@ function MachineLearningResAmazonDevopsGuruInsights({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningResAmazonDevopsGuruInsights);
+ForwardRef.aliasName = "Amazon Devops Guru Insights";
 module.exports = ForwardRef;

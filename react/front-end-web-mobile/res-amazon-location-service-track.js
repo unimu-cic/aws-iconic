@@ -29,4 +29,5 @@ function FrontEndWebMobileResAmazonLocationServiceTrack({
   })));
 }
 const ForwardRef = React.forwardRef(FrontEndWebMobileResAmazonLocationServiceTrack);
+ForwardRef.aliasName = "Amazon Location Service Track";
 module.exports = ForwardRef;

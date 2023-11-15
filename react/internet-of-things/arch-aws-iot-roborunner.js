@@ -41,4 +41,5 @@ function InternetOfThingsArchAwsIotRoborunner({
   }))));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsArchAwsIotRoborunner);
+ForwardRef.aliasName = "Aws Iot Roborunner";
 module.exports = ForwardRef;

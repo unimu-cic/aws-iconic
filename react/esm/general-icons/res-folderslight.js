@@ -29,4 +29,5 @@ function GeneralIconsResFolderslight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResFolderslight);
+ForwardRef.aliasName = "Folderslight";
 export default ForwardRef;

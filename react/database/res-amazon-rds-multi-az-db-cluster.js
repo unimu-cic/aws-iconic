@@ -29,4 +29,5 @@ function DatabaseResAmazonRdsMultiAzDbCluster({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseResAmazonRdsMultiAzDbCluster);
+ForwardRef.aliasName = "Amazon Rds Multi Az Db Cluster";
 module.exports = ForwardRef;

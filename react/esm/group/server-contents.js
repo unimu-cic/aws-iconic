@@ -36,4 +36,5 @@ function GroupServerContents({
   })));
 }
 const ForwardRef = React.forwardRef(GroupServerContents);
+ForwardRef.aliasName = "Server Contents";
 export default ForwardRef;

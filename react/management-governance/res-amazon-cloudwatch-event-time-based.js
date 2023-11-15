@@ -29,4 +29,5 @@ function ManagementGovernanceResAmazonCloudwatchEventTimeBased({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAmazonCloudwatchEventTimeBased);
+ForwardRef.aliasName = "Amazon Cloudwatch Event Time Based";
 module.exports = ForwardRef;

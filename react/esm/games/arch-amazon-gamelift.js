@@ -41,4 +41,5 @@ function GamesArchAmazonGamelift({
   }))));
 }
 const ForwardRef = React.forwardRef(GamesArchAmazonGamelift);
+ForwardRef.aliasName = "Amazon Gamelift";
 export default ForwardRef;

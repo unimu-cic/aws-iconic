@@ -38,4 +38,5 @@ function ManagementGovernanceArchAwsTelcoNetworkBuilder({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAwsTelcoNetworkBuilder);
+ForwardRef.aliasName = "Aws Telco Network Builder";
 module.exports = ForwardRef;

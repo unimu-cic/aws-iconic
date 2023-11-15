@@ -36,4 +36,5 @@ function GroupRegion({
   })));
 }
 const ForwardRef = React.forwardRef(GroupRegion);
+ForwardRef.aliasName = "Region";
 module.exports = ForwardRef;

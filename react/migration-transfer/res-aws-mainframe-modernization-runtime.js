@@ -29,4 +29,5 @@ function MigrationTransferResAwsMainframeModernizationRuntime({
   })));
 }
 const ForwardRef = React.forwardRef(MigrationTransferResAwsMainframeModernizationRuntime);
+ForwardRef.aliasName = "Aws Mainframe Modernization Runtime";
 module.exports = ForwardRef;

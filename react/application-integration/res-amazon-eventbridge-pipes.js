@@ -29,4 +29,5 @@ function ApplicationIntegrationResAmazonEventbridgePipes({
   })));
 }
 const ForwardRef = React.forwardRef(ApplicationIntegrationResAmazonEventbridgePipes);
+ForwardRef.aliasName = "Amazon Eventbridge Pipes";
 module.exports = ForwardRef;

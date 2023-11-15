@@ -29,4 +29,5 @@ function MigrationTransferResAwsMigrationHubRefactorSpacesServices({
   })));
 }
 const ForwardRef = React.forwardRef(MigrationTransferResAwsMigrationHubRefactorSpacesServices);
+ForwardRef.aliasName = "Aws Migration Hub Refactor Spaces Services";
 export default ForwardRef;

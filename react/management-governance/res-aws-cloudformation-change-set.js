@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsCloudformationChangeSet({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsCloudformationChangeSet);
+ForwardRef.aliasName = "Aws Cloudformation Change Set";
 module.exports = ForwardRef;

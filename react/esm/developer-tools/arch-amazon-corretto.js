@@ -41,4 +41,5 @@ function DeveloperToolsArchAmazonCorretto({
   }))));
 }
 const ForwardRef = React.forwardRef(DeveloperToolsArchAmazonCorretto);
+ForwardRef.aliasName = "Amazon Corretto";
 export default ForwardRef;

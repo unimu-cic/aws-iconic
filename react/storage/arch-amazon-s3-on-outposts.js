@@ -41,4 +41,5 @@ function StorageArchAmazonS3OnOutposts({
   }))));
 }
 const ForwardRef = React.forwardRef(StorageArchAmazonS3OnOutposts);
+ForwardRef.aliasName = "Amazon S3 On Outposts";
 module.exports = ForwardRef;

@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotAnalyticsDataStore({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotAnalyticsDataStore);
+ForwardRef.aliasName = "Aws Iot Analytics Data Store";
 module.exports = ForwardRef;

@@ -38,4 +38,5 @@ function ComputeArchAwsServerlessApplicationRepository({
   })));
 }
 const ForwardRef = React.forwardRef(ComputeArchAwsServerlessApplicationRepository);
+ForwardRef.aliasName = "Aws Serverless Application Repository";
 export default ForwardRef;

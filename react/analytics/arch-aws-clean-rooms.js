@@ -38,4 +38,5 @@ function AnalyticsArchAwsCleanRooms({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsArchAwsCleanRooms);
+ForwardRef.aliasName = "Aws Clean Rooms";
 module.exports = ForwardRef;

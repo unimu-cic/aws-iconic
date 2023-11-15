@@ -38,4 +38,5 @@ function AnalyticsArchAwsLakeFormation({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsArchAwsLakeFormation);
+ForwardRef.aliasName = "Aws Lake Formation";
 module.exports = ForwardRef;

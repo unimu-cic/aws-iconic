@@ -29,4 +29,5 @@ function GeneralIconsResDatabaselight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResDatabaselight);
+ForwardRef.aliasName = "Databaselight";
 module.exports = ForwardRef;

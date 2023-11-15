@@ -38,4 +38,5 @@ function InternetOfThingsArchAwsIot1Click({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsArchAwsIot1Click);
+ForwardRef.aliasName = "Aws Iot 1 Click";
 module.exports = ForwardRef;

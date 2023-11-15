@@ -38,4 +38,5 @@ function FrontEndWebMobileArchAwsDeviceFarm({
   })));
 }
 const ForwardRef = React.forwardRef(FrontEndWebMobileArchAwsDeviceFarm);
+ForwardRef.aliasName = "Aws Device Farm";
 module.exports = ForwardRef;

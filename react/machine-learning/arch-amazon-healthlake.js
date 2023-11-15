@@ -41,4 +41,5 @@ function MachineLearningArchAmazonHealthlake({
   }))));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAmazonHealthlake);
+ForwardRef.aliasName = "Amazon Healthlake";
 module.exports = ForwardRef;

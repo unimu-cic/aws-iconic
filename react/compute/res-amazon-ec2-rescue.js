@@ -29,4 +29,5 @@ function ComputeResAmazonEc2Rescue({
   })));
 }
 const ForwardRef = React.forwardRef(ComputeResAmazonEc2Rescue);
+ForwardRef.aliasName = "Amazon Ec2 Rescue";
 module.exports = ForwardRef;

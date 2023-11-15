@@ -29,4 +29,5 @@ function MigrationTransferResAwsApplicationDiscoveryServiceMigrationEvaluatorCol
   })));
 }
 const ForwardRef = React.forwardRef(MigrationTransferResAwsApplicationDiscoveryServiceMigrationEvaluatorCollector);
+ForwardRef.aliasName = "Aws Application Discovery Service Migration Evaluator Collector";
 export default ForwardRef;

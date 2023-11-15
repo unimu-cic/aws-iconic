@@ -29,4 +29,5 @@ function GeneralIconsResJsonScriptlight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResJsonScriptlight);
+ForwardRef.aliasName = "Json Scriptlight";
 module.exports = ForwardRef;

@@ -38,4 +38,5 @@ function CloudFinancialManagementArchReservedInstanceReporting({
   })));
 }
 const ForwardRef = React.forwardRef(CloudFinancialManagementArchReservedInstanceReporting);
+ForwardRef.aliasName = "Reserved Instance Reporting";
 module.exports = ForwardRef;

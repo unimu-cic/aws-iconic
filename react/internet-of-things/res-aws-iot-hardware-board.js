@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotHardwareBoard({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotHardwareBoard);
+ForwardRef.aliasName = "Aws Iot Hardware Board";
 module.exports = ForwardRef;

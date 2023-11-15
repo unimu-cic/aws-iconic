@@ -29,4 +29,5 @@ function ApplicationIntegrationResAmazonSimpleQueueServiceMessage({
   })));
 }
 const ForwardRef = React.forwardRef(ApplicationIntegrationResAmazonSimpleQueueServiceMessage);
+ForwardRef.aliasName = "Amazon Simple Queue Service Message";
 module.exports = ForwardRef;

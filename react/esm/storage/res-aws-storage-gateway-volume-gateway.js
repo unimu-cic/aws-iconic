@@ -29,4 +29,5 @@ function StorageResAwsStorageGatewayVolumeGateway({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAwsStorageGatewayVolumeGateway);
+ForwardRef.aliasName = "Aws Storage Gateway Volume Gateway";
 export default ForwardRef;

@@ -38,4 +38,5 @@ function DatabaseArchAmazonAurora({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseArchAmazonAurora);
+ForwardRef.aliasName = "Amazon Aurora";
 module.exports = ForwardRef;

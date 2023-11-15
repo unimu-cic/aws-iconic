@@ -41,4 +41,5 @@ function CustomerEnablementArchAwsManagedServices({
   }))));
 }
 const ForwardRef = React.forwardRef(CustomerEnablementArchAwsManagedServices);
+ForwardRef.aliasName = "Aws Managed Services";
 export default ForwardRef;

@@ -38,4 +38,5 @@ function ComputeArchAwsLambda({
   })));
 }
 const ForwardRef = React.forwardRef(ComputeArchAwsLambda);
+ForwardRef.aliasName = "Aws Lambda";
 export default ForwardRef;

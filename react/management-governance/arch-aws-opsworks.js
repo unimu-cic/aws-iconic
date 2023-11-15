@@ -38,4 +38,5 @@ function ManagementGovernanceArchAwsOpsworks({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAwsOpsworks);
+ForwardRef.aliasName = "Aws Opsworks";
 module.exports = ForwardRef;

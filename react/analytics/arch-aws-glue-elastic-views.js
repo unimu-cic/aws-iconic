@@ -41,4 +41,5 @@ function AnalyticsArchAwsGlueElasticViews({
   }))));
 }
 const ForwardRef = React.forwardRef(AnalyticsArchAwsGlueElasticViews);
+ForwardRef.aliasName = "Aws Glue Elastic Views";
 module.exports = ForwardRef;

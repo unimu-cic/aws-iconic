@@ -29,4 +29,5 @@ function AnalyticsResAmazonQuicksightPaginatedReports({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAmazonQuicksightPaginatedReports);
+ForwardRef.aliasName = "Amazon Quicksight Paginated Reports";
 module.exports = ForwardRef;

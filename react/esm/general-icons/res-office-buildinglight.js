@@ -29,4 +29,5 @@ function GeneralIconsResOfficeBuildinglight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResOfficeBuildinglight);
+ForwardRef.aliasName = "Office Buildinglight";
 export default ForwardRef;

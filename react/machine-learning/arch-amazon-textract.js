@@ -38,4 +38,5 @@ function MachineLearningArchAmazonTextract({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAmazonTextract);
+ForwardRef.aliasName = "Amazon Textract";
 module.exports = ForwardRef;

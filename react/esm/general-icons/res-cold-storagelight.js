@@ -29,4 +29,5 @@ function GeneralIconsResColdStoragelight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResColdStoragelight);
+ForwardRef.aliasName = "Cold Storagelight";
 export default ForwardRef;

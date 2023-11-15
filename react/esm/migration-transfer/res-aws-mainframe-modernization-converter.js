@@ -29,4 +29,5 @@ function MigrationTransferResAwsMainframeModernizationConverter({
   })));
 }
 const ForwardRef = React.forwardRef(MigrationTransferResAwsMainframeModernizationConverter);
+ForwardRef.aliasName = "Aws Mainframe Modernization Converter";
 export default ForwardRef;

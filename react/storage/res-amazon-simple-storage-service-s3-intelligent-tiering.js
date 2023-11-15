@@ -29,4 +29,5 @@ function StorageResAmazonSimpleStorageServiceS3IntelligentTiering({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAmazonSimpleStorageServiceS3IntelligentTiering);
+ForwardRef.aliasName = "Amazon Simple Storage Service S3 Intelligent Tiering";
 module.exports = ForwardRef;

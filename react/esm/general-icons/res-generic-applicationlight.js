@@ -29,4 +29,5 @@ function GeneralIconsResGenericApplicationlight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResGenericApplicationlight);
+ForwardRef.aliasName = "Generic Applicationlight";
 export default ForwardRef;

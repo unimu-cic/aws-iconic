@@ -29,4 +29,5 @@ function DatabaseResAmazonRdsProxyInstance({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseResAmazonRdsProxyInstance);
+ForwardRef.aliasName = "Amazon Rds Proxy Instance";
 export default ForwardRef;

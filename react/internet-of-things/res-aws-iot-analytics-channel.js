@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotAnalyticsChannel({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotAnalyticsChannel);
+ForwardRef.aliasName = "Aws Iot Analytics Channel";
 module.exports = ForwardRef;

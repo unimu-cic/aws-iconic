@@ -41,4 +41,5 @@ function DeveloperToolsArchAwsCloudControlApi({
   }))));
 }
 const ForwardRef = React.forwardRef(DeveloperToolsArchAwsCloudControlApi);
+ForwardRef.aliasName = "Aws Cloud Control Api";
 export default ForwardRef;

@@ -29,4 +29,5 @@ function MachineLearningResAmazonRekognitionImage({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningResAmazonRekognitionImage);
+ForwardRef.aliasName = "Amazon Rekognition Image";
 module.exports = ForwardRef;

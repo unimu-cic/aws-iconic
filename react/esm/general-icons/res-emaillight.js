@@ -29,4 +29,5 @@ function GeneralIconsResEmaillight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResEmaillight);
+ForwardRef.aliasName = "Emaillight";
 export default ForwardRef;

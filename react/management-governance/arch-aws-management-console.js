@@ -38,4 +38,5 @@ function ManagementGovernanceArchAwsManagementConsole({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAwsManagementConsole);
+ForwardRef.aliasName = "Aws Management Console";
 module.exports = ForwardRef;

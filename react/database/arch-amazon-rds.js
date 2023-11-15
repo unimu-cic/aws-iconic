@@ -38,4 +38,5 @@ function DatabaseArchAmazonRds({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseArchAmazonRds);
+ForwardRef.aliasName = "Amazon Rds";
 module.exports = ForwardRef;

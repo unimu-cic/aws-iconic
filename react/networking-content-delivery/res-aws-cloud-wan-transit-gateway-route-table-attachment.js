@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAwsCloudWanTransitGatewayRouteTableAttachme
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAwsCloudWanTransitGatewayRouteTableAttachment);
+ForwardRef.aliasName = "Aws Cloud Wan Transit Gateway Route Table Attachment";
 module.exports = ForwardRef;

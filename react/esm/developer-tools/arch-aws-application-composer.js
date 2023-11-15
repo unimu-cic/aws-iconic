@@ -38,4 +38,5 @@ function DeveloperToolsArchAwsApplicationComposer({
   })));
 }
 const ForwardRef = React.forwardRef(DeveloperToolsArchAwsApplicationComposer);
+ForwardRef.aliasName = "Aws Application Composer";
 export default ForwardRef;

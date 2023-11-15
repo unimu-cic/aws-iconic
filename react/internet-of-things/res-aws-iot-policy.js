@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotPolicy({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotPolicy);
+ForwardRef.aliasName = "Aws Iot Policy";
 module.exports = ForwardRef;

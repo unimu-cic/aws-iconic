@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAwsCloudWanSegmentNetwork({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAwsCloudWanSegmentNetwork);
+ForwardRef.aliasName = "Aws Cloud Wan Segment Network";
 module.exports = ForwardRef;

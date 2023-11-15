@@ -38,4 +38,5 @@ function DeveloperToolsArchAmazonCodecatalyst({
   })));
 }
 const ForwardRef = React.forwardRef(DeveloperToolsArchAmazonCodecatalyst);
+ForwardRef.aliasName = "Amazon Codecatalyst";
 export default ForwardRef;

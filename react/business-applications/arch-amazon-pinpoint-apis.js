@@ -41,4 +41,5 @@ function BusinessApplicationsArchAmazonPinpointApis({
   }))));
 }
 const ForwardRef = React.forwardRef(BusinessApplicationsArchAmazonPinpointApis);
+ForwardRef.aliasName = "Amazon Pinpoint Apis";
 module.exports = ForwardRef;

@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResAmazonVpcPeeringConnection({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResAmazonVpcPeeringConnection);
+ForwardRef.aliasName = "Amazon Vpc Peering Connection";
 export default ForwardRef;

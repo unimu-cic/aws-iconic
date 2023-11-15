@@ -38,4 +38,5 @@ function EndUserComputingArchAmazonWorklink({
   })));
 }
 const ForwardRef = React.forwardRef(EndUserComputingArchAmazonWorklink);
+ForwardRef.aliasName = "Amazon Worklink";
 module.exports = ForwardRef;

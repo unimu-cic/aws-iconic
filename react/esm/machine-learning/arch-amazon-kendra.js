@@ -38,4 +38,5 @@ function MachineLearningArchAmazonKendra({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAmazonKendra);
+ForwardRef.aliasName = "Amazon Kendra";
 export default ForwardRef;

@@ -41,4 +41,5 @@ function ApplicationIntegrationArchAmazonAppflow({
   }))));
 }
 const ForwardRef = React.forwardRef(ApplicationIntegrationArchAmazonAppflow);
+ForwardRef.aliasName = "Amazon Appflow";
 export default ForwardRef;

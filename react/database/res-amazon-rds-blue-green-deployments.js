@@ -29,4 +29,5 @@ function DatabaseResAmazonRdsBlueGreenDeployments({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseResAmazonRdsBlueGreenDeployments);
+ForwardRef.aliasName = "Amazon Rds Blue Green Deployments";
 module.exports = ForwardRef;

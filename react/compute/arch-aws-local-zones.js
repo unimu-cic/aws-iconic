@@ -38,4 +38,5 @@ function ComputeArchAwsLocalZones({
   })));
 }
 const ForwardRef = React.forwardRef(ComputeArchAwsLocalZones);
+ForwardRef.aliasName = "Aws Local Zones";
 module.exports = ForwardRef;

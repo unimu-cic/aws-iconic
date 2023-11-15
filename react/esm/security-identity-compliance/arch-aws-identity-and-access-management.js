@@ -38,4 +38,5 @@ function SecurityIdentityComplianceArchAwsIdentityAndAccessManagement({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceArchAwsIdentityAndAccessManagement);
+ForwardRef.aliasName = "Aws Identity And Access Management";
 export default ForwardRef;

@@ -38,4 +38,5 @@ function BlockchainArchAmazonQuantumLedgerDatabase({
   })));
 }
 const ForwardRef = React.forwardRef(BlockchainArchAmazonQuantumLedgerDatabase);
+ForwardRef.aliasName = "Amazon Quantum Ledger Database";
 export default ForwardRef;

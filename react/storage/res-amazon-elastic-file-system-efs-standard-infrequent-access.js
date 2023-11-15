@@ -29,4 +29,5 @@ function StorageResAmazonElasticFileSystemEfsStandardInfrequentAccess({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAmazonElasticFileSystemEfsStandardInfrequentAccess);
+ForwardRef.aliasName = "Amazon Elastic File System Efs Standard Infrequent Access";
 module.exports = ForwardRef;

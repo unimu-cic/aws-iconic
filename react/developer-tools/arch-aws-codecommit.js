@@ -38,4 +38,5 @@ function DeveloperToolsArchAwsCodecommit({
   })));
 }
 const ForwardRef = React.forwardRef(DeveloperToolsArchAwsCodecommit);
+ForwardRef.aliasName = "Aws Codecommit";
 module.exports = ForwardRef;

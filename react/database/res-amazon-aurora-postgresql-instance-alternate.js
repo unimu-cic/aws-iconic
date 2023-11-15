@@ -29,4 +29,5 @@ function DatabaseResAmazonAuroraPostgresqlInstanceAlternate({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseResAmazonAuroraPostgresqlInstanceAlternate);
+ForwardRef.aliasName = "Amazon Aurora Postgresql Instance Alternate";
 module.exports = ForwardRef;

@@ -41,4 +41,5 @@ function MachineLearningArchAmazonCodewhisperer({
   }))));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAmazonCodewhisperer);
+ForwardRef.aliasName = "Amazon Codewhisperer";
 export default ForwardRef;

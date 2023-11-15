@@ -42,4 +42,5 @@ function ComputeArchNiceDcv({
   }))));
 }
 const ForwardRef = React.forwardRef(ComputeArchNiceDcv);
+ForwardRef.aliasName = "Nice Dcv";
 module.exports = ForwardRef;

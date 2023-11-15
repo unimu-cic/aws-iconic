@@ -38,4 +38,5 @@ function ContainersArchAwsFargate({
   })));
 }
 const ForwardRef = React.forwardRef(ContainersArchAwsFargate);
+ForwardRef.aliasName = "Aws Fargate";
 export default ForwardRef;

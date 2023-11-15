@@ -29,4 +29,5 @@ function BusinessApplicationsResAmazonPinpointJourney({
   })));
 }
 const ForwardRef = React.forwardRef(BusinessApplicationsResAmazonPinpointJourney);
+ForwardRef.aliasName = "Amazon Pinpoint Journey";
 export default ForwardRef;

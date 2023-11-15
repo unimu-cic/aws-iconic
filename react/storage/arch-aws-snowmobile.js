@@ -38,4 +38,5 @@ function StorageArchAwsSnowmobile({
   })));
 }
 const ForwardRef = React.forwardRef(StorageArchAwsSnowmobile);
+ForwardRef.aliasName = "Aws Snowmobile";
 module.exports = ForwardRef;

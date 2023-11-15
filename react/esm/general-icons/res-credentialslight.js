@@ -29,4 +29,5 @@ function GeneralIconsResCredentialslight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResCredentialslight);
+ForwardRef.aliasName = "Credentialslight";
 export default ForwardRef;

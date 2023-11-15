@@ -29,4 +29,5 @@ function ApplicationIntegrationResAmazonEventbridgeSchema({
   })));
 }
 const ForwardRef = React.forwardRef(ApplicationIntegrationResAmazonEventbridgeSchema);
+ForwardRef.aliasName = "Amazon Eventbridge Schema";
 module.exports = ForwardRef;

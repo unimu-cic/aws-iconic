@@ -29,4 +29,5 @@ function GeneralIconsResToolkitlight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResToolkitlight);
+ForwardRef.aliasName = "Toolkitlight";
 module.exports = ForwardRef;

@@ -41,4 +41,5 @@ function MediaServicesArchAmazonInteractiveVideoService({
   }))));
 }
 const ForwardRef = React.forwardRef(MediaServicesArchAmazonInteractiveVideoService);
+ForwardRef.aliasName = "Amazon Interactive Video Service";
 module.exports = ForwardRef;

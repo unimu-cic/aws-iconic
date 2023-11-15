@@ -38,4 +38,5 @@ function DatabaseArchAmazonNeptune({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseArchAmazonNeptune);
+ForwardRef.aliasName = "Amazon Neptune";
 module.exports = ForwardRef;

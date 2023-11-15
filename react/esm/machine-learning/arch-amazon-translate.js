@@ -38,4 +38,5 @@ function MachineLearningArchAmazonTranslate({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAmazonTranslate);
+ForwardRef.aliasName = "Amazon Translate";
 export default ForwardRef;

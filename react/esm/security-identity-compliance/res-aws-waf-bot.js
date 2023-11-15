@@ -29,4 +29,5 @@ function SecurityIdentityComplianceResAwsWafBot({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceResAwsWafBot);
+ForwardRef.aliasName = "Aws Waf Bot";
 export default ForwardRef;

@@ -29,4 +29,5 @@ function StorageResAmazonSimpleStorageServiceS3MultiRegionAccessPoints({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAmazonSimpleStorageServiceS3MultiRegionAccessPoints);
+ForwardRef.aliasName = "Amazon Simple Storage Service S3 Multi Region Access Points";
 module.exports = ForwardRef;

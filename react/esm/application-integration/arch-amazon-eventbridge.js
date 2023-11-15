@@ -38,4 +38,5 @@ function ApplicationIntegrationArchAmazonEventbridge({
   })));
 }
 const ForwardRef = React.forwardRef(ApplicationIntegrationArchAmazonEventbridge);
+ForwardRef.aliasName = "Amazon Eventbridge";
 export default ForwardRef;

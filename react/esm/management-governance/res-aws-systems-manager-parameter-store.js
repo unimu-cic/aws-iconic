@@ -29,4 +29,5 @@ function ManagementGovernanceResAwsSystemsManagerParameterStore({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceResAwsSystemsManagerParameterStore);
+ForwardRef.aliasName = "Aws Systems Manager Parameter Store";
 export default ForwardRef;

@@ -29,4 +29,5 @@ function ApplicationIntegrationResAmazonEventbridgeCustomEventBus({
   })));
 }
 const ForwardRef = React.forwardRef(ApplicationIntegrationResAmazonEventbridgeCustomEventBus);
+ForwardRef.aliasName = "Amazon Eventbridge Custom Event Bus";
 module.exports = ForwardRef;

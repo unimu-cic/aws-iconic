@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotEcho({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotEcho);
+ForwardRef.aliasName = "Aws Iot Echo";
 module.exports = ForwardRef;

@@ -38,4 +38,5 @@ function DeveloperToolsArchAwsCodedeploy({
   })));
 }
 const ForwardRef = React.forwardRef(DeveloperToolsArchAwsCodedeploy);
+ForwardRef.aliasName = "Aws Codedeploy";
 export default ForwardRef;

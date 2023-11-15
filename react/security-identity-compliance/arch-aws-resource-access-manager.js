@@ -38,4 +38,5 @@ function SecurityIdentityComplianceArchAwsResourceAccessManager({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceArchAwsResourceAccessManager);
+ForwardRef.aliasName = "Aws Resource Access Manager";
 module.exports = ForwardRef;

@@ -47,4 +47,5 @@ function ContainersArchCategoryContainers({
   }))));
 }
 const ForwardRef = React.forwardRef(ContainersArchCategoryContainers);
+ForwardRef.aliasName = "Category Containers";
 module.exports = ForwardRef;

@@ -38,4 +38,5 @@ function ManagementGovernanceArchAwsHealthDashboard({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAwsHealthDashboard);
+ForwardRef.aliasName = "Aws Health Dashboard";
 module.exports = ForwardRef;

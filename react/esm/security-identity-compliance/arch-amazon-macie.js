@@ -38,4 +38,5 @@ function SecurityIdentityComplianceArchAmazonMacie({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceArchAmazonMacie);
+ForwardRef.aliasName = "Amazon Macie";
 export default ForwardRef;

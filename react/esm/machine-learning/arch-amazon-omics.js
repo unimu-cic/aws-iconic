@@ -38,4 +38,5 @@ function MachineLearningArchAmazonOmics({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAmazonOmics);
+ForwardRef.aliasName = "Amazon Omics";
 export default ForwardRef;

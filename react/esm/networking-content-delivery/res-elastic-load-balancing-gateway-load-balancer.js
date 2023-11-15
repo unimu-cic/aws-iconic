@@ -29,4 +29,5 @@ function NetworkingContentDeliveryResElasticLoadBalancingGatewayLoadBalancer({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryResElasticLoadBalancingGatewayLoadBalancer);
+ForwardRef.aliasName = "Elastic Load Balancing Gateway Load Balancer";
 export default ForwardRef;

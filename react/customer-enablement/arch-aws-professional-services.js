@@ -41,4 +41,5 @@ function CustomerEnablementArchAwsProfessionalServices({
   }))));
 }
 const ForwardRef = React.forwardRef(CustomerEnablementArchAwsProfessionalServices);
+ForwardRef.aliasName = "Aws Professional Services";
 module.exports = ForwardRef;

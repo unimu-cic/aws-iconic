@@ -29,4 +29,5 @@ function InternetOfThingsResAwsIotSitewiseAssetHierarchy({
   })));
 }
 const ForwardRef = React.forwardRef(InternetOfThingsResAwsIotSitewiseAssetHierarchy);
+ForwardRef.aliasName = "Aws Iot Sitewise Asset Hierarchy";
 export default ForwardRef;

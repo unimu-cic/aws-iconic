@@ -1,5 +1,5 @@
 const React = require("react");
-function ResAmazonLocationServiceTrack({
+function FrontEndWebMobileResAmazonLocationServiceTrack({
   title,
   titleId,
   ...props
@@ -28,5 +28,6 @@ function ResAmazonLocationServiceTrack({
     fill: "#DD344C"
   })));
 }
-const ForwardRef = React.forwardRef(ResAmazonLocationServiceTrack);
+const ForwardRef = React.forwardRef(FrontEndWebMobileResAmazonLocationServiceTrack);
+ForwardRef.aliasName = "Amazon Location Service Track";
 module.exports = ForwardRef;

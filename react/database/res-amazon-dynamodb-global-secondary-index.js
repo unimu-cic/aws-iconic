@@ -29,4 +29,5 @@ function DatabaseResAmazonDynamodbGlobalSecondaryIndex({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseResAmazonDynamodbGlobalSecondaryIndex);
+ForwardRef.aliasName = "Amazon Dynamodb Global Secondary Index";
 module.exports = ForwardRef;

@@ -29,4 +29,5 @@ function DatabaseResAmazonAuroraSqlServerInstance({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseResAmazonAuroraSqlServerInstance);
+ForwardRef.aliasName = "Amazon Aurora Sql Server Instance";
 export default ForwardRef;

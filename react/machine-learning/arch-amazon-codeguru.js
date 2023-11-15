@@ -38,4 +38,5 @@ function MachineLearningArchAmazonCodeguru({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningArchAmazonCodeguru);
+ForwardRef.aliasName = "Amazon Codeguru";
 module.exports = ForwardRef;

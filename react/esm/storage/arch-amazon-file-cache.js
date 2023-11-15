@@ -38,4 +38,5 @@ function StorageArchAmazonFileCache({
   })));
 }
 const ForwardRef = React.forwardRef(StorageArchAmazonFileCache);
+ForwardRef.aliasName = "Amazon File Cache";
 export default ForwardRef;

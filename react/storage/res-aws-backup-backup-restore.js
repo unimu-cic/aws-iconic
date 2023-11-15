@@ -29,4 +29,5 @@ function StorageResAwsBackupBackupRestore({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAwsBackupBackupRestore);
+ForwardRef.aliasName = "Aws Backup Backup Restore";
 module.exports = ForwardRef;

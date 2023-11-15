@@ -29,4 +29,5 @@ function DatabaseResAmazonRdsOptimizedWrites({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseResAmazonRdsOptimizedWrites);
+ForwardRef.aliasName = "Amazon Rds Optimized Writes";
 module.exports = ForwardRef;

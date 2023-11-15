@@ -29,4 +29,5 @@ function DatabaseResAmazonAuroraAmazonAuroraInstanceAlternate({
   })));
 }
 const ForwardRef = React.forwardRef(DatabaseResAmazonAuroraAmazonAuroraInstanceAlternate);
+ForwardRef.aliasName = "Amazon Aurora Amazon Aurora Instance Alternate";
 export default ForwardRef;

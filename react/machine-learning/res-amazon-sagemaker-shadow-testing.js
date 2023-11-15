@@ -29,4 +29,5 @@ function MachineLearningResAmazonSagemakerShadowTesting({
   })));
 }
 const ForwardRef = React.forwardRef(MachineLearningResAmazonSagemakerShadowTesting);
+ForwardRef.aliasName = "Amazon Sagemaker Shadow Testing";
 module.exports = ForwardRef;

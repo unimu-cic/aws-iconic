@@ -29,4 +29,5 @@ function StorageResAmazonSimpleStorageServiceS3OneZoneIa({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAmazonSimpleStorageServiceS3OneZoneIa);
+ForwardRef.aliasName = "Amazon Simple Storage Service S3 One Zone Ia";
 module.exports = ForwardRef;

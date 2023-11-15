@@ -41,4 +41,5 @@ function ComputeArchAwsThinkboxFrost({
   }))));
 }
 const ForwardRef = React.forwardRef(ComputeArchAwsThinkboxFrost);
+ForwardRef.aliasName = "Aws Thinkbox Frost";
 module.exports = ForwardRef;

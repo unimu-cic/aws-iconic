@@ -29,4 +29,5 @@ function SecurityIdentityComplianceResAwsDirectoryServiceAwsManagedMicrosoftAd({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceResAwsDirectoryServiceAwsManagedMicrosoftAd);
+ForwardRef.aliasName = "Aws Directory Service Aws Managed Microsoft Ad";
 module.exports = ForwardRef;

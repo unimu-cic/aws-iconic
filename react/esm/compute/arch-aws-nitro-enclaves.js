@@ -38,4 +38,5 @@ function ComputeArchAwsNitroEnclaves({
   })));
 }
 const ForwardRef = React.forwardRef(ComputeArchAwsNitroEnclaves);
+ForwardRef.aliasName = "Aws Nitro Enclaves";
 export default ForwardRef;

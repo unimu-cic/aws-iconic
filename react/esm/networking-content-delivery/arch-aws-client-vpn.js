@@ -38,4 +38,5 @@ function NetworkingContentDeliveryArchAwsClientVpn({
   })));
 }
 const ForwardRef = React.forwardRef(NetworkingContentDeliveryArchAwsClientVpn);
+ForwardRef.aliasName = "Aws Client Vpn";
 export default ForwardRef;

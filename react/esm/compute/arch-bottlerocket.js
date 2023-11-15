@@ -41,4 +41,5 @@ function ComputeArchBottlerocket({
   }))));
 }
 const ForwardRef = React.forwardRef(ComputeArchBottlerocket);
+ForwardRef.aliasName = "Bottlerocket";
 export default ForwardRef;

@@ -29,4 +29,5 @@ function StorageResAwsBackupVirtualMachineMonitor({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAwsBackupVirtualMachineMonitor);
+ForwardRef.aliasName = "Aws Backup Virtual Machine Monitor";
 module.exports = ForwardRef;

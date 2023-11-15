@@ -38,4 +38,5 @@ function CustomerEnablementArchAwsTrainingCertification({
   })));
 }
 const ForwardRef = React.forwardRef(CustomerEnablementArchAwsTrainingCertification);
+ForwardRef.aliasName = "Aws Training Certification";
 export default ForwardRef;

@@ -29,4 +29,5 @@ function AnalyticsResAmazonEmrEmrEngine({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAmazonEmrEmrEngine);
+ForwardRef.aliasName = "Amazon Emr Emr Engine";
 export default ForwardRef;

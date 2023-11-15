@@ -38,4 +38,5 @@ function ManagementGovernanceArchAwsLicenseManager({
   })));
 }
 const ForwardRef = React.forwardRef(ManagementGovernanceArchAwsLicenseManager);
+ForwardRef.aliasName = "Aws License Manager";
 module.exports = ForwardRef;

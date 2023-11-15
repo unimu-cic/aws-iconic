@@ -29,4 +29,5 @@ function SecurityIdentityComplianceResAwsIdentityAccessManagementRole({
   })));
 }
 const ForwardRef = React.forwardRef(SecurityIdentityComplianceResAwsIdentityAccessManagementRole);
+ForwardRef.aliasName = "Aws Identity Access Management Role";
 module.exports = ForwardRef;

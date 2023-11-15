@@ -47,4 +47,5 @@ function ServerlessArchCategoryServerless({
   }))));
 }
 const ForwardRef = React.forwardRef(ServerlessArchCategoryServerless);
+ForwardRef.aliasName = "Category Serverless";
 export default ForwardRef;

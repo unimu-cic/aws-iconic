@@ -29,4 +29,5 @@ function GeneralIconsResMetricslight({
   })));
 }
 const ForwardRef = React.forwardRef(GeneralIconsResMetricslight);
+ForwardRef.aliasName = "Metricslight";
 export default ForwardRef;

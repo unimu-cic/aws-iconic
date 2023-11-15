@@ -29,4 +29,5 @@ function AnalyticsResAmazonDatazoneDataProjects({
   })));
 }
 const ForwardRef = React.forwardRef(AnalyticsResAmazonDatazoneDataProjects);
+ForwardRef.aliasName = "Amazon Datazone Data Projects";
 module.exports = ForwardRef;

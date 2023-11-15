@@ -29,4 +29,5 @@ function StorageResAmazonElasticFileSystemEfsOneZone({
   })));
 }
 const ForwardRef = React.forwardRef(StorageResAmazonElasticFileSystemEfsOneZone);
+ForwardRef.aliasName = "Amazon Elastic File System Efs One Zone";
 module.exports = ForwardRef;
