@@ -1,6 +1,6 @@
 import { createElementVNode as _createElementVNode, openBlock as _openBlock, createElementBlock as _createElementBlock } from "vue"
 
-export default function render(_ctx, _cache) {
+function render(_ctx, _cache) {
   return (_openBlock(), _createElementBlock("svg", {
     width: "74px",
     height: "74px",
@@ -47,3 +47,5 @@ export default function render(_ctx, _cache) {
     ])
   ]))
 }
+render.aliasName = "Category Blockchain";
+export default render;

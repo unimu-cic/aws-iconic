@@ -26,3 +26,34 @@ module.exports.SecurityIdentityCompliance = require("./security-identity-complia
 module.exports.Storage = require("./storage")
 module.exports.ContactCenter = require("./contact-center")
 module.exports.Serverless = require("./serverless")
+
+export {
+ Group,
+ Analytics,
+ ApplicationIntegration,
+ Blockchain,
+ BusinessApplications,
+ CloudFinancialManagement,
+ Compute,
+ Containers,
+ CustomerEnablement,
+ Database,
+ DeveloperTools,
+ EndUserComputing,
+ FrontEndWebMobile,
+ Games,
+ GeneralIcons,
+ InternetOfThings,
+ MachineLearning,
+ ManagementGovernance,
+ MediaServices,
+ MigrationTransfer,
+ NetworkingContentDelivery,
+ QuantumTechnologies,
+ Robotics,
+ Satellite,
+ SecurityIdentityCompliance,
+ Storage,
+ ContactCenter,
+ Serverless, 
+}

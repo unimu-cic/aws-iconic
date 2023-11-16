@@ -1,3 +1,3 @@
 import type { FunctionalComponent, HTMLAttributes, VNodeProps } from 'vue';
-declare const ResAmazonLocationServiceMap: FunctionalComponent<HTMLAttributes & VNodeProps>;
-export default ResAmazonLocationServiceMap;
+declare const FrontEndWebMobileResAmazonLocationServiceMap: FunctionalComponent<HTMLAttributes & VNodeProps>;
+export default FrontEndWebMobileResAmazonLocationServiceMap;

@@ -4,5 +4,5 @@ export { default as CustomerEnablementArchAwsManagedServices } from './arch-aws-
 export { default as CustomerEnablementArchAwsProfessionalServices } from './arch-aws-professional-services.js'
 export { default as CustomerEnablementArchAwsSupport } from './arch-aws-support.js'
 export { default as CustomerEnablementArchAwsTrainingCertification } from './arch-aws-training-certification.js'
-export { default as CustomerEnablementArchAwsRepost } from './arch-aws-repost.js'
+export { default as CustomerEnablementArchAwsRepost } from './arch-aws-re:post.js'
 export { default as CustomerEnablementArchCategoryCustomerEnablement } from './arch-category-customer-enablement.js'

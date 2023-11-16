@@ -1,6 +1,6 @@
 import { createElementVNode as _createElementVNode, openBlock as _openBlock, createElementBlock as _createElementBlock } from "vue"
 
-export default function render(_ctx, _cache) {
+function render(_ctx, _cache) {
   return (_openBlock(), _createElementBlock("svg", {
     width: "48px",
     height: "48px",
@@ -25,3 +25,5 @@ export default function render(_ctx, _cache) {
     ])
   ]))
 }
+render.aliasName = "Amazon Route 53 Resolver Dns Firewall";
+export default render;

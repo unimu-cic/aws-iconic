@@ -1,3 +1,3 @@
 import type { FunctionalComponent, HTMLAttributes, VNodeProps } from 'vue';
-declare const ArchAwsElementalAppliancesSoftware: FunctionalComponent<HTMLAttributes & VNodeProps>;
-export default ArchAwsElementalAppliancesSoftware;
+declare const MediaServicesArchAwsElementalAppliancesSoftware: FunctionalComponent<HTMLAttributes & VNodeProps>;
+export default MediaServicesArchAwsElementalAppliancesSoftware;
